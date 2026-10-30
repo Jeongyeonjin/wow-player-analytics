@@ -164,7 +164,7 @@ pip install pandas numpy matplotlib scikit-learn lightgbm pyarrow
 ```
 
 1. Kaggle에서 데이터를 내려받아 이 폴더에 `wowah_data.csv`, `zones.csv`, `locations.csv`, `location_coords.csv`를 둡니다.
-2. 각 스크립트 상단의 `DATA_DIR`을 본인 경로로 바꿉니다.
+2. 스크립트는 자기가 있는 폴더를 기준으로 데이터를 찾으므로 경로를 따로 바꿀 필요가 없습니다.
 3. `update_project/` 스크립트는 이 폴더에서 `python update_project/<스크립트>.py`로 실행합니다 (`churn_project/step6/clean.pkl` 필요).
 
 ## 기술 스택

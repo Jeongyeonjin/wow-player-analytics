@@ -18,7 +18,7 @@ v1 대비 변경점
      - 목요일 정기점검, 현지 일정(춘절 등) 캘린더 반영, z 임계값 5로 상향
      - 10월 8~10일 코호트 심층 분석 (하루살이 비율, ID 재매핑 매칭 테스트)
 
-결과: D:/code/game/archive/anomaly_output_v2
+결과: anomaly_output_v2/ (이 스크립트 폴더 기준)
 필요 패키지: pandas, numpy, matplotlib / 선택: scikit-learn, statsmodels
 """
 
@@ -36,7 +36,7 @@ if not SHOW_PLOTS:
     matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-DATA_DIR = Path("D:/code/game/archive")
+DATA_DIR = (Path(__file__).resolve().parent if "__file__" in globals() else Path.cwd())  # 이 스크립트가 있는 폴더
 RAW_FILE = DATA_DIR / "wowah_data.csv"
 ZONES_FILE = DATA_DIR / "zones.csv"
 OUT_DIR = DATA_DIR / "anomaly_output_v2"

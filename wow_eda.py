@@ -21,7 +21,7 @@ import pandas as pd
 import matplotlib
 import matplotlib.pyplot as plt
 
-DATA_DIR = Path("D:/code/game/archive")      # 데이터 폴더
+DATA_DIR = (Path(__file__).resolve().parent if "__file__" in globals() else Path.cwd())  # 데이터 폴더 = 이 스크립트가 있는 폴더
 RAW_FILE = DATA_DIR / "wowah_data.csv"        # 원본 로그 (gzip이어도 자동 인식)
 ZONES_FILE = DATA_DIR / "zones.csv"
 LOCATIONS_FILE = DATA_DIR / "locations.csv"

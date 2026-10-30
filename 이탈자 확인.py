@@ -29,7 +29,7 @@ if not SHOW_PLOTS:
     matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-DATA_DIR = Path("D:/code/game/archive")
+DATA_DIR = (Path(__file__).resolve().parent if "__file__" in globals() else Path.cwd())  # 이 스크립트가 있는 폴더
 RAW_FILE = DATA_DIR / "wowah_data.csv"
 ZONES_FILE = DATA_DIR / "zones.csv"
 OUT_DIR = DATA_DIR / "funnel_output"

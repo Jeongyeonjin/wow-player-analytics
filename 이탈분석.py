@@ -20,7 +20,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.metrics import roc_auc_score
 from sklearn.inspection import permutation_importance
 
-BASE = Path("D:/code/game/archive/churn_project")
+BASE = (Path(__file__).resolve().parent if "__file__" in globals() else Path.cwd()) / "churn_project"
 OUT_DIR = BASE / "step4"
 TRAIN_END = pd.Timestamp("2008-06-01")
 
