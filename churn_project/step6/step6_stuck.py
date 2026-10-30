@@ -16,7 +16,7 @@ from pathlib import Path
 import matplotlib; matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-BASE = Path(os.environ["HOME"]) / "mnt/archive"
+BASE = (Path(__file__).resolve().parent if "__file__" in globals() else Path.cwd()).parents[1]  # archive 폴더 (이 스크립트 기준 두 단계 위)
 OUT = BASE / "churn_project/step6"
 DATA_END = pd.Timestamp("2008-10-07 23:59:59")
 CREATE_CUTOFF = DATA_END.normalize() - pd.Timedelta(days=60)

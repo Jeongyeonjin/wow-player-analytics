@@ -98,7 +98,7 @@
 ### 이탈 예측 모델
 - **시점 기준 분리:** 6월 이전 생성 캐릭터(4,852명)로 학습, 이후(2,188명)로 평가. 무작위 분할보다 실제 운영 상황에 가까움
 - 기준선(첫 세션 길이만) ROC-AUC 0.676 → **로지스틱 회귀 0.785**, LightGBM 0.775
-- **더 어려운 조건으로 재평가 (`이탈분석.py`):** 성능이 "이미 안 돌아온 사람을 맞힌 것"에서만 나온 건 아닌지 확인하려고, 72시간 안에 다시 접속한 유저만으로 재학습 → AUC 0.730. 운영팀이 실제로 개입할 수 있는 집단에서도 예측력이 남아 있음
+- **더 어려운 조건으로 재평가 (`churn_project/step4/step4b.py`):** 성능이 "이미 안 돌아온 사람을 맞힌 것"에서만 나온 건 아닌지 확인하려고, 72시간 안에 다시 접속한 유저만으로 재학습 → AUC 0.730. 운영팀이 실제로 개입할 수 있는 집단에서도 예측력이 남아 있음
 - 위험 점수 하위 10%는 개입 없이도 59%가 남고, 상위 10%는 2%만 남음 → **온보딩 개입은 중간 위험 구간이 대상**
 
 ![모델 평가](churn_project/step4/01_model_eval.png)
@@ -145,27 +145,26 @@
 ├── wow_eda.py                 # 전체 EDA
 ├── wow.py                     # 이상 캐릭터 탐지 v2
 ├── 이탈자 확인.py              # 신규 캐릭터 이탈 퍼널 (초기 버전 → funnel_output/)
-├── 이탈분석.py                 # 이탈 예측 재평가 (재접속 유저만)
 ├── wowah_sample.csv           # 데이터 샘플
 ├── eda_output/                # EDA 결과
 ├── anomaly_output/            # 이상탐지 v1 결과
 ├── anomaly_output_v2/         # 이상탐지 v2 결과
 ├── funnel_output/             # 이탈 퍼널 초기 버전 결과
-├── churn_project/             # 이탈 분석 step1~6 (정제 → 코호트 → 퍼널 → 예측 → 원인 → 막힘 구간)
+├── churn_project/             # 이탈 분석 step1~6 스크립트·결과 (정제 → 세션 → 코호트·퍼널 → 예측 → 원인·A/B → 막힘 구간)
 └── update_project/            # 업데이트 효과 분석
     └── v2/                    # 보완 분석 (결론 수정)
 ```
-<!-- TODO: churn_project step1~5 스크립트 추가 필요 -->
 
 ## 실행
 
 ```bash
-pip install pandas numpy matplotlib scikit-learn lightgbm pyarrow
+pip install pandas numpy scipy matplotlib scikit-learn lightgbm pyarrow
 ```
 
 1. Kaggle에서 데이터를 내려받아 이 폴더에 `wowah_data.csv`, `zones.csv`, `locations.csv`, `location_coords.csv`를 둡니다.
 2. 스크립트는 자기가 있는 폴더를 기준으로 데이터를 찾으므로 경로를 따로 바꿀 필요가 없습니다.
-3. `update_project/` 스크립트는 이 폴더에서 `python update_project/<스크립트>.py`로 실행합니다 (`churn_project/step6/clean.pkl` 필요).
+3. `churn_project/`는 `step1/step1.py`부터 순서대로 실행합니다 (앞 단계 결과를 다음 단계가 읽음).
+4. `update_project/` 스크립트는 이 폴더에서 `python update_project/<스크립트>.py`로 실행합니다 (`churn_project/step6/clean.pkl` 필요).
 
 ## 기술 스택
 

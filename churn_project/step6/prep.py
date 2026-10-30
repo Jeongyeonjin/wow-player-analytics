@@ -2,7 +2,7 @@
 """STEP 6 준비: 원본 CSV -> STEP1~3과 같은 규칙으로 정제·생애 분리·신규 코호트 재구성 (parquet 없이 pickle 저장)"""
 import pandas as pd, numpy as np, time, os
 from pathlib import Path
-BASE = Path(os.environ["HOME"]) / "mnt/archive"
+BASE = (Path(__file__).resolve().parent if "__file__" in globals() else Path.cwd()).parents[1]  # archive 폴더 (이 스크립트 기준 두 단계 위)
 OUT = BASE / "churn_project/step6"
 t0 = time.time()
 chunks = []
