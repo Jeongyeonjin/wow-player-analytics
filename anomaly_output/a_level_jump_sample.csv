@@ -1,0 +1,9 @@
+﻿char,timestamp,prev_ts,prev_level,level,d_min,race,charclass,zone,Type,Min_req_level
+17445,2008-12-02 06:13:57,2008-12-02 06:00:40,23.0,55,13.283333333333333,Blood Elf,Death Knight,Plaguelands: The Scarlet Enclave,Zone,1
+40383,2008-12-25 19:45:26,2008-12-25 19:26:07,2.0,55,19.316666666666666,Blood Elf,Death Knight,Plaguelands: The Scarlet Enclave,Zone,1
+54000,2008-12-23 12:28:02,2008-12-23 12:15:56,1.0,55,12.1,Blood Elf,Death Knight,Plaguelands: The Scarlet Enclave,Zone,1
+54517,2008-02-20 20:15:47,2008-02-20 19:54:27,33.0,70,21.333333333333332,Blood Elf,Rogue,Shattrath City,Zone,1
+60438,2008-12-06 16:36:24,2008-12-06 16:23:44,16.0,55,12.666666666666666,Blood Elf,Death Knight,Plaguelands: The Scarlet Enclave,Zone,1
+86532,2008-11-19 20:56:13,2008-11-19 20:37:27,1.0,55,18.766666666666666,Undead,Death Knight,Plaguelands: The Scarlet Enclave,Zone,1
+86999,2008-11-21 10:57:23,2008-11-21 10:45:57,1.0,55,11.433333333333334,Blood Elf,Death Knight,Plaguelands: The Scarlet Enclave,Zone,1
+87434,2008-11-23 09:48:10,2008-11-23 09:37:02,1.0,55,11.133333333333333,Undead,Death Knight,Plaguelands: The Scarlet Enclave,Zone,1

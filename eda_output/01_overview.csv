@@ -1,0 +1,11 @@
+﻿,value
+rows,10826734
+unique_chars,37354
+unique_guilds (excl. -1),419
+unique_zones,158
+start,2008-01-01 00:02:04
+end,2008-12-31 23:50:18
+days_covered,352
+null_cells,0
+duplicate_rows (char+timestamp),3557
+guild_member_ratio,0.8435

@@ -1,0 +1,23 @@
+# 원본 데이터 (Kaggle에서 내려받기, README 참고)
+wowah_data.csv
+zones.csv
+locations.csv
+location_coords.csv
+
+# 대용량 중간 산출물 (스크립트로 다시 생성 가능)
+*.parquet
+*.pkl
+*.zip
+
+# 큰 결과 테이블 (스크립트로 다시 생성 가능)
+anomaly_output/B_char_features_all.csv
+anomaly_output/B_char_labels.csv
+anomaly_output_v2/B_char_features_all.csv
+anomaly_output_v2/B_char_labels.csv
+eda_output/02_character_table.csv
+funnel_output/cohort_lives.csv
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

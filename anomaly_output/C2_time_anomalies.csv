@@ -1,0 +1,104 @@
+﻿date,metric,z,direction,dau,new_chars,gone_chars,explained_by,explained
+2008-01-01,DAU,12.12,spike,2512.0,2512.0,67.0,,False
+2008-01-01,new_chars,95.91,spike,2512.0,2512.0,67.0,,False
+2008-01-02,new_chars,11.15,spike,2175.0,600.0,62.0,,False
+2008-01-05,new_chars,4.74,spike,2424.0,408.0,61.0,,False
+2008-01-06,new_chars,3.82,spike,2491.0,345.0,85.0,,False
+2008-01-10,DAU,-4.65,drop,1953.0,116.0,35.0,,False
+2008-01-10,new_chars,-4.32,drop,1953.0,116.0,35.0,,False
+2008-01-24,DAU,-16.46,drop,1589.0,56.0,26.0,,False
+2008-01-24,new_chars,-3.91,drop,1589.0,56.0,26.0,,False
+2008-02-09,DAU,-8.27,drop,2156.0,124.0,68.0,,False
+2008-02-10,DAU,-6.41,drop,2313.0,94.0,70.0,,False
+2008-02-11,DAU,5.82,spike,2461.0,144.0,91.0,,False
+2008-02-28,DAU,9.02,spike,2422.0,100.0,73.0,,False
+2008-03-02,DAU,-7.57,drop,2365.0,79.0,66.0,,False
+2008-03-20,DAU,12.35,spike,2046.0,52.0,54.0,,False
+2008-03-27,DAU,-13.66,drop,723.0,11.0,12.0,Patch 2.4 (Fury of the Sunwell),True
+2008-03-27,gone_chars,-3.06,drop,723.0,11.0,12.0,Patch 2.4 (Fury of the Sunwell),True
+2008-03-28,DAU,-10.93,drop,1743.0,60.0,43.0,Patch 2.4 (Fury of the Sunwell),True
+2008-04-07,DAU,-8.88,drop,1773.0,88.0,38.0,adjacent to missing day,True
+2008-04-10,DAU,23.73,spike,1906.0,76.0,53.0,,False
+2008-04-17,DAU,11.94,spike,1882.0,49.0,44.0,,False
+2008-04-18,DAU,5.6,spike,2017.0,56.0,49.0,,False
+2008-04-25,DAU,11.52,spike,2032.0,63.0,65.0,,False
+2008-04-30,DAU,-21.17,drop,1341.0,35.0,53.0,adjacent to missing day,True
+2008-05-06,DAU,-14.48,drop,1507.0,65.0,23.0,adjacent to missing day,True
+2008-05-09,DAU,13.59,spike,2043.0,67.0,51.0,,False
+2008-05-16,DAU,-10.71,drop,1357.0,27.0,29.0,adjacent to missing day,True
+2008-05-19,DAU,-7.24,drop,1693.0,71.0,43.0,adjacent to missing day,True
+2008-05-20,DAU,3.5,spike,2035.0,74.0,57.0,,False
+2008-06-01,DAU,11.98,spike,2304.0,91.0,87.0,,False
+2008-06-08,DAU,23.28,spike,2308.0,77.0,96.0,,False
+2008-06-13,DAU,-35.69,drop,672.0,6.0,13.0,adjacent to missing day,True
+2008-06-18,DAU,-3.43,drop,1725.0,82.0,38.0,adjacent to missing day,True
+2008-06-21,gone_chars,3.32,spike,2121.0,82.0,102.0,,False
+2008-06-22,DAU,-17.3,drop,866.0,18.0,24.0,,False
+2008-06-23,DAU,-18.35,drop,1249.0,52.0,21.0,,False
+2008-06-29,DAU,11.06,spike,2158.0,71.0,82.0,,False
+2008-07-22,gone_chars,4.15,spike,1940.0,132.0,149.0,,False
+2008-07-22,new_chars,3.28,spike,1940.0,132.0,149.0,,False
+2008-09-13,DAU,3.59,spike,2031.0,90.0,90.0,,False
+2008-09-21,DAU,-4.03,drop,1985.0,61.0,88.0,,False
+2008-09-28,gone_chars,3.27,spike,2187.0,95.0,142.0,,False
+2008-09-29,DAU,8.44,spike,2077.0,79.0,110.0,,False
+2008-10-04,DAU,-4.98,drop,1787.0,45.0,93.0,,False
+2008-10-05,DAU,-14.84,drop,1783.0,45.0,87.0,,False
+2008-10-06,DAU,-9.3,drop,1586.0,43.0,79.0,,False
+2008-10-08,DAU,42.4,spike,3159.0,1521.0,1204.0,,False
+2008-10-08,gone_chars,50.43,spike,3159.0,1521.0,1204.0,,False
+2008-10-08,new_chars,59.72,spike,3159.0,1521.0,1204.0,,False
+2008-10-09,DAU,23.41,spike,2446.0,832.0,782.0,,False
+2008-10-09,gone_chars,28.17,spike,2446.0,832.0,782.0,,False
+2008-10-09,new_chars,28.51,spike,2446.0,832.0,782.0,,False
+2008-10-10,DAU,15.77,spike,2315.0,431.0,490.0,,False
+2008-10-10,gone_chars,13.02,spike,2315.0,431.0,490.0,,False
+2008-10-10,new_chars,10.3,spike,2315.0,431.0,490.0,,False
+2008-10-11,DAU,-11.49,drop,1607.0,193.0,239.0,Patch 3.0.2 (WotLK pre-patch),True
+2008-10-12,gone_chars,19.15,spike,2408.0,583.0,608.0,Patch 3.0.2 (WotLK pre-patch),True
+2008-10-12,new_chars,17.13,spike,2408.0,583.0,608.0,Patch 3.0.2 (WotLK pre-patch),True
+2008-10-13,gone_chars,11.83,spike,2028.0,492.0,467.0,Patch 3.0.2 (WotLK pre-patch),True
+2008-10-13,new_chars,13.04,spike,2028.0,492.0,467.0,Patch 3.0.2 (WotLK pre-patch),True
+2008-10-14,gone_chars,4.88,spike,1749.0,298.0,333.0,Patch 3.0.2 (WotLK pre-patch),True
+2008-10-14,new_chars,4.32,spike,1749.0,298.0,333.0,Patch 3.0.2 (WotLK pre-patch),True
+2008-10-16,new_chars,3.37,spike,1620.0,273.0,277.0,Patch 3.0.2 (WotLK pre-patch),True
+2008-10-19,DAU,-9.02,drop,1888.0,127.0,191.0,,False
+2008-10-20,DAU,-7.68,drop,1585.0,125.0,167.0,,False
+2008-10-21,gone_chars,-3.84,drop,1564.0,71.0,117.0,,False
+2008-10-22,gone_chars,-3.37,drop,1569.0,76.0,122.0,,False
+2008-10-23,DAU,-14.3,drop,1078.0,106.0,158.0,,False
+2008-10-24,DAU,8.6,spike,1970.0,118.0,220.0,,False
+2008-10-24,gone_chars,3.22,spike,1970.0,118.0,220.0,,False
+2008-10-25,DAU,6.51,spike,2119.0,111.0,187.0,,False
+2008-10-30,gone_chars,-3.37,drop,1590.0,40.0,77.0,,False
+2008-11-02,gone_chars,3.48,spike,1964.0,147.0,196.0,,False
+2008-11-02,new_chars,3.55,spike,1964.0,147.0,196.0,,False
+2008-11-03,DAU,-3.15,drop,1645.0,102.0,142.0,,False
+2008-11-06,DAU,-4.27,drop,1366.0,32.0,56.0,,False
+2008-11-06,gone_chars,-3.48,drop,1366.0,32.0,56.0,,False
+2008-11-16,gone_chars,5.5,spike,1933.0,137.0,255.0,WotLK release,True
+2008-11-17,gone_chars,3.01,spike,1651.0,102.0,222.0,,False
+2008-11-18,DAU,-31.82,drop,569.0,16.0,56.0,,False
+2008-11-18,gone_chars,-5.66,drop,569.0,16.0,56.0,,False
+2008-11-18,new_chars,-5.44,drop,569.0,16.0,56.0,,False
+2008-11-19,new_chars,15.92,spike,1558.0,491.0,149.0,,False
+2008-11-20,new_chars,4.09,spike,1640.0,228.0,131.0,,False
+2008-11-21,DAU,5.54,spike,1910.0,246.0,176.0,,False
+2008-11-21,new_chars,4.9,spike,1910.0,246.0,176.0,,False
+2008-11-22,new_chars,3.15,spike,2033.0,213.0,193.0,,False
+2008-11-23,DAU,12.81,spike,2507.0,296.0,419.0,,False
+2008-11-23,gone_chars,12.61,spike,2507.0,296.0,419.0,,False
+2008-11-23,new_chars,6.52,spike,2507.0,296.0,419.0,,False
+2008-11-24,DAU,5.03,spike,1983.0,182.0,242.0,,False
+2008-11-24,gone_chars,4.0,spike,1983.0,182.0,242.0,,False
+2008-11-27,DAU,-6.95,drop,1492.0,89.0,82.0,,False
+2008-11-27,gone_chars,-3.84,drop,1492.0,89.0,82.0,,False
+2008-11-29,gone_chars,7.16,spike,2160.0,215.0,294.0,,False
+2008-11-29,new_chars,4.14,spike,2160.0,215.0,294.0,,False
+2008-11-30,gone_chars,4.98,spike,2119.0,151.0,252.0,,False
+2008-12-05,DAU,-4.91,drop,1719.0,93.0,127.0,,False
+2008-12-06,gone_chars,3.89,spike,2139.0,138.0,224.0,,False
+2008-12-07,gone_chars,5.81,spike,2186.0,120.0,261.0,,False
+2008-12-09,DAU,-5.73,drop,1651.0,73.0,131.0,,False
+2008-12-17,DAU,3.05,spike,1897.0,74.0,163.0,,False
+2008-12-21,DAU,-5.42,drop,1886.0,54.0,195.0,,False

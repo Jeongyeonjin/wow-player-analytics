@@ -1,0 +1,14 @@
+﻿,cohort,baseline
+new_chars,2784.0,128.0
+gone_chars,2476.0,165.0
+new_and_gone_same_window,2260.0,69.0
+new: only 1 day observed,0.7334770114942529,0.5234375
+new: first_level median,1.0,1.0
+new: first_level > 10 share,0.008261494252873564,0.0859375
+new: guild at first sight,0.2607758620689655,0.0546875
+new: median play hours,0.3333333333333333,1.0
+new: id_collision share,0.015445402298850575,0.015625
+gone_old (existing chars that vanished),216.0,96.0
+gone_old in guild,111.0,33.0
+"gone_old matched to new (race,class,guild,lv±1)",31.0,0.0
+match rate,0.27927927927927926,0.0

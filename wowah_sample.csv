@@ -1,0 +1,3001 @@
+char,level,race,charclass,zone,guild,timestamp
+62444,70,Blood Elf,Paladin,Shattrath City,62,08/16/08 08:52:35
+53791,70,Tauren,Druid,Shattrath City,204,01/22/08 16:07:18
+26450,44,Tauren,Druid,Tanaris,204,04/19/08 21:45:26
+67884,70,Blood Elf,Hunter,Warsong Gulch,282,09/17/08 18:51:19
+64656,70,Blood Elf,Paladin,Hall of Legends,103,07/12/08 22:46:14
+67222,59,Blood Elf,Paladin,Eastern Plaguelands,307,02/25/08 12:19:06
+45025,37,Blood Elf,Paladin,Desolace,257,04/24/08 14:46:21
+22937,70,Orc,Rogue,Netherstorm,243,01/08/08 01:01:47
+68995,70,Tauren,Warrior,Isle of Quel'Danas,103,11/13/08 21:06:51
+74183,43,Tauren,Druid,Stranglethorn Vale,282,09/07/08 15:08:29
+61283,70,Undead,Priest,Zangarmarsh,282,03/12/08 23:40:36
+58271,70,Orc,Hunter,Coilfang: The Slave Pens,243,02/23/08 00:21:44
+74719,61,Tauren,Druid,Alterac Valley,408,08/24/08 14:55:36
+34600,70,Blood Elf,Paladin,Serpentshrine Cavern,62,03/14/08 22:12:09
+73644,15,Blood Elf,Priest,Ghostlands,282,09/27/08 12:09:20
+69786,29,Tauren,Shaman,Silverpine Forest,282,08/16/08 17:19:03
+12056,70,Troll,Hunter,Blade's Edge Mountains,459,11/07/08 10:07:44
+69687,64,Blood Elf,Warlock,Terokkar Forest,62,04/27/08 11:37:18
+11615,61,Blood Elf,Paladin,Eastern Plaguelands,4,02/03/08 14:46:54
+57744,70,Blood Elf,Hunter,Alterac Valley,-1,06/19/08 22:08:58
+42712,16,Blood Elf,Paladin,Ghostlands,-1,03/22/08 00:10:59
+35413,70,Blood Elf,Paladin,The Blood Furnace,243,07/20/08 17:42:19
+13888,70,Troll,Priest,Tempest Keep,103,06/28/08 22:23:13
+64670,40,Blood Elf,Hunter,Stranglethorn Vale,174,01/15/08 00:09:56
+665,70,Tauren,Hunter,Ruins of Lordaeron,53,10/17/08 17:36:52
+36,70,Orc,Shaman,Karazhan,101,01/17/08 22:57:19
+405,70,Undead,Warrior,Karazhan,204,04/19/08 13:17:56
+508,80,Tauren,Druid,The Storm Peaks,62,12/08/08 11:33:05
+72831,34,Blood Elf,Mage,Hillsbrad Foothills,-1,09/01/08 13:31:03
+29706,70,Tauren,Druid,Netherstorm,282,04/02/08 17:34:01
+63191,70,Tauren,Druid,Shattrath City,103,07/07/08 16:16:14
+14404,60,Troll,Hunter,Winterspring,273,02/15/08 21:13:48
+73086,70,Blood Elf,Hunter,Hellfire Peninsula,103,10/06/08 22:20:34
+16416,70,Troll,Priest,Karazhan,104,04/26/08 15:06:22
+73192,70,Orc,Shaman,Karazhan,101,10/03/08 05:47:31
+1540,70,Tauren,Druid,Karazhan,103,03/02/08 00:16:38
+410,70,Orc,Hunter,Nagrand,53,05/22/08 19:35:50
+22908,70,Undead,Warlock,Terokkar Forest,19,01/30/08 01:59:01
+55090,70,Blood Elf,Priest,The Mechanar,-1,06/21/08 16:48:47
+35583,70,Blood Elf,Rogue,Black Temple,103,05/12/08 22:48:26
+60618,70,Undead,Mage,Auchindoun: Shadow Labyrinth,62,01/15/08 23:49:31
+59195,46,Undead,Priest,Stranglethorn Vale,368,08/20/08 03:58:57
+144,70,Tauren,Druid,Old Hillsbrad Foothills,204,07/08/08 21:55:33
+35324,70,Blood Elf,Priest,Warsong Gulch,220,02/19/08 23:56:07
+59489,70,Blood Elf,Priest,Karazhan,189,10/03/08 05:11:03
+73131,1,Blood Elf,Mage,Silvermoon City,-1,06/19/08 20:37:22
+61089,70,Blood Elf,Mage,Mulgore,189,02/18/08 19:07:02
+39062,67,Blood Elf,Paladin,Zangarmarsh,9,05/26/08 20:26:53
+64273,11,Undead,Warlock,Tirisfal Glades,-1,07/04/08 21:01:27
+30953,70,Undead,Warlock,Karazhan,204,03/05/08 20:20:46
+22928,70,Tauren,Warrior,Serpentshrine Cavern,103,02/18/08 22:44:17
+22653,70,Tauren,Druid,Hyjal,62,06/23/08 23:47:30
+203,70,Troll,Mage,Karazhan,101,05/24/08 00:55:32
+77579,39,Blood Elf,Paladin,Warsong Gulch,282,10/05/08 16:08:21
+65066,40,Blood Elf,Priest,Stranglethorn Vale,167,01/18/08 14:10:10
+77073,24,Blood Elf,Hunter,Silverpine Forest,437,09/15/08 01:49:47
+1111,60,Tauren,Druid,Hellfire Peninsula,-1,05/09/08 17:06:29
+67374,37,Blood Elf,Hunter,Silverpine Forest,103,04/28/08 22:35:39
+73986,46,Blood Elf,Mage,Dustwallow Marsh,282,07/17/08 15:06:40
+70805,70,Blood Elf,Rogue,The Shattered Halls,251,10/24/08 23:38:44
+68700,65,Orc,Hunter,Terokkar Forest,161,05/23/08 20:33:44
+42801,63,Tauren,Warrior,Orgrimmar,103,02/12/08 06:33:24
+47368,70,Blood Elf,Paladin,Isle of Quel'Danas,281,07/04/08 10:04:00
+23767,1,Tauren,Druid,Orgrimmar,218,01/18/08 08:37:35
+68826,40,Blood Elf,Mage,Stranglethorn Vale,-1,03/22/08 19:01:15
+36047,70,Blood Elf,Rogue,Serpentshrine Cavern,103,05/19/08 20:47:21
+16156,70,Blood Elf,Mage,Shattrath City,103,08/10/08 20:39:00
+7087,70,Troll,Mage,Shattrath City,35,03/25/08 22:20:04
+54965,80,Orc,Warrior,Drak'Tharon Keep,103,12/06/08 20:52:09
+22361,70,Orc,Hunter,Shattrath City,103,05/09/08 00:18:11
+71723,75,Blood Elf,Warlock,Orgrimmar,478,12/15/08 23:05:18
+1222,70,Undead,Warrior,Shattrath City,282,03/09/08 09:10:53
+35708,44,Blood Elf,Paladin,Tanaris,389,11/08/08 02:51:58
+63189,70,Blood Elf,Hunter,Alterac Valley,266,02/05/08 08:13:40
+66926,53,Troll,Hunter,Undercity,174,02/23/08 12:37:49
+38065,42,Blood Elf,Paladin,Zul'Farrak,266,01/17/08 01:30:34
+554,71,Undead,Mage,Borean Tundra,23,12/11/08 16:19:20
+46519,46,Blood Elf,Mage,Tanaris,-1,02/18/08 13:26:05
+27239,35,Orc,Warrior,Arathi Highlands,115,08/31/08 15:57:35
+55320,55,Undead,Warlock,Felwood,161,04/27/08 10:55:56
+23528,70,Orc,Warrior,Razorfen Kraul,115,09/05/08 21:18:04
+55090,80,Blood Elf,Priest,Naxxramas,103,12/19/08 23:41:21
+24193,70,Troll,Hunter,Arathi Basin,-1,07/04/08 02:21:52
+85969,31,Blood Elf,Hunter,Undercity,488,12/14/08 13:03:14
+26350,70,Tauren,Warrior,Shattrath City,35,01/03/08 22:23:07
+50698,70,Blood Elf,Paladin,Razorfen Kraul,104,11/16/08 12:28:42
+22254,70,Undead,Warrior,Shattrath City,-1,06/29/08 09:06:31
+22210,80,Troll,Mage,Dragonblight,204,12/05/08 15:38:57
+78405,65,Undead,Priest,The Underbog,161,12/12/08 23:36:37
+29073,70,Undead,Mage,Shattrath City,169,05/10/08 22:56:39
+6387,70,Troll,Hunter,Shadowmoon Valley,101,03/04/08 00:09:03
+49788,70,Blood Elf,Paladin,Orgrimmar,-1,08/05/08 17:58:16
+61245,21,Blood Elf,Hunter,Eversong Woods,297,01/13/08 21:50:22
+84156,80,Undead,Death Knight,Zul'Drak,424,12/07/08 00:22:23
+38372,45,Blood Elf,Rogue,Tanaris,282,03/01/08 21:38:43
+27711,70,Undead,Priest,Nagrand,103,06/26/08 13:07:15
+3320,70,Undead,Rogue,Nagrand,161,10/09/08 18:28:48
+72689,70,Blood Elf,Paladin,Tanaris,438,10/02/08 15:41:35
+40754,70,Blood Elf,Mage,The Temple of Atal'Hakkar,189,09/10/08 19:51:49
+55783,70,Undead,Warrior,Shadowfang Keep,-1,02/03/08 14:05:35
+22474,70,Troll,Hunter,Terokkar Forest,53,02/06/08 14:01:56
+40483,70,Blood Elf,Paladin,Orgrimmar,62,02/08/08 21:33:54
+22132,70,Undead,Warrior,Nagrand,101,06/10/08 12:58:32
+60769,70,Blood Elf,Priest,Shadowmoon Valley,-1,08/04/08 12:15:48
+37228,70,Blood Elf,Priest,Karazhan,9,08/15/08 22:53:57
+10266,70,Undead,Mage,Arathi Basin,103,09/29/08 15:29:09
+53228,70,Blood Elf,Mage,Shattrath City,281,01/03/08 01:26:38
+43280,70,Blood Elf,Paladin,Orgrimmar,62,07/14/08 23:26:16
+67336,28,Blood Elf,Warlock,Blackfathom Deeps,-1,02/06/08 21:52:50
+74794,53,Tauren,Druid,Searing Gorge,429,09/05/08 20:38:35
+15465,70,Troll,Mage,Arathi Basin,103,01/05/08 00:52:56
+73590,62,Blood Elf,Hunter,Zangarmarsh,282,09/16/08 15:12:42
+68221,70,Tauren,Druid,Gruul's Lair,161,08/09/08 20:56:01
+63658,70,Tauren,Druid,Auchindoun: Shadow Labyrinth,204,01/27/08 00:30:19
+33257,70,Orc,Shaman,Karazhan,62,07/25/08 01:39:04
+47321,30,Blood Elf,Warlock,Thousand Needles,115,06/08/08 10:58:34
+45444,70,Troll,Hunter,Blade's Edge Mountains,53,03/12/08 19:40:01
+72610,31,Blood Elf,Paladin,Gnomeregan,365,06/08/08 16:58:23
+37133,70,Blood Elf,Warlock,Arathi Basin,282,08/06/08 19:39:29
+68544,70,Tauren,Warrior,Isle of Quel'Danas,79,09/22/08 21:07:23
+67978,70,Orc,Hunter,Felwood,-1,06/04/08 13:35:43
+47517,39,Tauren,Druid,Thunder Bluff,-1,05/08/08 18:35:30
+71788,59,Orc,Hunter,Swamp of Sorrows,336,10/19/08 10:05:04
+27103,37,Tauren,Druid,Thunder Bluff,103,09/08/08 21:28:28
+73759,52,Blood Elf,Paladin,Orgrimmar,365,07/08/08 16:06:25
+21861,70,Tauren,Warrior,Terokkar Forest,101,03/24/08 09:49:19
+52103,70,Blood Elf,Hunter,Blade's Edge Arena,282,04/20/08 11:07:22
+79076,1,Troll,Rogue,Durotar,460,10/08/08 22:07:40
+26752,70,Tauren,Warrior,Elwynn Forest,104,10/04/08 21:49:15
+84625,46,Undead,Warlock,Stranglethorn Vale,478,11/30/08 20:20:06
+86261,77,Orc,Death Knight,Sholazar Basin,-1,12/12/08 01:02:23
+10450,70,Tauren,Druid,Shattrath City,53,02/23/08 00:22:35
+640,70,Undead,Warlock,Mana-Tombs,266,06/01/08 20:04:59
+22058,70,Undead,Priest,Karazhan,103,07/07/08 16:17:31
+59776,69,Orc,Hunter,Nagrand,-1,09/23/08 14:37:00
+30974,70,Troll,Rogue,Mana-Tombs,103,01/28/08 00:20:34
+58815,80,Blood Elf,Mage,Dalaran,189,12/28/08 13:28:28
+63302,70,Undead,Rogue,Mana-Tombs,161,01/14/08 17:09:27
+31407,70,Orc,Hunter,Blade's Edge Mountains,101,06/21/08 20:15:33
+63423,70,Troll,Priest,Terokkar Forest,293,06/03/08 14:47:15
+22655,70,Undead,Warlock,Alterac Valley,103,02/04/08 02:06:02
+77636,3,Blood Elf,Rogue,Eversong Woods,-1,09/06/08 12:10:38
+56692,65,Tauren,Druid,Terokkar Forest,-1,01/05/08 15:42:13
+72439,70,Blood Elf,Hunter,Warsong Gulch,365,08/14/08 14:43:12
+22408,70,Undead,Priest,Shattrath City,104,09/28/08 02:08:55
+1102,70,Undead,Priest,Orgrimmar,459,11/03/08 15:18:30
+45491,70,Blood Elf,Mage,Thousand Needles,79,03/22/08 23:02:18
+22249,70,Undead,Mage,Ruins of Lordaeron,204,02/02/08 15:45:32
+58987,70,Undead,Rogue,Netherstorm,103,04/13/08 15:03:54
+89189,2,Undead,Warrior,Tirisfal Glades,-1,12/07/08 23:08:22
+32135,74,Tauren,Warrior,Borean Tundra,282,12/07/08 18:33:46
+62446,70,Blood Elf,Mage,Undercity,204,06/18/08 16:39:16
+22995,70,Undead,Mage,Blade's Edge Arena,161,06/11/08 23:57:56
+1450,79,Undead,Warlock,Icecrown,5,11/21/08 08:15:37
+35505,70,Blood Elf,Paladin,Warsong Gulch,161,03/09/08 19:01:41
+72884,3,Orc,Warrior,Durotar,-1,06/20/08 11:24:43
+22382,70,Troll,Mage,Terokkar Forest,103,01/26/08 09:41:23
+1834,70,Tauren,Druid,Shattrath City,101,05/25/08 22:45:57
+40754,70,Blood Elf,Mage,Undercity,189,08/09/08 17:49:47
+22023,70,Undead,Mage,Stranglethorn Vale,101,08/29/08 10:50:13
+24373,70,Tauren,Druid,Shattrath City,35,06/07/08 20:27:01
+24925,70,Tauren,Hunter,Arathi Basin,101,10/30/08 20:03:03
+54869,70,Undead,Mage,Shadowmoon Valley,35,03/01/08 08:58:29
+72480,17,Blood Elf,Hunter,The Barrens,282,05/24/08 09:28:45
+60628,70,Undead,Warlock,Karazhan,204,06/19/08 23:46:51
+65242,70,Troll,Rogue,Shadowmoon Valley,-1,03/01/08 10:07:10
+53229,70,Blood Elf,Warlock,Magisters' Terrace,281,08/16/08 15:04:12
+84,70,Tauren,Warrior,Serpentshrine Cavern,103,02/11/08 22:43:33
+65231,30,Blood Elf,Warlock,Hillsbrad Foothills,282,01/05/08 23:04:21
+72424,64,Blood Elf,Mage,Zangarmarsh,-1,10/01/08 23:31:02
+35863,66,Blood Elf,Priest,Nagrand,-1,03/12/08 00:42:00
+37093,70,Blood Elf,Hunter,Darkshore,290,05/19/08 13:48:21
+70566,34,Undead,Warlock,Arathi Highlands,6,04/19/08 17:25:35
+63099,80,Blood Elf,Hunter,Azjol-Nerub,478,12/29/08 02:25:43
+14341,70,Troll,Mage,Orgrimmar,103,09/02/08 20:59:47
+64875,70,Troll,Hunter,Shattrath City,282,03/13/08 17:19:46
+85549,37,Tauren,Hunter,Stranglethorn Vale,478,11/30/08 22:42:03
+72043,62,Blood Elf,Mage,Hellfire Peninsula,174,06/19/08 15:48:19
+86356,80,Blood Elf,Death Knight,Icecrown,4,12/25/08 22:12:40
+72087,38,Tauren,Druid,Desolace,103,06/26/08 00:54:26
+27900,70,Tauren,Druid,Shattrath City,35,07/07/08 00:05:55
+35977,80,Blood Elf,Warlock,The Culling of Stratholme,412,12/19/08 21:45:00
+21785,70,Undead,Warlock,Ruins of Lordaeron,282,03/03/08 21:20:02
+182,1,Troll,Hunter,Durotar,-1,02/19/08 06:34:24
+62444,70,Blood Elf,Paladin,Alterac Valley,161,03/28/08 20:06:33
+53785,70,Blood Elf,Priest,Shadowmoon Valley,-1,10/05/08 11:01:50
+12068,65,Tauren,Warrior,Nagrand,220,04/27/08 02:24:25
+70846,56,Troll,Mage,Swamp of Sorrows,344,06/20/08 21:45:27
+75945,50,Tauren,Druid,The Hinterlands,426,08/23/08 16:45:30
+45387,70,Blood Elf,Paladin,Arathi Basin,-1,09/13/08 21:31:47
+35490,47,Blood Elf,Paladin,Stranglethorn Vale,-1,04/30/08 14:35:52
+3052,70,Troll,Warrior,Arathi Basin,5,01/06/08 17:22:25
+65512,47,Blood Elf,Paladin,Orgrimmar,79,02/24/08 08:29:25
+61510,77,Tauren,Hunter,Dalaran,-1,12/06/08 18:49:43
+1286,70,Undead,Warrior,Karazhan,104,03/22/08 20:10:36
+22065,70,Undead,Mage,The Steamvault,174,08/11/08 18:19:26
+24721,70,Undead,Priest,Shattrath City,103,08/22/08 00:26:55
+67862,70,Blood Elf,Mage,Netherstorm,205,11/04/08 10:12:32
+56063,65,Blood Elf,Mage,Mana-Tombs,161,03/16/08 00:51:37
+61769,66,Blood Elf,Hunter,Nagrand,167,01/06/08 11:54:35
+508,70,Tauren,Druid,Terokkar Forest,103,05/29/08 18:04:01
+16825,70,Undead,Warlock,Hellfire Peninsula,-1,06/29/08 10:26:05
+28270,70,Tauren,Druid,Zangarmarsh,156,05/21/08 01:24:45
+22150,80,Undead,Priest,Naxxramas,103,12/26/08 20:14:27
+70505,70,Undead,Rogue,Zangarmarsh,79,08/21/08 20:27:01
+17982,70,Undead,Mage,Black Temple,104,03/18/08 22:00:46
+67152,70,Blood Elf,Mage,Serpentshrine Cavern,101,07/27/08 22:36:44
+61812,70,Undead,Warrior,Shadowmoon Valley,282,04/22/08 09:06:02
+53826,70,Tauren,Druid,Orgrimmar,205,01/27/08 09:20:36
+15465,70,Troll,Mage,Black Temple,103,03/19/08 22:30:05
+78265,10,Blood Elf,Hunter,Eversong Woods,-1,09/21/08 04:32:07
+59801,55,Blood Elf,Rogue,Felwood,101,10/06/08 20:20:02
+68365,70,Undead,Rogue,Arathi Basin,290,03/07/08 19:10:41
+67914,37,Blood Elf,Warlock,Stranglethorn Vale,282,02/28/08 14:18:33
+36236,70,Undead,Mage,Orgrimmar,103,08/09/08 19:26:46
+21891,70,Troll,Warrior,Alterac Valley,104,07/13/08 10:54:35
+460,70,Undead,Mage,Silverpine Forest,4,08/13/08 02:17:12
+67043,68,Blood Elf,Rogue,Deadwind Pass,205,03/16/08 22:02:04
+20770,70,Tauren,Hunter,The Mechanar,104,07/30/08 23:42:27
+61893,70,Blood Elf,Warlock,Warsong Gulch,103,10/17/08 17:30:00
+25635,1,Blood Elf,Mage,Eversong Woods,-1,09/13/08 14:43:08
+58271,70,Orc,Hunter,The Steamvault,250,04/15/08 22:25:08
+55538,49,Blood Elf,Priest,Shattrath City,379,09/20/08 22:10:03
+22954,70,Troll,Hunter,Tempest Keep,204,01/21/08 20:28:00
+60168,70,Blood Elf,Warlock,Coilfang: The Slave Pens,5,01/14/08 18:31:10
+1449,70,Undead,Warrior,The Underbog,5,01/03/08 01:34:55
+67739,70,Tauren,Shaman,Thunder Bluff,161,09/28/08 10:37:25
+6241,70,Orc,Hunter,Terokkar Forest,101,07/30/08 16:12:09
+60086,65,Blood Elf,Hunter,Terokkar Forest,161,01/04/08 13:04:23
+804,60,Troll,Shaman,Hellfire Peninsula,-1,02/28/08 01:36:57
+75402,64,Undead,Rogue,Terokkar Forest,282,08/15/08 00:30:55
+1321,70,Tauren,Druid,The Underbog,4,03/22/08 14:09:03
+65724,70,Blood Elf,Warlock,Isle of Quel'Danas,251,07/25/08 14:46:56
+62444,70,Blood Elf,Paladin,Hyjal,103,10/30/08 21:33:10
+398,70,Undead,Warlock,Orgrimmar,204,03/14/08 01:41:01
+68606,70,Undead,Rogue,Blade's Edge Mountains,358,10/30/08 20:04:35
+61001,42,Blood Elf,Hunter,Badlands,-1,01/16/08 10:30:01
+62102,48,Blood Elf,Mage,Stranglethorn Vale,-1,02/10/08 12:16:19
+1872,70,Orc,Warrior,Shattrath City,104,09/08/08 23:17:04
+53911,70,Blood Elf,Mage,Terokkar Forest,103,11/15/08 02:31:54
+12386,70,Undead,Priest,Coilfang: The Slave Pens,161,06/21/08 11:38:14
+73731,15,Tauren,Warrior,Thunder Bluff,-1,08/31/08 22:58:16
+70887,28,Orc,Hunter,The Barrens,-1,09/10/08 00:37:39
+45552,80,Tauren,Warrior,Naxxramas,204,12/25/08 19:42:48
+71598,65,Blood Elf,Priest,Hellfire Peninsula,502,12/24/08 00:27:53
+34396,80,Blood Elf,Priest,Dalaran,104,12/22/08 07:40:12
+64824,70,Undead,Warrior,Shadowmoon Valley,53,02/15/08 11:35:25
+86344,80,Tauren,Death Knight,Dalaran,103,12/25/08 18:39:12
+182,1,Troll,Hunter,Durotar,-1,01/21/08 05:17:39
+22440,70,Undead,Warlock,Shattrath City,103,04/25/08 22:06:27
+67368,46,Orc,Hunter,Stranglethorn Vale,103,02/29/08 17:55:25
+27388,70,Undead,Warlock,The Mechanar,103,05/25/08 15:26:31
+67275,11,Undead,Priest,Undercity,-1,01/30/08 20:15:13
+27547,70,Undead,Priest,Terokkar Forest,103,09/18/08 00:48:44
+23118,70,Undead,Priest,Orgrimmar,204,04/12/08 03:27:15
+34216,70,Orc,Warrior,The Barrens,53,08/25/08 19:15:04
+63528,70,Tauren,Warrior,Coilfang: The Slave Pens,103,05/10/08 16:05:42
+27846,70,Tauren,Warrior,Netherstorm,103,03/12/08 20:09:20
+65681,68,Blood Elf,Rogue,Terokkar Forest,35,03/15/08 19:12:03
+113,70,Tauren,Druid,The Mechanar,19,01/09/08 00:12:13
+67569,70,Blood Elf,Rogue,Borean Tundra,103,11/24/08 00:54:11
+36159,70,Blood Elf,Mage,Arathi Basin,103,07/20/08 17:23:44
+67851,70,Undead,Priest,Orgrimmar,35,05/11/08 20:37:36
+7758,70,Tauren,Druid,Zangarmarsh,79,01/17/08 23:48:19
+36804,70,Blood Elf,Paladin,Gruul's Lair,-1,07/29/08 22:35:26
+89640,65,Blood Elf,Death Knight,Eversong Woods,-1,12/18/08 11:39:39
+72186,66,Blood Elf,Hunter,Nagrand,424,10/13/08 20:30:13
+61748,69,Blood Elf,Rogue,Netherstorm,365,08/17/08 02:22:04
+67862,70,Blood Elf,Mage,Zangarmarsh,205,10/07/08 23:10:23
+21957,70,Troll,Priest,Hellfire Peninsula,103,06/19/08 01:57:07
+12930,70,Undead,Priest,Alterac Valley,300,02/10/08 12:44:57
+4071,58,Blood Elf,Death Knight,Plaguelands: The Scarlet Enclave,-1,11/23/08 08:08:33
+22964,70,Undead,Mage,Netherstorm,-1,01/17/08 19:59:29
+66302,70,Blood Elf,Hunter,Terokkar Forest,-1,04/25/08 12:37:39
+15781,48,Tauren,Druid,Feralas,-1,09/16/08 22:17:08
+66358,70,Undead,Mage,The Mechanar,307,03/30/08 14:15:11
+63098,45,Blood Elf,Paladin,Tanaris,361,05/27/08 19:25:58
+75690,70,Blood Elf,Warlock,Terokkar Forest,189,08/31/08 11:01:55
+18003,76,Orc,Hunter,Grizzly Hills,161,12/31/08 23:14:54
+53911,70,Blood Elf,Mage,The Mechanar,103,05/08/08 18:38:59
+69992,43,Blood Elf,Rogue,Stranglethorn Vale,282,07/05/08 09:42:27
+46491,70,Blood Elf,Paladin,Terokkar Forest,103,11/15/08 04:43:09
+60583,70,Blood Elf,Paladin,Utgarde Keep,189,11/21/08 21:47:08
+22659,70,Tauren,Druid,Shattrath City,101,09/11/08 13:18:51
+35072,70,Blood Elf,Paladin,Ghostlands,161,11/11/08 19:42:26
+27432,70,Tauren,Shaman,Hyjal,101,07/30/08 23:13:28
+32135,70,Tauren,Warrior,Hellfire Ramparts,282,09/10/08 00:08:47
+398,70,Undead,Warlock,Arathi Basin,204,03/30/08 00:05:05
+25084,70,Undead,Rogue,Deadwind Pass,104,08/01/08 22:44:03
+70118,52,Blood Elf,Priest,Blackrock Mountain,350,06/05/08 22:28:39
+82835,64,Tauren,Warrior,Terokkar Forest,251,10/21/08 06:55:22
+66211,61,Blood Elf,Hunter,Zangarmarsh,165,03/31/08 23:28:03
+29599,70,Tauren,Warrior,Zangarmarsh,-1,10/29/08 19:43:04
+26235,80,Tauren,Shaman,Dragonblight,53,12/22/08 23:49:18
+34375,70,Blood Elf,Warlock,Shattrath City,103,01/29/08 19:09:58
+60250,70,Blood Elf,Mage,Scholomance,101,01/23/08 12:50:03
+65046,70,Orc,Warrior,Shattrath City,282,06/07/08 21:55:50
+56181,70,Orc,Warrior,Alterac Valley,216,02/02/08 23:03:35
+23557,70,Undead,Priest,Hellfire Peninsula,103,01/29/08 17:28:37
+22025,70,Orc,Shaman,Hyjal,103,03/01/08 21:16:00
+2970,70,Troll,Hunter,Shattrath City,79,01/29/08 01:47:57
+83218,64,Blood Elf,Rogue,Zangarmarsh,424,12/11/08 23:15:36
+30970,70,Tauren,Warrior,Netherstorm,101,01/17/08 19:58:03
+72732,38,Tauren,Druid,Orgrimmar,365,06/12/08 21:46:30
+73599,70,Blood Elf,Warlock,Karazhan,365,10/03/08 15:51:11
+9085,70,Orc,Shaman,Shattrath City,101,06/03/08 23:36:15
+63650,62,Blood Elf,Paladin,Hellfire Peninsula,291,03/25/08 05:01:37
+27396,67,Undead,Rogue,Nagrand,101,07/28/08 16:34:07
+85442,75,Tauren,Warrior,Howling Fjord,101,12/20/08 22:49:50
+113,79,Tauren,Druid,Sholazar Basin,-1,12/14/08 17:43:28
+19350,70,Troll,Hunter,Shattrath City,204,02/01/08 21:24:38
+74794,20,Tauren,Druid,Wailing Caverns,-1,07/20/08 14:09:29
+61883,70,Undead,Rogue,Stranglethorn Vale,291,01/12/08 19:55:23
+9457,70,Undead,Mage,Blade's Edge Arena,104,08/02/08 01:33:43
+24747,39,Undead,Rogue,Stranglethorn Vale,-1,08/18/08 21:17:52
+76341,32,Blood Elf,Paladin,Stonetalon Mountains,436,09/04/08 23:40:38
+22421,70,Undead,Rogue,Terokkar Forest,250,05/23/08 18:46:20
+72130,44,Undead,Rogue,Stranglethorn Vale,358,09/18/08 17:38:53
+51138,70,Blood Elf,Paladin,Isle of Quel'Danas,189,05/10/08 05:18:47
+28845,70,Tauren,Druid,Netherstorm,282,05/13/08 20:45:42
+75717,15,Undead,Warlock,Silverpine Forest,-1,08/02/08 23:23:20
+62850,35,Undead,Priest,Stranglethorn Vale,103,02/13/08 03:54:30
+25363,70,Undead,Priest,Orgrimmar,204,10/11/08 14:18:46
+62175,70,Tauren,Shaman,Alterac Valley,53,08/26/08 10:37:53
+60245,70,Blood Elf,Priest,Tanaris,101,02/07/08 00:14:04
+72024,61,Blood Elf,Paladin,Razorfen Downs,174,06/18/08 15:10:10
+67852,39,Orc,Shaman,Stranglethorn Vale,-1,03/20/08 19:27:53
+51738,70,Blood Elf,Priest,Durotar,104,06/25/08 01:24:24
+85140,21,Blood Elf,Hunter,Orgrimmar,101,11/12/08 23:56:42
+20006,70,Orc,Warrior,Nagrand,103,10/06/08 11:05:02
+1774,70,Undead,Rogue,Eye of the Storm,5,02/10/08 01:25:05
+64786,70,Tauren,Warrior,Shattrath City,103,05/12/08 14:45:29
+21278,70,Undead,Mage,Western Plaguelands,5,01/16/08 10:59:17
+61736,70,Tauren,Warrior,Nagrand,104,07/08/08 21:44:44
+61421,70,Orc,Rogue,Tempest Keep,103,01/20/08 23:46:34
+70425,70,Orc,Warrior,Tirisfal Glades,53,05/31/08 19:22:49
+23865,70,Tauren,Shaman,Serpentshrine Cavern,103,05/10/08 22:05:54
+58432,70,Blood Elf,Hunter,Shadowmoon Valley,53,04/13/08 10:35:37
+162,70,Tauren,Warrior,Karazhan,79,09/13/08 22:27:44
+66926,70,Troll,Hunter,Magisters' Terrace,104,03/30/08 11:25:35
+23506,70,Undead,Mage,Shattrath City,174,06/25/08 00:12:12
+23273,70,Orc,Hunter,The Barrens,103,07/29/08 19:42:50
+68805,37,Tauren,Shaman,Stranglethorn Vale,300,04/01/08 20:33:30
+1058,70,Orc,Rogue,Nagrand,103,04/22/08 21:34:47
+40793,70,Tauren,Druid,Tempest Keep,103,02/28/08 22:36:49
+636,70,Troll,Rogue,Isle of Quel'Danas,35,08/09/08 00:16:16
+69075,68,Tauren,Druid,Blade's Edge Mountains,-1,07/05/08 00:41:09
+44349,70,Blood Elf,Warlock,Orgrimmar,-1,08/01/08 15:45:53
+22476,70,Undead,Mage,Ashenvale,35,07/08/08 18:55:56
+77633,80,Undead,Rogue,Icecrown,161,12/05/08 19:58:51
+62995,70,Blood Elf,Hunter,Alterac Valley,293,10/21/08 21:19:30
+25193,70,Undead,Mage,Arathi Basin,103,02/03/08 19:25:16
+29896,60,Troll,Hunter,Hellfire Peninsula,167,04/02/08 22:34:10
+22659,70,Tauren,Druid,Shattrath City,101,09/10/08 22:11:12
+820,70,Tauren,Shaman,Netherstorm,103,01/03/08 01:52:54
+518,70,Undead,Priest,Zangarmarsh,19,01/23/08 20:48:19
+21891,70,Troll,Warrior,Nagrand,104,02/10/08 21:14:24
+1774,70,Undead,Rogue,Karazhan,103,07/07/08 14:36:58
+17982,70,Undead,Mage,Shattrath City,104,02/26/08 01:17:53
+38531,44,Blood Elf,Warlock,Dustwallow Marsh,161,02/17/08 11:05:38
+7282,70,Troll,Mage,Hyjal,62,05/06/08 23:48:32
+36630,70,Tauren,Hunter,Shattrath City,79,02/27/08 00:07:25
+65574,57,Blood Elf,Priest,Orgrimmar,205,02/07/08 20:33:47
+72065,7,Undead,Mage,Tirisfal Glades,-1,05/10/08 09:18:11
+37568,70,Blood Elf,Mage,Shadowmoon Valley,204,01/25/08 12:53:34
+67862,70,Blood Elf,Mage,Hillsbrad Foothills,205,10/20/08 22:09:26
+22503,70,Tauren,Hunter,Shattrath City,101,09/09/08 01:28:55
+48085,67,Blood Elf,Rogue,Blade's Edge Mountains,53,03/20/08 00:41:26
+57741,70,Undead,Warlock,The Blood Furnace,189,01/21/08 17:28:36
+5717,80,Blood Elf,Paladin,Howling Fjord,282,12/13/08 15:15:13
+45989,66,Troll,Hunter,Terokkar Forest,315,10/31/08 13:02:32
+63939,70,Blood Elf,Hunter,Alterac Valley,5,02/04/08 02:46:57
+37084,53,Blood Elf,Paladin,Un'Goro Crater,282,01/03/08 11:45:41
+22366,70,Tauren,Druid,Terokkar Forest,-1,02/07/08 18:41:03
+73301,70,Blood Elf,Warlock,Shattrath City,161,10/05/08 16:59:58
+12571,70,Undead,Mage,Serpentshrine Cavern,103,04/28/08 21:13:55
+61283,70,Undead,Priest,Karazhan,104,05/22/08 20:25:45
+40793,70,Tauren,Druid,Hellfire Ramparts,103,07/06/08 17:34:59
+75255,70,Troll,Hunter,Shattrath City,161,09/17/08 00:48:26
+71701,66,Tauren,Shaman,Nagrand,35,06/03/08 15:26:34
+22083,65,Tauren,Hunter,Nagrand,104,05/10/08 19:47:49
+73342,12,Tauren,Druid,Thunder Bluff,365,07/20/08 20:09:30
+20995,70,Undead,Mage,Nagrand,53,01/26/08 13:01:18
+46652,22,Tauren,Druid,Thunder Bluff,-1,10/12/08 17:56:53
+52092,70,Blood Elf,Hunter,Shadowmoon Valley,243,01/13/08 18:41:00
+66603,49,Blood Elf,Hunter,The Temple of Atal'Hakkar,282,02/17/08 12:16:05
+12254,18,Orc,Warlock,Orgrimmar,-1,03/13/08 14:18:09
+22254,70,Undead,Warrior,Eye of the Storm,101,07/27/08 01:45:32
+21161,70,Tauren,Shaman,Karazhan,282,10/30/08 23:00:45
+35429,70,Blood Elf,Priest,Gruul's Lair,53,01/06/08 00:25:28
+88440,31,Blood Elf,Mage,Orgrimmar,251,12/13/08 18:45:33
+26350,70,Tauren,Warrior,Magisters' Terrace,161,05/10/08 17:35:28
+57420,70,Undead,Warlock,Blade's Edge Mountains,282,03/24/08 23:30:30
+34869,53,Blood Elf,Paladin,The Hinterlands,53,06/08/08 05:40:55
+22785,70,Orc,Warrior,Shattrath City,103,01/08/08 15:11:26
+23939,70,Undead,Warrior,Hellfire Peninsula,189,04/25/08 13:56:29
+50102,60,Troll,Hunter,Hellfire Peninsula,-1,01/28/08 05:57:12
+71482,70,Undead,Warlock,Shattrath City,161,08/13/08 03:18:04
+1625,20,Undead,Rogue,Silverpine Forest,-1,05/07/08 18:18:24
+62820,70,Blood Elf,Priest,Isle of Quel'Danas,336,10/01/08 17:51:30
+12566,70,Blood Elf,Priest,Nagrand,167,02/11/08 13:06:30
+55759,39,Blood Elf,Warlock,Stranglethorn Vale,282,01/04/08 13:33:54
+22923,70,Undead,Mage,The Shattered Halls,291,01/01/08 20:34:34
+78595,8,Blood Elf,Paladin,Eversong Woods,-1,09/28/08 14:49:38
+15111,70,Orc,Rogue,Shattrath City,103,02/12/08 22:52:55
+22476,70,Undead,Mage,Eye of the Storm,35,07/02/08 18:48:49
+54676,70,Orc,Hunter,Shattrath City,-1,06/10/08 20:56:08
+31900,80,Undead,Warlock,Dalaran,103,12/09/08 11:46:50
+25657,70,Undead,Warlock,Shattrath City,189,09/27/08 06:09:28
+65547,70,Blood Elf,Paladin,Netherstorm,204,01/01/08 20:55:37
+23749,63,Blood Elf,Paladin,Terokkar Forest,282,03/02/08 06:19:09
+23487,75,Tauren,Hunter,Dragonblight,101,12/01/08 19:43:23
+68923,70,Undead,Rogue,Shattrath City,79,07/20/08 12:00:50
+18827,70,Undead,Warlock,Karazhan,189,05/10/08 16:26:54
+27347,70,Undead,Rogue,Sunwell Plateau,103,09/02/08 21:50:24
+49944,70,Orc,Warrior,Orgrimmar,35,03/26/08 01:18:40
+19258,70,Troll,Hunter,Arathi Basin,205,09/20/08 21:20:56
+49721,70,Blood Elf,Warlock,Shadowmoon Valley,101,05/31/08 21:16:50
+35977,70,Blood Elf,Warlock,Orgrimmar,103,02/02/08 07:17:15
+63796,52,Blood Elf,Warlock,Orgrimmar,266,02/02/08 14:46:42
+63796,70,Blood Elf,Warlock,The Mechanar,266,09/09/08 22:40:21
+420,80,Undead,Rogue,The Storm Peaks,101,11/30/08 04:19:32
+23145,70,Undead,Priest,Karazhan,174,05/29/08 22:15:17
+57941,67,Blood Elf,Mage,Blade's Edge Mountains,336,08/09/08 16:28:23
+4198,70,Undead,Priest,Karazhan,53,05/24/08 17:07:23
+63432,66,Blood Elf,Paladin,Undercity,53,05/07/08 04:18:36
+22245,70,Troll,Shaman,Serpentshrine Cavern,104,01/14/08 21:59:10
+37660,70,Tauren,Druid,Hall of Legends,-1,03/28/08 21:13:33
+57702,80,Undead,Warlock,Dalaran,104,12/30/08 14:07:44
+69029,43,Blood Elf,Paladin,Dustwallow Marsh,365,07/05/08 18:16:58
+20770,70,Tauren,Hunter,Shattrath City,161,03/02/08 23:18:27
+53992,62,Orc,Hunter,Hellfire Peninsula,161,09/06/08 15:38:57
+67926,70,Orc,Warrior,Sethekk Halls,103,02/29/08 23:55:40
+62982,57,Tauren,Warrior,Thunder Bluff,282,03/17/08 11:48:53
+62995,80,Blood Elf,Hunter,Icecrown,293,12/08/08 12:16:41
+72238,1,Troll,Rogue,Durotar,-1,05/12/08 17:06:53
+11100,19,Orc,Hunter,The Barrens,-1,10/21/08 20:54:56
+867,62,Orc,Warlock,Hellfire Peninsula,5,10/04/08 15:47:54
+30589,70,Undead,Priest,Black Temple,101,06/23/08 20:38:53
+18145,70,Undead,Rogue,The Botanica,103,10/27/08 22:57:10
+52733,70,Blood Elf,Mage,The Black Morass,53,01/18/08 23:21:17
+37994,70,Tauren,Warrior,Alterac Valley,204,03/21/08 22:09:04
+15115,70,Undead,Priest,Gruul's Lair,204,03/23/08 16:40:38
+12639,64,Orc,Rogue,Terokkar Forest,9,06/02/08 01:33:43
+35502,41,Blood Elf,Warlock,Dustwallow Marsh,216,02/19/08 01:26:17
+46803,70,Blood Elf,Priest,Shattrath City,101,05/14/08 23:30:46
+34598,70,Blood Elf,Paladin,Old Hillsbrad Foothills,204,07/04/08 14:14:28
+28497,70,Tauren,Shaman,Netherstorm,103,01/14/08 20:18:15
+61066,70,Blood Elf,Paladin,Shattrath City,191,02/23/08 15:49:37
+74545,21,Undead,Rogue,Ashenvale,-1,08/31/08 07:52:01
+62110,9,Undead,Warlock,Durotar,281,03/02/08 16:09:26
+70739,21,Undead,Warlock,Undercity,-1,05/10/08 04:47:43
+72042,34,Blood Elf,Hunter,Arathi Highlands,282,05/15/08 21:14:38
+84421,5,Orc,Warlock,Durotar,-1,10/22/08 18:15:18
+62999,70,Blood Elf,Rogue,Shattrath City,101,08/09/08 20:29:13
+56586,64,Troll,Hunter,Hellfire Peninsula,103,10/26/08 10:16:09
+23699,70,Tauren,Warrior,Hillsbrad Foothills,5,01/10/08 01:29:44
+291,70,Undead,Mage,Alterac Valley,103,10/05/08 22:47:44
+37611,69,Troll,Rogue,Orgrimmar,282,05/22/08 14:05:00
+25968,70,Undead,Warlock,Isle of Quel'Danas,104,05/28/08 23:04:57
+46748,70,Blood Elf,Paladin,Karazhan,103,10/03/08 15:31:15
+24897,70,Troll,Priest,Blade's Edge Mountains,103,01/11/08 22:11:15
+5527,70,Tauren,Warrior,Borean Tundra,-1,11/22/08 15:28:37
+68293,28,Tauren,Druid,Ashenvale,189,04/16/08 12:05:29
+50280,70,Orc,Hunter,Terokkar Forest,35,02/04/08 23:40:45
+62330,20,Orc,Warlock,Orgrimmar,241,03/21/08 10:57:52
+68375,66,Blood Elf,Paladin,Hellfire Peninsula,104,07/09/08 22:28:43
+23173,42,Undead,Mage,Dustwallow Marsh,124,03/19/08 17:50:12
+22218,70,Orc,Hunter,Hyjal,101,07/21/08 23:08:39
+24388,70,Tauren,Hunter,Warsong Gulch,300,03/16/08 20:29:27
+39208,70,Blood Elf,Paladin,Orgrimmar,250,06/10/08 05:00:01
+72857,70,Orc,Shaman,Arathi Basin,4,09/10/08 10:58:08
+69190,20,Blood Elf,Mage,Ghostlands,-1,03/10/08 00:30:47
+61105,70,Blood Elf,Priest,Nagrand,165,01/12/08 15:43:07
+11589,70,Undead,Priest,Eye of the Storm,189,02/24/08 21:18:43
+73449,70,Blood Elf,Paladin,Isle of Quel'Danas,189,07/28/08 17:25:19
+22049,70,Undead,Rogue,Shattrath City,101,04/25/08 09:16:42
+22716,70,Tauren,Warrior,Black Temple,101,08/29/08 21:38:32
+67610,44,Undead,Warlock,Stranglethorn Vale,282,05/25/08 15:35:39
+28453,70,Troll,Hunter,Isle of Quel'Danas,5,04/19/08 16:25:10
+1195,70,Tauren,Shaman,Blade's Edge Mountains,19,02/12/08 21:33:36
+18133,54,Tauren,Shaman,The Barrens,-1,02/12/08 23:53:14
+50714,70,Blood Elf,Priest,Karazhan,161,04/18/08 23:18:24
+59162,62,Blood Elf,Mage,Hellfire Peninsula,-1,02/17/08 17:16:20
+63216,70,Blood Elf,Paladin,Magisters' Terrace,204,05/21/08 07:27:19
+23564,74,Tauren,Hunter,Borean Tundra,103,12/06/08 10:41:48
+2993,75,Undead,Mage,The Nexus,189,11/23/08 21:21:43
+22253,70,Undead,Warlock,Sunwell Plateau,103,05/28/08 21:55:12
+62933,70,Blood Elf,Paladin,Gruul's Lair,204,02/02/08 22:16:51
+410,70,Orc,Hunter,Shattrath City,53,05/20/08 17:04:08
+22702,70,Undead,Priest,Magisters' Terrace,103,06/30/08 17:45:46
+60618,70,Undead,Mage,Arathi Basin,62,02/06/08 13:32:22
+212,70,Troll,Mage,Shattrath City,-1,08/03/08 21:43:17
+71871,70,Orc,Hunter,Shattrath City,161,09/07/08 20:28:10
+53308,70,Tauren,Shaman,Hyjal,161,11/06/08 23:37:46
+44477,70,Orc,Hunter,Blackfathom Deeps,167,05/10/08 10:44:35
+64953,62,Blood Elf,Priest,Orgrimmar,389,06/09/08 13:09:50
+55037,80,Blood Elf,Priest,Dalaran,-1,12/31/08 23:08:35
+51749,51,Tauren,Warrior,Feralas,-1,04/10/08 23:45:04
+74439,12,Tauren,Druid,The Barrens,282,07/07/08 13:54:55
+1131,70,Troll,Hunter,Terokkar Forest,101,01/11/08 07:30:45
+9486,70,Blood Elf,Warlock,Isle of Quel'Danas,101,09/02/08 22:51:27
+27900,70,Tauren,Druid,Thunder Bluff,35,07/27/08 21:54:01
+34600,70,Blood Elf,Paladin,Serpentshrine Cavern,62,04/23/08 23:37:52
+68334,31,Blood Elf,Priest,Thousand Needles,104,03/19/08 00:20:56
+65496,70,Blood Elf,Mage,Isle of Quel'Danas,424,10/13/08 23:30:10
+72689,70,Blood Elf,Paladin,Alterac Valley,-1,08/30/08 18:51:36
+87994,72,Troll,Death Knight,Durotar,251,12/20/08 21:47:03
+58587,67,Tauren,Warrior,Nagrand,35,05/06/08 18:17:09
+46481,70,Undead,Rogue,Netherstorm,161,09/16/08 21:59:09
+19258,70,Troll,Hunter,Eye of the Storm,205,01/12/08 23:34:45
+34764,70,Blood Elf,Rogue,Terokkar Forest,115,06/09/08 03:29:24
+74419,62,Troll,Hunter,Alterac Valley,251,08/17/08 13:32:33
+61473,70,Undead,Warlock,Shattrath City,35,07/13/08 13:25:12
+23939,70,Undead,Warrior,Shattrath City,189,10/26/08 12:28:17
+36731,70,Blood Elf,Mage,Orgrimmar,101,08/31/08 16:23:16
+22734,70,Undead,Warlock,The Steamvault,103,07/28/08 20:57:54
+35977,70,Blood Elf,Warlock,Shattrath City,103,03/28/08 23:26:53
+22473,70,Tauren,Shaman,Shattrath City,103,08/19/08 23:55:56
+65460,70,Tauren,Druid,Karazhan,103,09/12/08 19:38:01
+62987,70,Undead,Warrior,Eye of the Storm,282,02/10/08 15:45:31
+71482,70,Undead,Warlock,Tempest Keep,161,08/29/08 22:00:28
+65496,70,Blood Elf,Mage,Shattrath City,424,09/17/08 22:22:00
+59029,70,Tauren,Druid,Shattrath City,174,04/13/08 15:13:05
+71241,70,Undead,Rogue,Shattrath City,161,06/19/08 11:29:53
+347,70,Undead,Rogue,Hall of Legends,186,07/29/08 00:53:51
+67451,70,Tauren,Warrior,Blackwing Lair,103,10/28/08 23:18:25
+22023,70,Undead,Mage,Serpentshrine Cavern,101,03/20/08 20:20:31
+59186,50,Blood Elf,Warlock,Feralas,359,04/22/08 22:27:44
+44398,70,Blood Elf,Hunter,Arathi Basin,35,01/28/08 03:10:14
+57240,69,Undead,Priest,Netherstorm,-1,04/12/08 20:23:49
+34321,70,Blood Elf,Paladin,Orgrimmar,204,02/09/08 12:46:35
+9194,70,Undead,Warlock,Zangarmarsh,103,01/04/08 17:43:36
+86739,58,Blood Elf,Death Knight,Ghostlands,-1,11/22/08 14:34:53
+65469,70,Blood Elf,Paladin,Karazhan,282,05/23/08 22:37:04
+1336,70,Tauren,Hunter,Serpentshrine Cavern,204,01/13/08 20:18:25
+11523,1,Orc,Warrior,Orgrimmar,-1,04/11/08 17:14:21
+34675,70,Blood Elf,Priest,Shattrath City,35,01/27/08 19:13:08
+34378,65,Blood Elf,Priest,Zangarmarsh,1,12/02/08 02:31:23
+59471,70,Undead,Warlock,Alterac Valley,103,03/22/08 13:00:32
+68538,70,Tauren,Warrior,Isle of Quel'Danas,104,09/19/08 22:48:54
+59548,70,Blood Elf,Paladin,Shadowmoon Valley,101,08/16/08 13:32:34
+33058,70,Tauren,Druid,Serpentshrine Cavern,103,06/05/08 21:16:45
+23430,70,Tauren,Shaman,Black Temple,104,05/06/08 23:36:50
+71466,70,Undead,Mage,Isle of Quel'Danas,-1,05/08/08 22:46:45
+66973,63,Blood Elf,Mage,Terokkar Forest,103,03/08/08 09:01:37
+41821,70,Undead,Priest,Shattrath City,103,08/30/08 18:00:18
+69148,66,Tauren,Hunter,Nagrand,342,07/04/08 14:33:22
+70811,70,Blood Elf,Paladin,Howling Fjord,358,12/02/08 13:42:35
+30589,78,Undead,Priest,Sholazar Basin,101,12/27/08 17:44:16
+19108,52,Tauren,Druid,Badlands,171,04/15/08 18:35:20
+20521,70,Tauren,Druid,Shattrath City,9,04/17/08 23:46:08
+2447,70,Tauren,Shaman,Arathi Basin,103,02/17/08 15:33:53
+68975,22,Blood Elf,Rogue,Razorfen Kraul,-1,03/09/08 14:41:04
+61007,56,Orc,Warrior,Searing Gorge,174,01/20/08 09:05:56
+14863,70,Tauren,Hunter,Stranglethorn Vale,19,04/09/08 15:07:49
+86457,80,Blood Elf,Death Knight,Dragonblight,204,12/29/08 19:28:54
+71871,30,Orc,Hunter,Hillsbrad Foothills,365,05/06/08 19:17:16
+36307,59,Blood Elf,Mage,Winterspring,266,10/02/08 23:10:35
+14596,70,Undead,Warlock,The Steamvault,161,01/29/08 23:58:48
+39365,70,Tauren,Shaman,Shattrath City,35,05/22/08 13:54:54
+65312,13,Blood Elf,Hunter,Ghostlands,-1,08/12/08 11:00:09
+4989,70,Tauren,Shaman,Shattrath City,5,01/06/08 23:22:28
+27089,70,Tauren,Druid,Shattrath City,101,02/27/08 23:46:52
+22659,70,Tauren,Druid,Coilfang: The Slave Pens,101,08/18/08 00:27:02
+34457,70,Blood Elf,Priest,Orgrimmar,104,06/26/08 00:16:17
+56063,70,Blood Elf,Mage,Shattrath City,161,08/12/08 11:38:47
+45364,70,Blood Elf,Priest,Sunwell Plateau,62,06/07/08 14:30:16
+87281,67,Tauren,Death Knight,Nagrand,-1,12/06/08 15:26:52
+62995,70,Blood Elf,Hunter,Alterac Valley,293,08/25/08 23:48:13
+50744,63,Blood Elf,Warlock,Zangarmarsh,282,02/25/08 10:59:17
+37545,70,Blood Elf,Paladin,Tempest Keep,101,08/27/08 22:34:54
+86894,80,Tauren,Death Knight,The Nexus,9,12/11/08 21:32:55
+759,70,Tauren,Warrior,Nagrand,189,06/25/08 20:00:13
+22222,70,Tauren,Druid,Shattrath City,101,03/19/08 13:39:03
+5088,70,Orc,Warlock,Arathi Basin,4,01/23/08 22:16:43
+53356,69,Blood Elf,Priest,Netherstorm,-1,02/19/08 14:56:03
+71482,35,Undead,Warlock,Stranglethorn Vale,365,05/21/08 20:59:43
+88344,5,Blood Elf,Warlock,Eversong Woods,-1,11/29/08 15:30:58
+72413,50,Tauren,Warrior,Tanaris,344,08/20/08 23:45:30
+90,70,Tauren,Druid,Orgrimmar,5,01/11/08 20:50:01
+54641,40,Blood Elf,Warlock,Arathi Highlands,-1,03/29/08 23:05:20
+71620,47,Blood Elf,Warlock,Tanaris,35,05/24/08 15:57:53
+18473,77,Troll,Priest,Grizzly Hills,62,12/06/08 11:03:59
+24448,70,Tauren,Hunter,Shattrath City,104,08/02/08 20:22:50
+71458,7,Blood Elf,Warlock,Eversong Woods,-1,04/21/08 00:36:30
+35277,70,Blood Elf,Paladin,Ghostlands,103,03/08/08 22:42:09
+17982,70,Undead,Mage,Shattrath City,104,01/31/08 01:15:32
+73114,58,Blood Elf,Warlock,Silithus,251,09/10/08 23:10:14
+55667,70,Blood Elf,Hunter,Isle of Quel'Danas,101,05/14/08 19:48:36
+26088,70,Undead,Warlock,The Mechanar,205,10/10/08 10:58:48
+78704,8,Blood Elf,Hunter,Silvermoon City,-1,09/30/08 13:07:27
+59548,70,Blood Elf,Paladin,Shattrath City,101,07/21/08 18:12:34
+12571,80,Undead,Mage,Borean Tundra,103,12/07/08 17:24:21
+34321,70,Blood Elf,Paladin,Shattrath City,204,04/19/08 18:37:19
+429,70,Tauren,Warrior,Alterac Valley,1,08/23/08 23:05:46
+47880,70,Blood Elf,Hunter,Scarlet Monastery,53,10/19/08 11:29:28
+28365,70,Undead,Mage,Hellfire Peninsula,161,07/29/08 12:14:39
+12556,80,Undead,Warrior,Orgrimmar,104,12/12/08 23:26:41
+69535,76,Blood Elf,Warlock,Grizzly Hills,161,12/01/08 01:00:10
+62743,70,Troll,Mage,Karazhan,250,07/24/08 23:00:52
+54994,70,Tauren,Druid,Nagrand,5,08/18/08 23:37:01
+34396,70,Blood Elf,Priest,Orgrimmar,62,06/29/08 10:58:25
+74409,70,Blood Elf,Paladin,Shadowmoon Valley,103,08/20/08 21:58:08
+23715,70,Troll,Priest,Shadowmoon Valley,177,03/15/08 21:50:18
+27014,70,Tauren,Druid,Karazhan,103,01/31/08 14:20:21
+75644,17,Undead,Rogue,Ghostlands,35,08/13/08 00:26:52
+30816,68,Blood Elf,Priest,Nagrand,271,02/08/08 15:14:02
+83446,80,Tauren,Druid,The Violet Hold,471,12/31/08 10:19:58
+70921,70,Troll,Shaman,Black Temple,103,07/21/08 23:00:22
+56886,70,Blood Elf,Warlock,Karazhan,9,09/15/08 22:10:42
+63923,53,Tauren,Hunter,The Temple of Atal'Hakkar,282,02/06/08 14:30:41
+26137,70,Blood Elf,Rogue,Nagrand Arena,358,07/07/08 00:08:39
+22246,70,Troll,Hunter,Arathi Basin,243,03/22/08 16:09:29
+140,70,Tauren,Warrior,Shadowmoon Valley,5,01/12/08 12:30:04
+531,70,Troll,Hunter,Isle of Quel'Danas,204,06/09/08 18:57:04
+60379,70,Orc,Shaman,Isle of Quel'Danas,-1,07/13/08 10:33:05
+414,70,Tauren,Shaman,Terokkar Forest,290,05/08/08 18:05:50
+66314,48,Blood Elf,Rogue,Tanaris,174,02/04/08 05:36:23
+58284,67,Blood Elf,Mage,Sethekk Halls,165,01/06/08 20:24:35
+70242,70,Blood Elf,Paladin,Orgrimmar,104,06/21/08 02:19:23
+68052,70,Tauren,Druid,Arathi Basin,35,07/15/08 04:03:49
+59436,70,Tauren,Warrior,Karazhan,282,05/09/08 21:35:45
+65516,38,Tauren,Druid,Desolace,167,01/17/08 21:38:01
+13789,50,Tauren,Warrior,Orgrimmar,287,04/27/08 19:04:29
+79329,6,Blood Elf,Warlock,Eversong Woods,-1,10/08/08 06:29:01
+76721,67,Blood Elf,Hunter,Terokkar Forest,189,09/15/08 21:02:29
+22728,70,Troll,Rogue,Nagrand Arena,250,07/20/08 05:00:04
+68844,1,Troll,Warrior,Orgrimmar,-1,02/27/08 22:46:59
+30452,70,Undead,Mage,Shadowmoon Valley,167,01/12/08 23:45:14
+71084,48,Blood Elf,Paladin,Zul'Farrak,358,06/11/08 01:18:55
+73501,63,Blood Elf,Paladin,Hellfire Peninsula,365,07/21/08 21:32:05
+22484,70,Tauren,Hunter,Isle of Quel'Danas,315,09/22/08 19:27:39
+1379,70,Orc,Hunter,Karazhan,53,02/01/08 22:13:29
+22751,70,Troll,Mage,Shattrath City,-1,11/02/08 00:38:51
+2808,80,Orc,Hunter,Dalaran,104,12/20/08 14:26:11
+47222,46,Blood Elf,Paladin,Desolace,251,10/14/08 15:19:37
+46410,70,Blood Elf,Mage,Karazhan,282,04/19/08 20:47:57
+69929,70,Blood Elf,Mage,Isle of Quel'Danas,189,10/16/08 20:51:02
+35655,70,Blood Elf,Paladin,Karazhan,259,04/19/08 20:47:32
+69354,34,Undead,Warlock,Undercity,-1,04/28/08 22:13:15
+25745,61,Undead,Rogue,Shattrath City,384,06/07/08 16:27:40
+141,70,Tauren,Shaman,Terokkar Forest,204,02/08/08 20:00:51
+22033,70,Tauren,Hunter,Hellfire Peninsula,104,02/18/08 22:54:06
+1353,70,Blood Elf,Hunter,Borean Tundra,282,12/07/08 21:42:09
+38109,70,Troll,Rogue,Shattrath City,104,03/16/08 00:59:33
+1645,70,Tauren,Warrior,Eye of the Storm,448,09/19/08 21:27:31
+65555,36,Blood Elf,Paladin,Ashenvale,-1,01/15/08 02:20:13
+76114,70,Tauren,Druid,Karazhan,104,10/04/08 22:28:56
+84156,79,Undead,Death Knight,Ruins of Ahn'Qiraj,424,12/02/08 23:28:54
+35195,70,Blood Elf,Paladin,Terokkar Forest,291,01/06/08 17:55:14
+73557,64,Blood Elf,Mage,Nagrand,298,09/17/08 12:52:22
+23176,70,Troll,Priest,Orgrimmar,291,01/28/08 22:38:15
+22046,70,Tauren,Hunter,Tempest Keep,104,01/11/08 22:10:24
+75611,5,Blood Elf,Hunter,Eversong Woods,-1,07/26/08 16:46:19
+5247,70,Undead,Mage,Winterspring,53,11/01/08 01:30:40
+61105,70,Blood Elf,Priest,Netherstorm,165,02/08/08 23:43:32
+23939,70,Undead,Warrior,Shattrath City,104,05/11/08 17:39:36
+64673,24,Undead,Warlock,Silvermoon City,282,01/30/08 02:28:25
+37038,70,Blood Elf,Paladin,Orgrimmar,62,02/17/08 00:46:42
+87003,59,Blood Elf,Death Knight,Hellfire Peninsula,459,11/27/08 15:49:05
+71929,69,Undead,Warrior,Netherstorm,350,07/23/08 01:33:07
+75861,35,Blood Elf,Hunter,Tanaris,-1,08/13/08 11:37:26
+60948,25,Blood Elf,Paladin,The Barrens,-1,05/25/08 12:16:45
+44309,70,Troll,Hunter,Arathi Basin,53,10/27/08 20:37:32
+52499,70,Blood Elf,Paladin,Nagrand,101,08/30/08 01:02:37
+72464,59,Blood Elf,Mage,Winterspring,365,06/05/08 14:28:24
+34386,70,Blood Elf,Paladin,Isle of Quel'Danas,9,06/11/08 20:49:03
+45029,70,Blood Elf,Warlock,Shattrath City,101,10/11/08 11:59:57
+35004,70,Blood Elf,Paladin,Nagrand,167,02/29/08 20:49:14
+62085,70,Tauren,Warrior,Shattrath City,167,02/18/08 22:44:17
+73562,8,Troll,Hunter,Durotar,395,06/18/08 18:47:05
+10790,70,Undead,Mage,Karazhan,103,04/12/08 23:05:03
+86528,66,Blood Elf,Death Knight,Hellfire Peninsula,-1,12/12/08 12:07:15
+37839,70,Blood Elf,Hunter,Orgrimmar,-1,06/30/08 12:17:38
+71918,65,Tauren,Druid,Terokkar Forest,161,08/06/08 20:46:16
+35037,54,Blood Elf,Rogue,Tanaris,423,08/17/08 19:59:08
+27711,70,Undead,Priest,Shattrath City,103,08/08/08 02:57:00
+61856,70,Tauren,Druid,Blade's Edge Mountains,103,03/22/08 12:39:37
+41998,70,Blood Elf,Hunter,Karazhan,282,03/16/08 00:21:59
+36383,32,Blood Elf,Paladin,Ashenvale,251,01/18/08 12:19:53
+73874,24,Tauren,Druid,Wailing Caverns,281,07/10/08 23:45:35
+65724,70,Blood Elf,Warlock,Shattrath City,251,10/10/08 12:31:35
+46860,70,Blood Elf,Mage,Netherstorm,104,03/11/08 03:22:33
+25195,39,Tauren,Druid,Desolace,205,01/26/08 14:39:31
+22720,70,Tauren,Druid,Sethekk Halls,241,04/21/08 10:24:59
+88942,17,Blood Elf,Hunter,Ghostlands,-1,12/28/08 04:12:48
+22473,80,Tauren,Shaman,Naxxramas,103,12/25/08 21:39:02
+22138,70,Troll,Hunter,Hall of Legends,174,01/15/08 11:08:56
+77925,1,Blood Elf,Priest,Silvermoon City,-1,09/18/08 00:19:37
+67578,70,Undead,Warrior,Shattrath City,101,09/22/08 17:29:33
+64550,40,Blood Elf,Hunter,Arathi Highlands,282,02/07/08 12:03:23
+72657,60,Undead,Warlock,Alterac Mountains,103,08/24/08 12:48:56
+23199,70,Tauren,Shaman,Orgrimmar,104,07/14/08 22:43:23
+22728,70,Troll,Rogue,Warsong Gulch,-1,09/03/08 11:39:31
+52988,70,Blood Elf,Hunter,Shattrath City,103,07/01/08 16:20:07
+63513,41,Blood Elf,Paladin,The Hinterlands,-1,02/14/08 14:25:32
+24994,70,Undead,Warlock,Nagrand,53,01/15/08 12:50:02
+1491,80,Tauren,Warrior,Dalaran,79,12/11/08 23:12:43
+63513,41,Blood Elf,Paladin,Feralas,-1,02/14/08 11:15:39
+30794,70,Tauren,Hunter,Shadowmoon Valley,-1,01/21/08 18:57:24
+1119,70,Tauren,Hunter,Arathi Basin,204,01/23/08 23:37:24
+87112,62,Blood Elf,Death Knight,Hellfire Peninsula,205,11/30/08 10:43:52
+64813,70,Blood Elf,Priest,Orgrimmar,161,01/08/08 00:24:53
+78818,11,Orc,Shaman,The Barrens,-1,10/31/08 01:21:32
+35362,70,Blood Elf,Mage,Hellfire Ramparts,251,10/30/08 23:03:49
+70173,30,Blood Elf,Priest,Alterac Mountains,358,04/19/08 15:19:10
+74563,70,Blood Elf,Paladin,Shadowmoon Valley,4,09/25/08 12:00:07
+50486,15,Blood Elf,Hunter,Eversong Woods,-1,07/29/08 17:54:25
+34436,48,Blood Elf,Paladin,The Hinterlands,-1,02/21/08 13:14:39
+159,70,Tauren,Warrior,Shattrath City,79,02/08/08 14:00:55
+64258,51,Blood Elf,Mage,Searing Gorge,253,01/19/08 16:29:42
+88755,64,Undead,Death Knight,Shattrath City,-1,12/19/08 21:54:16
+75064,70,Blood Elf,Mage,Isle of Quel'Danas,-1,10/06/08 17:30:57
+531,70,Troll,Hunter,Nagrand,204,03/22/08 14:09:28
+75094,55,Undead,Warlock,Un'Goro Crater,251,08/13/08 08:57:05
+60870,52,Undead,Rogue,Un'Goro Crater,9,01/01/08 00:04:11
+508,70,Tauren,Druid,Arathi Basin,19,01/03/08 22:03:34
+68576,70,Tauren,Druid,Terokkar Forest,103,10/18/08 12:56:23
+17739,70,Troll,Mage,Karazhan,205,09/30/08 23:55:35
+22557,70,Orc,Hunter,The Temple of Atal'Hakkar,103,03/04/08 21:28:26
+67115,69,Blood Elf,Warlock,Nagrand,174,03/03/08 13:01:05
+89402,13,Blood Elf,Hunter,Ghostlands,-1,12/11/08 19:16:41
+62336,16,Undead,Mage,Undercity,273,01/03/08 23:44:00
+46205,70,Blood Elf,Rogue,Shattrath City,358,09/13/08 10:40:22
+177,67,Tauren,Druid,Nagrand,251,10/10/08 22:06:35
+557,70,Undead,Warlock,Terokkar Forest,305,10/06/08 19:20:38
+1229,80,Undead,Mage,The Obsidian Sanctum,9,12/25/08 22:29:24
+22271,70,Orc,Hunter,Karazhan,101,01/26/08 15:49:44
+72307,70,Blood Elf,Hunter,Orgrimmar,101,09/10/08 00:30:01
+34319,70,Blood Elf,Paladin,Shattrath City,101,11/10/08 03:59:22
+36970,80,Blood Elf,Mage,Icecrown,161,12/30/08 19:28:22
+22545,70,Undead,Warrior,Shattrath City,101,01/07/08 17:43:55
+45699,70,Blood Elf,Paladin,Gruul's Lair,35,02/22/08 21:44:36
+557,72,Undead,Warlock,Dragonblight,305,11/24/08 22:36:57
+87848,1,Blood Elf,Warlock,Eversong Woods,-1,11/25/08 16:24:49
+22245,70,Troll,Shaman,Alterac Valley,104,11/07/08 12:52:14
+79292,1,Troll,Warrior,Durotar,-1,10/08/08 13:37:37
+906,73,Tauren,Warrior,Howling Fjord,252,12/27/08 07:57:46
+43082,70,Tauren,Warrior,The Steamvault,104,05/19/08 23:45:29
+271,70,Undead,Mage,Hyjal,62,09/17/08 22:28:58
+68875,70,Blood Elf,Rogue,Orgrimmar,101,07/05/08 14:28:02
+86337,70,Tauren,Death Knight,Howling Fjord,189,11/23/08 04:15:43
+71691,70,Undead,Warrior,Mana-Tombs,161,07/29/08 23:34:20
+60583,70,Blood Elf,Paladin,Terokkar Forest,186,07/22/08 20:34:32
+22462,70,Tauren,Druid,Hyjal,104,03/20/08 22:49:20
+59471,70,Undead,Warlock,The Hinterlands,103,05/13/08 13:16:54
+73063,69,Undead,Mage,Netherstorm,251,07/12/08 00:33:40
+59489,70,Blood Elf,Priest,Serpentshrine Cavern,189,09/10/08 23:10:50
+67507,59,Blood Elf,Paladin,Western Plaguelands,79,03/17/08 14:31:20
+57316,70,Undead,Priest,Ruins of Lordaeron,35,02/17/08 00:05:00
+66941,30,Tauren,Druid,Ashenvale,-1,04/08/08 15:46:57
+27412,70,Tauren,Warrior,Eye of the Storm,5,08/03/08 01:43:36
+21834,70,Tauren,Druid,Orgrimmar,103,02/12/08 00:23:54
+23118,70,Undead,Priest,Warsong Gulch,204,02/16/08 12:54:55
+56721,70,Blood Elf,Warlock,Orgrimmar,165,01/25/08 03:13:13
+90440,13,Blood Elf,Hunter,Eversong Woods,-1,12/31/08 18:32:33
+22952,70,Undead,Mage,Arathi Basin,243,02/04/08 01:45:32
+40483,80,Blood Elf,Paladin,Azjol-Nerub,62,12/08/08 09:47:54
+61105,70,Blood Elf,Priest,Karazhan,62,04/02/08 17:36:50
+62902,70,Undead,Mage,Blade's Edge Mountains,282,04/26/08 19:46:32
+25183,70,Undead,Warlock,Arathi Basin,35,01/16/08 01:10:00
+21891,70,Troll,Warrior,Zangarmarsh,104,02/23/08 21:17:56
+34764,70,Blood Elf,Rogue,Shattrath City,115,05/09/08 02:49:05
+63976,15,Blood Elf,Mage,Ghostlands,-1,02/02/08 03:25:47
+22046,80,Tauren,Hunter,The Violet Hold,104,11/30/08 16:41:20
+69096,7,Tauren,Warrior,Thunder Bluff,-1,03/10/08 16:58:33
+26752,70,Tauren,Warrior,Durotar,104,01/07/08 18:12:08
+7008,70,Orc,Warlock,Orgrimmar,104,09/14/08 17:57:04
+22790,70,Undead,Mage,Howling Fjord,-1,12/07/08 08:06:24
+60451,27,Blood Elf,Mage,The Barrens,282,02/11/08 02:56:19
+68826,26,Blood Elf,Mage,Ashenvale,-1,03/01/08 21:38:33
+21895,72,Troll,Rogue,Borean Tundra,103,11/19/08 18:59:52
+50046,70,Blood Elf,Paladin,The Underbog,-1,02/15/08 15:16:14
+29567,70,Tauren,Warrior,Karazhan,282,07/07/08 20:35:06
+66362,35,Blood Elf,Hunter,Stranglethorn Vale,-1,02/11/08 02:35:58
+1161,70,Tauren,Shaman,Sunwell Plateau,247,04/20/08 03:04:20
+73963,59,Blood Elf,Paladin,Felwood,282,07/11/08 18:14:17
+22655,70,Undead,Warlock,Karazhan,103,06/06/08 20:48:27
+9469,70,Tauren,Druid,Alterac Valley,53,05/28/08 02:14:54
+41829,70,Undead,Warrior,Zangarmarsh,104,02/20/08 15:04:44
+69974,70,Troll,Hunter,Alterac Valley,282,05/07/08 19:47:10
+71811,61,Undead,Warrior,Hellfire Peninsula,53,08/21/08 21:18:12
+60698,70,Undead,Priest,Blade's Edge Mountains,253,01/03/08 19:54:40
+13666,76,Blood Elf,Paladin,Sholazar Basin,204,12/14/08 00:44:53
+60682,67,Blood Elf,Priest,Silvermoon City,204,03/03/08 20:00:57
+44349,70,Blood Elf,Warlock,Shattrath City,150,10/12/08 02:40:37
+77448,24,Blood Elf,Rogue,Hillsbrad Foothills,251,09/06/08 13:00:49
+40998,70,Blood Elf,Hunter,Coilfang: The Slave Pens,104,02/04/08 13:03:58
+43274,70,Blood Elf,Priest,Tanaris,189,01/22/08 21:19:52
+75946,18,Tauren,Warrior,Wailing Caverns,460,10/09/08 21:46:52
+78194,14,Blood Elf,Rogue,Silvermoon City,-1,09/20/08 20:49:44
+24175,70,Orc,Warrior,Isle of Quel'Danas,250,08/28/08 01:49:19
+50411,67,Blood Elf,Paladin,Hellfire Ramparts,282,04/20/08 00:06:50
+70905,70,Blood Elf,Priest,Karazhan,103,08/16/08 15:22:50
+3275,70,Tauren,Shaman,Karazhan,19,02/23/08 20:17:08
+27347,80,Undead,Rogue,Terokkar Forest,103,12/27/08 13:00:40
+28651,70,Troll,Rogue,Arathi Basin,53,01/16/08 23:38:36
+23273,70,Orc,Hunter,Karazhan,103,08/28/08 23:17:42
+8109,70,Troll,Hunter,Terokkar Forest,103,03/07/08 08:49:31
+72906,24,Undead,Rogue,Stonetalon Mountains,35,07/15/08 19:54:10
+23367,70,Undead,Mage,Isle of Quel'Danas,161,06/08/08 23:58:12
+71420,53,Troll,Priest,Western Plaguelands,103,07/23/08 19:19:55
+49719,70,Orc,Warlock,Tempest Keep,79,09/28/08 03:17:26
+22421,70,Undead,Rogue,Orgrimmar,352,04/13/08 07:34:03
+66914,67,Tauren,Druid,Thunder Bluff,161,09/11/08 00:07:35
+66114,27,Blood Elf,Paladin,Hillsbrad Foothills,288,02/03/08 10:56:08
+48958,29,Blood Elf,Paladin,Orgrimmar,365,05/28/08 16:36:22
+383,70,Undead,Priest,Shattrath City,204,02/10/08 18:45:12
+72858,70,Tauren,Druid,Terokkar Forest,448,09/26/08 11:38:00
+12658,80,Troll,Mage,The Violet Hold,189,12/13/08 12:13:49
+49944,70,Orc,Warrior,Warsong Gulch,167,01/12/08 14:59:37
+28801,70,Orc,Hunter,Coilfang: The Slave Pens,101,04/28/08 19:11:52
+74939,71,Blood Elf,Priest,Borean Tundra,282,12/13/08 08:00:04
+24723,70,Undead,Warrior,Deadwind Pass,103,02/23/08 15:48:35
+76771,27,Troll,Hunter,Orgrimmar,358,10/24/08 22:56:15
+68875,70,Blood Elf,Rogue,Isle of Quel'Danas,101,05/24/08 10:47:44
+22645,70,Undead,Warlock,Orgrimmar,103,08/22/08 19:49:40
+73105,20,Blood Elf,Paladin,Orgrimmar,-1,08/31/08 05:21:18
+22278,70,Undead,Mage,Stranglethorn Vale,101,11/05/08 07:32:49
+22023,70,Undead,Mage,Zul'Farrak,101,06/12/08 23:28:11
+195,70,Troll,Rogue,Terokkar Forest,53,01/14/08 16:58:52
+1244,70,Troll,Hunter,Arathi Basin,-1,05/23/08 11:26:06
+52751,70,Undead,Priest,Orgrimmar,282,03/15/08 01:50:36
+60769,70,Blood Elf,Priest,Terokkar Forest,189,04/27/08 13:07:49
+19341,70,Undead,Warlock,Magtheridon's Lair,161,10/04/08 22:50:27
+508,80,Tauren,Druid,The Nexus,62,12/23/08 23:55:15
+59471,70,Undead,Warlock,Thunder Bluff,103,02/12/08 16:25:18
+87591,53,Orc,Hunter,Un'Goro Crater,-1,12/12/08 13:19:32
+69577,25,Blood Elf,Priest,Hillsbrad Foothills,-1,03/27/08 00:31:22
+70136,40,Troll,Shaman,Razorfen Downs,282,08/15/08 03:20:05
+182,1,Troll,Hunter,Durotar,-1,01/20/08 14:37:09
+72422,70,Troll,Warrior,The Mechanar,101,10/04/08 23:09:21
+27595,70,Undead,Rogue,Black Temple,104,04/21/08 22:06:20
+64792,67,Blood Elf,Paladin,Zangarmarsh,167,04/26/08 08:47:22
+77302,27,Tauren,Druid,Thousand Needles,320,09/25/08 15:08:00
+35072,70,Blood Elf,Paladin,Terokkar Forest,161,09/30/08 05:48:07
+31673,70,Undead,Rogue,Alterac Valley,104,02/23/08 14:48:42
+67387,66,Troll,Hunter,Nagrand,167,02/29/08 22:37:01
+26098,70,Undead,Rogue,Tempest Keep,53,05/10/08 21:58:53
+75659,60,Blood Elf,Rogue,Hellfire Peninsula,358,09/28/08 22:20:02
+22330,70,Tauren,Shaman,Black Temple,104,06/26/08 23:36:19
+71853,70,Troll,Shaman,Orgrimmar,361,09/28/08 14:48:37
+63423,70,Troll,Priest,Blade's Edge Mountains,293,05/10/08 17:36:24
+23474,54,Undead,Rogue,Orgrimmar,216,01/25/08 22:51:13
+61239,70,Orc,Hunter,Black Temple,104,06/12/08 21:26:09
+23118,70,Undead,Priest,Hyjal,204,02/26/08 23:08:00
+59919,64,Blood Elf,Warlock,Terokkar Forest,282,02/05/08 16:03:40
+59815,53,Tauren,Druid,Arathi Highlands,-1,12/15/08 10:31:22
+35697,70,Blood Elf,Mage,Stratholme,101,04/19/08 00:37:56
+65403,50,Blood Elf,Paladin,Feralas,282,06/04/08 01:38:35
+18473,70,Troll,Priest,Netherstorm,62,10/10/08 13:18:34
+64786,61,Tauren,Warrior,Burning Steppes,189,02/19/08 02:43:38
+64550,41,Blood Elf,Hunter,Stranglethorn Vale,282,02/08/08 23:23:12
+35523,73,Blood Elf,Paladin,Borean Tundra,103,12/05/08 08:48:40
+68,70,Tauren,Warrior,Orgrimmar,205,11/16/08 21:04:40
+74978,69,Undead,Mage,Netherstorm,204,07/28/08 20:04:05
+64346,70,Undead,Priest,Shattrath City,4,08/16/08 19:32:33
+59386,70,Blood Elf,Hunter,The Arcatraz,35,07/11/08 17:13:38
+26229,70,Undead,Mage,Karazhan,103,09/13/08 00:09:27
+22658,70,Tauren,Druid,Karazhan,103,03/17/08 23:19:04
+52499,64,Blood Elf,Paladin,Terokkar Forest,167,05/22/08 22:18:45
+10223,70,Orc,Warrior,Karazhan,5,01/20/08 16:26:39
+61105,70,Blood Elf,Priest,Serpentshrine Cavern,62,05/22/08 22:47:39
+87061,72,Blood Elf,Death Knight,Dragonblight,251,12/14/08 12:16:21
+68336,41,Blood Elf,Paladin,Tanaris,243,03/09/08 21:21:17
+55792,70,Blood Elf,Rogue,Coilfang: The Slave Pens,104,02/22/08 20:24:59
+62429,70,Blood Elf,Rogue,Undercity,253,01/10/08 20:23:01
+67673,57,Blood Elf,Mage,Western Plaguelands,189,08/13/08 21:39:30
+22102,70,Troll,Rogue,Terokkar Forest,35,01/11/08 15:20:49
+29058,70,Undead,Priest,Shattrath City,62,06/20/08 14:17:16
+61893,70,Blood Elf,Warlock,Warsong Gulch,103,11/11/08 23:13:42
+75457,80,Blood Elf,Paladin,Naxxramas,282,12/23/08 20:57:48
+40309,70,Blood Elf,Paladin,Undercity,327,04/08/08 21:01:42
+20884,70,Undead,Rogue,Shattrath City,104,10/19/08 13:18:30
+22350,80,Tauren,Druid,The Culling of Stratholme,104,12/09/08 21:28:37
+29543,70,Undead,Priest,Karazhan,104,03/28/08 15:26:09
+2482,80,Tauren,Shaman,Orgrimmar,104,12/20/08 06:12:02
+42872,70,Tauren,Druid,Nagrand,53,03/14/08 20:49:21
+14525,70,Orc,Warlock,Badlands,79,05/28/08 16:33:59
+70476,62,Tauren,Warrior,The Steamvault,282,04/16/08 23:55:24
+64923,70,Tauren,Druid,Ghostlands,103,02/24/08 13:26:52
+22148,70,Tauren,Shaman,Arathi Basin,103,10/30/08 21:30:33
+18089,70,Tauren,Druid,Karazhan,161,09/07/08 17:09:01
+10043,70,Undead,Rogue,Thousand Needles,79,01/04/08 23:03:35
+68377,67,Blood Elf,Priest,Blade's Edge Mountains,282,04/20/08 08:37:21
+25299,70,Undead,Mage,Nagrand,161,08/27/08 12:40:13
+64141,66,Blood Elf,Warlock,Nagrand,282,01/29/08 23:59:44
+665,70,Tauren,Hunter,Ruins of Lordaeron,53,09/25/08 18:09:04
+72257,46,Tauren,Shaman,Feralas,-1,10/22/08 00:05:50
+22167,70,Troll,Hunter,Magisters' Terrace,62,04/20/08 16:05:26
+176,70,Tauren,Druid,Netherstorm,62,03/14/08 18:49:35
+5228,70,Undead,Priest,Gruul's Lair,62,02/15/08 21:44:55
+9,70,Orc,Hunter,Magisters' Terrace,79,04/22/08 00:04:09
+34328,17,Blood Elf,Priest,The Barrens,-1,02/11/08 13:05:24
+60580,70,Undead,Warrior,Shattrath City,204,02/04/08 13:22:30
+70476,70,Tauren,Warrior,Dustwallow Marsh,103,08/26/08 12:15:32
+69300,70,Undead,Warrior,Shattrath City,189,08/16/08 20:05:37
+72430,70,Tauren,Warrior,Isle of Quel'Danas,189,10/30/08 20:40:51
+78953,39,Tauren,Warrior,Arathi Highlands,463,11/08/08 21:11:58
+29999,70,Undead,Warrior,Terokkar Forest,318,02/01/08 22:55:36
+64824,70,Undead,Warrior,Blasted Lands,53,02/18/08 10:45:52
+42187,74,Blood Elf,Mage,Howling Fjord,5,12/24/08 11:27:39
+23308,70,Undead,Warlock,Arathi Basin,103,02/15/08 19:15:06
+24454,70,Tauren,Shaman,Arathi Basin,250,05/09/08 09:26:51
+73787,78,Troll,Hunter,The Culling of Stratholme,161,12/05/08 10:44:40
+46110,70,Tauren,Druid,The Botanica,250,07/18/08 01:23:01
+2866,70,Undead,Priest,Hyjal,103,06/09/08 21:07:40
+22557,70,Orc,Hunter,Shadowmoon Valley,103,04/26/08 14:14:08
+36631,70,Tauren,Druid,Shattrath City,103,05/11/08 01:46:26
+86402,68,Blood Elf,Death Knight,Undercity,424,11/30/08 23:58:50
+25214,70,Orc,Hunter,Shattrath City,105,03/30/08 13:02:47
+22954,70,Troll,Hunter,Terokkar Forest,204,01/14/08 19:38:28
+39208,76,Blood Elf,Paladin,Azjol-Nerub,101,11/26/08 23:21:53
+60822,70,Tauren,Warrior,The Underbog,253,01/29/08 19:57:04
+973,70,Undead,Warrior,Eye of the Storm,167,05/20/08 22:36:16
+53911,70,Blood Elf,Mage,Zangarmarsh,103,02/03/08 00:37:18
+24779,69,Orc,Hunter,Shadowmoon Valley,-1,04/26/08 10:53:44
+362,70,Undead,Rogue,Orgrimmar,19,01/09/08 18:21:32
+58891,70,Blood Elf,Warlock,Shattrath City,161,02/01/08 17:17:14
+52990,70,Undead,Mage,Warsong Gulch,-1,01/12/08 15:41:30
+70182,70,Troll,Priest,The Steamvault,161,03/28/08 15:14:35
+33058,70,Tauren,Druid,Tempest Keep,103,08/01/08 21:43:34
+65296,70,Blood Elf,Priest,The Mechanar,62,09/10/08 10:30:50
+2968,70,Undead,Rogue,Arathi Basin,35,08/11/08 23:57:17
+56776,70,Tauren,Druid,Shattrath City,35,06/05/08 16:47:00
+65620,70,Undead,Warlock,Warsong Gulch,282,10/11/08 09:48:18
+22005,70,Orc,Warrior,Shattrath City,250,07/20/08 12:29:43
+37545,70,Blood Elf,Paladin,Hellfire Peninsula,204,01/19/08 18:30:09
+61443,58,Blood Elf,Paladin,Azshara,-1,01/05/08 12:54:37
+420,70,Undead,Rogue,Blade's Edge Arena,101,05/28/08 23:14:37
+27879,70,Blood Elf,Warlock,Netherstorm,103,02/10/08 20:06:51
+70813,70,Tauren,Warrior,Alterac Valley,250,05/13/08 19:45:43
+64310,70,Blood Elf,Priest,Stratholme,62,11/07/08 09:59:35
+66483,17,Tauren,Warrior,Ghostlands,204,02/01/08 18:04:06
+66094,53,Undead,Rogue,Warsong Gulch,65,02/05/08 15:32:15
+24390,70,Undead,Priest,Isle of Quel'Danas,174,07/12/08 10:55:48
+87126,63,Undead,Death Knight,Zangarmarsh,315,11/25/08 22:39:18
+76837,17,Tauren,Druid,The Barrens,-1,08/22/08 19:15:01
+70905,31,Blood Elf,Priest,Alterac Mountains,358,04/18/08 19:37:11
+28,70,Orc,Hunter,Coilfang: The Slave Pens,62,09/14/08 04:26:53
+59334,70,Blood Elf,Priest,Terokkar Forest,167,02/24/08 14:49:46
+25982,70,Undead,Rogue,The Mechanar,-1,08/20/08 10:07:02
+41992,68,Blood Elf,Hunter,Alterac Valley,161,04/12/08 22:36:18
+62239,70,Undead,Mage,Alterac Valley,205,01/14/08 19:39:14
+8873,70,Troll,Hunter,Nagrand,19,04/20/08 22:54:54
+78277,52,Blood Elf,Warlock,Undercity,251,12/05/08 22:21:13
+35037,38,Blood Elf,Rogue,Alterac Mountains,423,08/07/08 18:17:54
+37029,70,Tauren,Warrior,Orgrimmar,282,02/04/08 16:51:20
+7814,66,Orc,Shaman,Blade's Edge Mountains,282,02/07/08 13:59:53
+71866,65,Blood Elf,Paladin,Nagrand,-1,05/27/08 13:25:51
+70974,70,Blood Elf,Warlock,Nagrand,358,07/15/08 18:56:22
+22188,80,Orc,Rogue,Icecrown,150,12/16/08 01:45:44
+22119,70,Tauren,Warrior,Arathi Basin,101,03/02/08 22:48:25
+20879,43,Tauren,Shaman,Stranglethorn Vale,191,05/24/08 18:15:05
+289,71,Undead,Warlock,Orgrimmar,103,12/25/08 00:55:27
+89961,62,Tauren,Death Knight,Hellfire Peninsula,251,12/24/08 11:53:42
+22278,80,Undead,Mage,Gundrak,101,12/24/08 11:55:29
+61542,70,Tauren,Shaman,Shattrath City,103,07/09/08 15:06:32
+56586,61,Troll,Hunter,Hellfire Peninsula,103,02/03/08 04:24:47
+108,70,Tauren,Warrior,Karazhan,174,05/13/08 01:35:11
+21969,70,Tauren,Shaman,Blade's Edge Arena,101,03/05/08 20:49:14
+35104,58,Blood Elf,Paladin,Feralas,-1,03/18/08 22:11:31
+46393,70,Blood Elf,Paladin,Shattrath City,282,04/29/08 00:16:28
+35268,70,Blood Elf,Paladin,Karazhan,161,07/18/08 20:35:35
+26636,70,Tauren,Warrior,Karazhan,35,04/01/08 20:44:42
+9566,69,Orc,Hunter,Alterac Valley,189,09/06/08 23:47:59
+48952,60,Blood Elf,Hunter,Eastern Plaguelands,-1,05/15/08 12:35:03
+70251,70,Orc,Hunter,Nagrand,103,08/29/08 03:18:56
+23967,70,Troll,Rogue,Karazhan,282,03/15/08 22:20:03
+75746,55,Blood Elf,Warlock,Un'Goro Crater,-1,08/08/08 01:48:08
+22357,70,Undead,Rogue,Shattrath City,35,05/24/08 13:06:33
+182,1,Troll,Hunter,Durotar,-1,08/13/08 14:26:07
+890,70,Undead,Mage,The Shattered Halls,266,01/20/08 12:18:29
+55791,70,Blood Elf,Priest,Shattrath City,104,01/20/08 15:59:52
+37660,70,Tauren,Druid,Netherstorm,174,02/13/08 23:13:37
+62820,64,Blood Elf,Priest,Terokkar Forest,336,09/09/08 21:00:20
+44496,49,Blood Elf,Hunter,Feralas,251,08/13/08 14:08:04
+68112,67,Troll,Shaman,Nagrand,281,06/09/08 12:47:04
+36302,70,Blood Elf,Paladin,Isle of Quel'Danas,-1,07/22/08 11:15:33
+40951,70,Orc,Hunter,Karazhan,161,03/15/08 21:48:46
+24491,70,Tauren,Druid,Shadowmoon Valley,103,02/08/08 11:21:10
+51138,70,Blood Elf,Paladin,Shattrath City,189,02/04/08 23:44:09
+32098,70,Troll,Priest,Nagrand Arena,104,05/09/08 22:57:35
+58284,68,Blood Elf,Mage,Nagrand,165,01/09/08 19:22:38
+17738,70,Undead,Mage,Karazhan,79,04/25/08 23:05:34
+27489,70,Troll,Priest,Auchindoun: Shadow Labyrinth,291,01/04/08 00:13:51
+25200,25,Undead,Warlock,Stonetalon Mountains,103,07/21/08 17:20:50
+21861,70,Tauren,Warrior,Alterac Valley,-1,08/24/08 22:35:46
+33638,20,Blood Elf,Paladin,Ghostlands,282,08/03/08 19:14:14
+23328,70,Troll,Hunter,Orgrimmar,103,02/13/08 11:34:31
+77572,70,Undead,Warlock,Karazhan,327,10/06/08 00:17:53
+1316,70,Tauren,Warrior,Terokkar Forest,103,06/11/08 01:07:47
+74419,70,Troll,Hunter,Stranglethorn Vale,251,12/20/08 06:57:37
+12571,70,Undead,Mage,Black Temple,103,04/01/08 22:05:30
+54289,70,Undead,Priest,Shadowmoon Valley,161,01/28/08 17:38:21
+86742,79,Blood Elf,Death Knight,The Oculus,189,12/02/08 15:27:21
+67772,70,Blood Elf,Warlock,Shattrath City,189,04/08/08 02:11:05
+52313,70,Undead,Mage,Wailing Caverns,189,08/19/08 22:26:57
+341,70,Undead,Rogue,Ruins of Lordaeron,204,05/07/08 00:38:05
+20884,70,Undead,Rogue,Nagrand,35,04/19/08 05:08:40
+25994,70,Undead,Warlock,Orgrimmar,103,11/17/08 00:49:24
+27595,70,Undead,Rogue,Nagrand,104,04/02/08 01:05:08
+48829,70,Undead,Mage,Warsong Gulch,103,03/05/08 06:00:31
+74766,80,Undead,Mage,The Oculus,4,12/12/08 14:52:28
+182,1,Troll,Hunter,Durotar,-1,01/28/08 21:47:39
+2345,70,Undead,Warrior,Orgrimmar,9,03/06/08 13:30:37
+22809,70,Orc,Warrior,Shadowmoon Valley,174,04/13/08 11:47:18
+25084,70,Undead,Rogue,Orgrimmar,104,08/04/08 22:47:22
+47981,70,Blood Elf,Warlock,The Mechanar,174,07/16/08 20:59:55
+73114,22,Blood Elf,Warlock,Ghostlands,251,06/10/08 22:28:20
+34335,70,Blood Elf,Warlock,Terokkar Forest,251,06/03/08 14:09:39
+58891,70,Blood Elf,Warlock,Shattrath City,104,07/30/08 18:05:24
+16638,80,Tauren,Warrior,The Culling of Stratholme,103,12/22/08 22:20:34
+73194,8,Blood Elf,Mage,Eversong Woods,-1,06/05/08 22:28:08
+69477,70,Undead,Priest,Terokkar Forest,-1,03/24/08 06:30:37
+29484,33,Tauren,Druid,Mulgore,437,09/07/08 10:08:29
+41998,41,Blood Elf,Hunter,Badlands,282,01/01/08 18:05:21
+782,70,Undead,Warlock,Terokkar Forest,9,06/30/08 01:27:15
+9084,70,Undead,Warlock,Isle of Quel'Danas,205,08/22/08 20:17:28
+47856,70,Undead,Warrior,Warsong Gulch,189,08/15/08 13:54:10
+18282,67,Tauren,Shaman,Nagrand,340,04/27/08 20:04:17
+25363,70,Undead,Priest,Ruins of Lordaeron,204,09/14/08 23:39:32
+53523,70,Troll,Priest,Auchenai Crypts,167,03/23/08 12:10:16
+75690,80,Blood Elf,Warlock,Dalaran,189,12/20/08 01:30:02
+72439,70,Blood Elf,Hunter,Shattrath City,365,07/22/08 14:44:39
+990,70,Tauren,Druid,Warsong Gulch,19,01/10/08 21:40:36
+180,70,Tauren,Druid,Warsong Gulch,79,01/25/08 03:30:35
+1316,70,Tauren,Warrior,Durotar,103,01/19/08 08:08:04
+27548,62,Troll,Shaman,Hellfire Peninsula,252,08/30/08 15:50:23
+35593,60,Blood Elf,Rogue,Orgrimmar,-1,02/28/08 21:19:08
+73449,70,Blood Elf,Paladin,Shattrath City,189,09/20/08 00:10:03
+68475,70,Tauren,Warrior,Isle of Quel'Danas,282,06/28/08 09:43:06
+60291,70,Blood Elf,Priest,Karazhan,101,03/29/08 22:26:23
+67006,33,Blood Elf,Mage,Thousand Needles,282,03/10/08 10:21:28
+51861,70,Tauren,Shaman,Orgrimmar,-1,09/20/08 14:47:56
+7282,70,Troll,Mage,Karazhan,62,04/27/08 18:45:16
+65860,70,Orc,Hunter,Arathi Basin,35,03/28/08 20:03:08
+39585,70,Tauren,Druid,The Mechanar,282,02/15/08 01:13:58
+72597,30,Blood Elf,Paladin,The Barrens,189,07/14/08 14:26:38
+60580,70,Undead,Warrior,Feralas,204,01/05/08 01:54:10
+86268,75,Tauren,Death Knight,Grizzly Hills,-1,12/17/08 12:24:01
+68909,15,Tauren,Druid,The Barrens,161,03/08/08 15:08:33
+88155,39,Blood Elf,Hunter,Arathi Highlands,463,12/23/08 17:57:28
+76103,30,Blood Elf,Mage,Hillsbrad Foothills,282,12/25/08 23:15:21
+74558,70,Undead,Priest,Orgrimmar,-1,07/31/08 20:23:32
+24739,70,Undead,Rogue,Netherstorm,53,03/05/08 21:00:24
+73148,11,Tauren,Druid,The Barrens,-1,06/05/08 16:57:28
+69567,70,Blood Elf,Paladin,Eye of the Storm,282,03/31/08 20:26:20
+28749,70,Troll,Priest,Tempest Keep,103,02/15/08 00:04:21
+230,70,Troll,Warrior,Netherstorm,103,04/20/08 21:55:18
+68470,69,Tauren,Druid,Netherstorm,167,03/24/08 20:28:44
+65620,80,Undead,Warlock,Dalaran,282,12/28/08 23:09:13
+23668,70,Undead,Priest,Nagrand,115,08/10/08 17:57:03
+31496,70,Blood Elf,Mage,Karazhan,282,01/21/08 00:10:33
+14389,70,Tauren,Warrior,Shattrath City,103,08/15/08 12:39:45
+64031,70,Undead,Warrior,Tanaris,282,10/22/08 22:28:35
+22357,70,Undead,Rogue,Blade's Edge Mountains,167,01/04/08 20:43:32
+44,70,Orc,Rogue,Blade's Edge Mountains,204,02/16/08 03:42:54
+54658,70,Blood Elf,Warlock,Terokkar Forest,161,07/21/08 00:22:25
+155,70,Tauren,Warrior,Karazhan,104,07/26/08 14:13:30
+63666,22,Undead,Rogue,Undercity,79,01/13/08 21:59:09
+68576,70,Tauren,Druid,Karazhan,189,09/04/08 14:28:47
+71346,14,Tauren,Druid,The Barrens,-1,04/21/08 20:23:57
+66963,41,Blood Elf,Priest,Stranglethorn Vale,135,10/01/08 22:51:06
+31647,70,Undead,Mage,Isle of Quel'Danas,103,05/06/08 18:08:12
+53826,70,Tauren,Druid,Hellfire Peninsula,205,01/22/08 21:37:18
+83446,80,Tauren,Druid,Dalaran,471,12/24/08 20:24:08
+66359,42,Blood Elf,Hunter,Tirisfal Glades,167,02/15/08 08:55:37
+61663,70,Blood Elf,Rogue,Coilfang: The Slave Pens,103,10/10/08 01:20:25
+71282,27,Undead,Rogue,Hillsbrad Foothills,205,04/30/08 12:43:51
+48432,70,Orc,Warrior,The Steamvault,101,08/17/08 20:47:06
+66868,2,Blood Elf,Paladin,Eversong Woods,-1,01/22/08 23:28:52
+87492,79,Tauren,Death Knight,Sholazar Basin,104,12/05/08 14:38:02
+2866,70,Undead,Priest,Tempest Keep,103,03/28/08 20:05:16
+25291,70,Tauren,Druid,Shattrath City,228,10/13/08 23:17:32
+42102,70,Blood Elf,Paladin,Shattrath City,103,06/05/08 21:00:01
+37459,70,Blood Elf,Mage,Auchenai Crypts,103,03/29/08 01:57:23
+27388,70,Undead,Warlock,Serpentshrine Cavern,103,05/09/08 21:27:54
+22039,78,Undead,Mage,Grizzly Hills,103,12/21/08 18:48:04
+51930,70,Tauren,Druid,Tempest Keep,189,11/06/08 22:27:00
+46116,70,Undead,Mage,Shattrath City,161,09/05/08 00:01:29
+72858,70,Tauren,Druid,Shattrath City,365,08/16/08 12:49:50
+172,80,Tauren,Shaman,Naxxramas,103,12/26/08 21:58:02
+59727,70,Blood Elf,Warlock,Nagrand,104,07/01/08 23:41:02
+75072,20,Blood Elf,Priest,Undercity,205,08/12/08 23:28:32
+75931,62,Blood Elf,Hunter,Eastern Plaguelands,-1,10/31/08 18:34:35
+34386,70,Blood Elf,Paladin,The Botanica,9,10/06/08 12:29:02
+278,76,Undead,Mage,Grizzly Hills,1,12/16/08 22:03:53
+57741,70,Undead,Warlock,Shattrath City,189,01/24/08 20:42:01
+72321,60,Undead,Mage,GM Island,-1,05/26/08 12:05:54
+271,70,Undead,Mage,Orgrimmar,62,01/16/08 04:09:31
+75670,80,Tauren,Warrior,Crystalsong Forest,205,12/27/08 16:27:16
+86508,72,Blood Elf,Death Knight,Borean Tundra,189,12/14/08 20:45:16
+3029,70,Orc,Warrior,Orgrimmar,5,04/12/08 21:01:47
+23687,70,Undead,Warlock,Nagrand,103,01/26/08 14:01:32
+51329,70,Tauren,Druid,The Botanica,35,03/23/08 16:09:21
+72430,70,Tauren,Warrior,Sethekk Halls,189,09/04/08 19:18:28
+1415,70,Tauren,Shaman,Nagrand,186,05/31/08 19:34:29
+1491,70,Tauren,Warrior,Warsong Gulch,79,07/07/08 19:14:28
+2058,70,Undead,Warlock,Black Temple,104,04/25/08 20:36:26
+44963,70,Blood Elf,Hunter,Alterac Valley,104,09/22/08 15:00:39
+76881,8,Blood Elf,Hunter,Eversong Woods,-1,08/21/08 22:16:43
+19275,22,Tauren,Shaman,Undercity,419,09/29/08 15:07:30
+44813,70,Tauren,Druid,Zangarmarsh,189,08/01/08 20:33:00
+53791,70,Tauren,Druid,Alterac Valley,204,05/07/08 17:36:44
+35004,70,Blood Elf,Paladin,The Blood Furnace,-1,07/27/08 13:46:02
+17230,70,Blood Elf,Paladin,Orgrimmar,53,05/13/08 12:17:54
+78149,25,Blood Elf,Hunter,Undercity,115,10/03/08 00:20:08
+73559,66,Blood Elf,Mage,Nagrand,251,09/13/08 23:19:56
+70084,2,Blood Elf,Mage,Eversong Woods,161,03/19/08 20:50:39
+65296,70,Blood Elf,Priest,Tanaris,282,02/23/08 23:10:07
+43280,70,Blood Elf,Paladin,Shattrath City,62,09/19/08 21:41:35
+66866,25,Blood Elf,Warlock,Stonetalon Mountains,103,03/06/08 21:50:52
+52702,70,Tauren,Druid,Thunder Bluff,167,04/18/08 18:55:00
+59354,70,Blood Elf,Mage,Eye of the Storm,35,09/19/08 23:00:37
+68049,68,Blood Elf,Hunter,Terokkar Forest,62,05/21/08 00:27:00
+28148,60,Orc,Hunter,Tanaris,-1,06/04/08 18:45:39
+65889,70,Blood Elf,Rogue,Blade's Edge Mountains,103,04/17/08 01:37:42
+37510,44,Blood Elf,Paladin,Badlands,358,06/20/08 21:28:16
+27239,35,Orc,Warrior,The Barrens,115,08/22/08 16:24:48
+57612,64,Tauren,Warrior,Zangarmarsh,282,01/09/08 19:59:45
+64796,70,Blood Elf,Priest,Shattrath City,53,02/11/08 03:26:40
+74563,70,Blood Elf,Paladin,Undercity,4,08/16/08 22:53:42
+68328,20,Blood Elf,Rogue,Silvermoon City,-1,03/18/08 07:21:02
+49810,70,Blood Elf,Rogue,Shadowmoon Valley,103,01/21/08 21:49:46
+52313,70,Undead,Mage,Shattrath City,189,08/02/08 20:14:49
+37156,74,Blood Elf,Mage,Dragonblight,189,11/23/08 13:05:49
+22357,70,Undead,Rogue,Shattrath City,35,06/06/08 10:27:50
+1161,70,Tauren,Shaman,Shattrath City,247,07/26/08 02:43:40
+456,70,Troll,Mage,Blackrock Depths,104,09/25/08 21:30:04
+21886,70,Tauren,Druid,Orgrimmar,-1,03/11/08 19:29:04
+1229,70,Undead,Mage,Shattrath City,9,04/08/08 00:32:58
+61736,70,Tauren,Warrior,Isle of Quel'Danas,243,04/11/08 22:35:13
+74861,5,Tauren,Shaman,Mulgore,-1,07/12/08 23:23:29
+155,70,Tauren,Warrior,Serpentshrine Cavern,101,03/10/08 21:28:47
+62,70,Orc,Warrior,Nagrand,5,01/24/08 23:59:08
+23323,70,Troll,Mage,Tempest Keep,104,02/01/08 21:24:58
+41715,70,Tauren,Warrior,Orgrimmar,-1,04/21/08 16:24:23
+21931,70,Undead,Mage,Shattrath City,103,06/11/08 19:57:42
+62987,70,Undead,Warrior,Sethekk Halls,282,04/19/08 14:27:40
+73567,60,Troll,Shaman,Hellfire Ramparts,396,07/12/08 18:03:43
+35655,70,Blood Elf,Paladin,Karazhan,259,07/04/08 08:03:33
+85712,80,Blood Elf,Paladin,Icecrown,189,12/21/08 17:04:38
+44960,15,Blood Elf,Mage,Ghostlands,-1,06/08/08 23:38:41
+21879,70,Tauren,Warrior,Shattrath City,103,05/15/08 21:42:33
+4008,70,Undead,Priest,Arathi Basin,103,01/19/08 14:58:35
+75102,37,Blood Elf,Paladin,Warsong Gulch,-1,08/30/08 18:20:54
+18646,70,Undead,Priest,Karazhan,161,09/25/08 22:48:54
+28845,70,Tauren,Druid,Shattrath City,282,08/12/08 04:36:01
+66527,50,Tauren,Warrior,Orgrimmar,35,03/25/08 00:28:48
+58571,70,Undead,Warlock,Blade's Edge Mountains,282,03/23/08 14:40:47
+11861,70,Tauren,Warrior,Terokkar Forest,104,03/21/08 17:28:46
+1321,70,Tauren,Druid,Shattrath City,4,05/22/08 21:55:01
+47821,70,Blood Elf,Paladin,Blade's Edge Mountains,243,02/05/08 00:14:13
+71857,57,Undead,Warrior,Western Plaguelands,35,05/22/08 21:46:23
+16416,70,Troll,Priest,Serpentshrine Cavern,104,07/22/08 22:32:54
+21984,70,Undead,Mage,Sunwell Plateau,104,06/01/08 03:34:49
+5198,70,Undead,Mage,Orgrimmar,205,11/17/08 21:46:05
+140,70,Tauren,Warrior,Serpentshrine Cavern,103,03/18/08 21:48:48
+48432,70,Orc,Warrior,Hyjal,101,09/03/08 22:38:04
+39520,70,Blood Elf,Mage,Arathi Basin,150,09/10/08 14:13:52
+55161,20,Tauren,Druid,Shadowfang Keep,-1,04/12/08 22:22:28
+77865,70,Blood Elf,Paladin,Shattrath City,115,11/10/08 22:59:49
+169,70,Tauren,Shaman,Dustwallow Marsh,79,04/27/08 19:55:52
+22453,70,Undead,Mage,Hyjal,103,05/26/08 21:25:42
+65651,69,Undead,Rogue,Blade's Edge Mountains,365,10/12/08 13:48:14
+73160,70,Tauren,Shaman,Hall of Legends,393,09/07/08 17:38:56
+73302,33,Blood Elf,Priest,Arathi Highlands,-1,07/22/08 10:24:22
+13705,70,Tauren,Druid,Shattrath City,62,05/30/08 22:24:01
+40933,53,Troll,Hunter,Tanaris,282,03/02/08 23:28:49
+74967,30,Undead,Mage,Arathi Highlands,101,08/05/08 22:46:29
+68893,36,Tauren,Druid,Alterac Mountains,282,10/16/08 23:16:30
+63513,72,Blood Elf,Paladin,Howling Fjord,103,11/24/08 22:26:41
+25994,80,Undead,Warlock,Dragonblight,103,12/25/08 21:59:42
+777,70,Orc,Hunter,Netherstorm,62,11/02/08 14:16:29
+56232,70,Undead,Mage,Eye of the Storm,101,06/01/08 22:46:57
+68502,70,Undead,Rogue,The Mechanar,101,05/31/08 22:14:53
+22399,70,Tauren,Warrior,Blackrock Depths,53,11/01/08 20:37:36
+182,1,Troll,Hunter,Durotar,-1,04/21/08 08:14:17
+67851,70,Undead,Priest,Karazhan,35,04/22/08 20:56:01
+71617,55,Blood Elf,Warlock,Felwood,161,09/26/08 02:39:54
+7208,70,Undead,Warlock,Shattrath City,53,06/01/08 12:05:41
+60220,70,Undead,Mage,Tempest Keep,103,08/01/08 22:13:40
+61663,70,Blood Elf,Rogue,Orgrimmar,-1,02/27/08 20:59:40
+30794,70,Tauren,Hunter,Blade's Edge Mountains,-1,01/01/08 10:32:50
+71401,36,Orc,Shaman,Stranglethorn Vale,358,11/15/08 16:56:09
+1535,70,Undead,Priest,Blade's Edge Mountains,53,04/08/08 22:09:15
+68000,33,Orc,Warrior,Thousand Needles,176,07/23/08 23:48:34
+60657,70,Blood Elf,Hunter,Serpentshrine Cavern,103,01/06/08 20:45:17
+45756,70,Undead,Mage,Alterac Valley,35,06/10/08 21:17:41
+44398,70,Blood Elf,Hunter,Netherstorm,459,10/27/08 17:08:22
+75255,63,Troll,Hunter,Shattrath City,161,08/21/08 20:25:50
+38462,70,Blood Elf,Rogue,Shattrath City,189,08/24/08 20:08:45
+66837,23,Undead,Warlock,Hillsbrad Foothills,-1,02/11/08 21:54:34
+57939,70,Troll,Hunter,The Steamvault,101,01/29/08 19:27:46
+2447,70,Tauren,Shaman,Warsong Gulch,103,01/16/08 00:18:18
+69528,6,Troll,Hunter,Durotar,282,03/10/08 00:49:25
+1321,70,Tauren,Druid,Warsong Gulch,4,03/19/08 12:09:03
+64313,70,Blood Elf,Priest,Isle of Quel'Danas,282,05/30/08 02:37:52
+67612,70,Orc,Hunter,Blade's Edge Mountains,5,04/03/08 00:53:00
+76709,11,Tauren,Druid,Mulgore,-1,08/18/08 14:26:30
+71204,70,Undead,Mage,Sethekk Halls,205,05/26/08 22:45:57
+31184,70,Undead,Rogue,Karazhan,101,02/15/08 23:05:00
+57741,70,Undead,Warlock,Black Temple,104,05/29/08 21:55:11
+73130,70,Blood Elf,Warlock,The Botanica,161,08/28/08 17:41:34
+44477,70,Orc,Hunter,Shattrath City,167,04/27/08 20:23:53
+34436,46,Blood Elf,Paladin,Desolace,-1,02/19/08 12:46:38
+21957,70,Troll,Priest,Ruins of Lordaeron,103,03/13/08 17:10:17
+23771,70,Undead,Warlock,Arathi Basin,282,01/13/08 16:59:27
+67444,61,Orc,Hunter,Hellfire Peninsula,320,02/27/08 12:25:52
+70173,80,Blood Elf,Priest,Dalaran,459,12/03/08 00:14:16
+57830,70,Blood Elf,Hunter,The Steamvault,101,08/02/08 14:25:21
+42099,70,Blood Elf,Paladin,Shattrath City,9,03/21/08 14:31:39
+85117,10,Blood Elf,Hunter,Silvermoon City,-1,12/17/08 23:25:48
+68587,70,Undead,Mage,Shadowmoon Valley,161,08/30/08 14:00:13
+75895,70,Undead,Priest,Terokkar Forest,79,11/16/08 22:20:22
+71303,70,Blood Elf,Paladin,Shattrath City,161,09/01/08 16:51:03
+59471,70,Undead,Warlock,Alterac Valley,103,03/07/08 22:30:49
+69741,24,Undead,Warlock,Stonetalon Mountains,251,03/22/08 22:10:28
+68025,70,Blood Elf,Hunter,Isle of Quel'Danas,189,07/27/08 16:16:07
+22453,70,Undead,Mage,Orgrimmar,103,01/05/08 01:33:32
+31900,75,Undead,Warlock,Dragonblight,103,11/26/08 06:05:48
+55362,49,Undead,Warlock,Orgrimmar,167,02/26/08 23:57:53
+12182,70,Undead,Priest,Karazhan,204,03/29/08 21:35:30
+122,70,Tauren,Hunter,Netherstorm,199,08/06/08 09:45:50
+35685,70,Undead,Rogue,Blackrock Spire,282,08/01/08 10:25:29
+23704,70,Orc,Warrior,Scarlet Monastery,110,10/22/08 21:15:28
+89822,54,Blood Elf,Paladin,Mulgore,463,12/27/08 12:30:30
+65046,70,Orc,Warrior,Terokkar Forest,282,02/29/08 19:35:49
+75298,55,Blood Elf,Hunter,Tirisfal Glades,365,09/25/08 23:02:01
+71918,48,Tauren,Druid,Un'Goro Crater,161,07/03/08 23:40:29
+40793,70,Tauren,Druid,Arathi Basin,103,03/12/08 11:09:37
+83446,43,Tauren,Druid,Stranglethorn Vale,471,11/04/08 22:10:42
+15109,46,Orc,Warrior,Feralas,-1,03/10/08 23:17:52
+9491,70,Undead,Priest,Karazhan,5,05/31/08 20:45:02
+22594,70,Orc,Hunter,The Steamvault,352,04/15/08 23:14:34
+25901,29,Troll,Shaman,Orgrimmar,-1,07/23/08 14:30:05
+39804,70,Blood Elf,Paladin,Karazhan,161,06/05/08 20:09:35
+65109,28,Blood Elf,Priest,Hillsbrad Foothills,-1,01/18/08 21:29:49
+68221,70,Tauren,Druid,Isle of Quel'Danas,161,06/03/08 11:26:28
+67784,70,Blood Elf,Priest,Orgrimmar,35,02/18/08 00:26:51
+68025,70,Blood Elf,Hunter,Orgrimmar,189,07/17/08 18:25:16
+46249,51,Blood Elf,Hunter,The Hinterlands,358,06/28/08 19:45:09
+69914,36,Blood Elf,Paladin,The Barrens,-1,04/01/08 18:05:53
+31184,70,Undead,Rogue,Orgrimmar,101,01/30/08 20:35:57
+20723,70,Troll,Shaman,Shattrath City,204,03/25/08 22:39:34
+22493,70,Undead,Priest,Orgrimmar,104,06/25/08 00:22:02
+72632,70,Blood Elf,Rogue,The Mechanar,101,08/14/08 13:53:46
+34392,70,Blood Elf,Paladin,Serpentshrine Cavern,103,03/30/08 21:36:35
+22148,70,Tauren,Shaman,Blade's Edge Arena,103,11/05/08 20:02:54
+171,70,Tauren,Shaman,Orgrimmar,4,01/14/08 17:08:00
+22473,80,Tauren,Shaman,Naxxramas,103,12/19/08 21:41:42
+68422,64,Troll,Hunter,Zangarmarsh,-1,04/27/08 02:24:55
+72042,16,Blood Elf,Hunter,Silvermoon City,-1,05/10/08 14:17:27
+42482,70,Blood Elf,Warlock,Magisters' Terrace,53,05/29/08 16:27:29
+22728,70,Troll,Rogue,Orgrimmar,-1,09/10/08 09:08:32
+55823,69,Tauren,Warrior,Shattrath City,312,03/21/08 00:48:59
+63527,69,Blood Elf,Paladin,Blade's Edge Mountains,161,08/26/08 00:28:29
+69293,70,Blood Elf,Paladin,Eversong Woods,62,05/26/08 20:37:30
+19020,70,Troll,Priest,Shadowmoon Valley,-1,02/16/08 01:54:21
+1395,70,Tauren,Druid,Orgrimmar,101,08/05/08 00:35:41
+68905,70,Blood Elf,Paladin,Alterac Valley,101,09/28/08 01:40:30
+65300,65,Undead,Warrior,Terokkar Forest,189,02/24/08 17:08:09
+22197,70,Undead,Priest,Hellfire Peninsula,103,08/04/08 11:33:47
+35143,70,Blood Elf,Hunter,Blade's Edge Mountains,5,02/02/08 07:26:44
+40453,68,Blood Elf,Paladin,Blade's Edge Mountains,256,03/15/08 08:21:46
+23720,70,Tauren,Warrior,Shattrath City,35,05/16/08 12:23:53
+35729,70,Blood Elf,Paladin,Karazhan,189,02/24/08 04:00:03
+45444,75,Troll,Hunter,Dragonblight,53,11/28/08 11:07:10
+20884,70,Undead,Rogue,Shattrath City,9,06/10/08 22:18:09
+60619,70,Blood Elf,Paladin,The Mechanar,35,06/04/08 21:29:33
+4318,70,Undead,Warrior,The Arcatraz,424,09/09/08 22:38:59
+23967,70,Troll,Rogue,Borean Tundra,189,11/24/08 01:03:14
+35094,70,Blood Elf,Paladin,Isle of Quel'Danas,9,07/11/08 00:06:06
+44398,70,Blood Elf,Hunter,Old Hillsbrad Foothills,35,01/03/08 20:56:16
+65177,70,Tauren,Shaman,Nagrand,282,10/25/08 20:26:24
+64599,46,Blood Elf,Paladin,Dustwallow Marsh,282,02/17/08 06:25:45
+23338,70,Undead,Mage,Nagrand,35,06/10/08 21:57:50
+75745,31,Blood Elf,Hunter,Stranglethorn Vale,251,08/03/08 23:04:56
+63796,70,Blood Elf,Warlock,Blade's Edge Mountains,257,06/01/08 11:16:24
+26137,70,Blood Elf,Rogue,Hellfire Ramparts,-1,05/08/08 23:08:15
+62239,70,Undead,Mage,Orgrimmar,205,10/20/08 01:27:49
+67862,70,Blood Elf,Mage,Mulgore,205,10/20/08 23:49:42
+12732,70,Orc,Rogue,Shattrath City,53,04/12/08 17:45:13
+85326,21,Blood Elf,Paladin,Stonetalon Mountains,-1,11/06/08 22:58:30
+25994,70,Undead,Warlock,Serpentshrine Cavern,103,08/16/08 20:51:28
+41004,47,Orc,Rogue,Feralas,115,01/22/08 22:56:11
+44387,74,Blood Elf,Paladin,Dragonblight,289,11/28/08 23:13:06
+34216,70,Orc,Warrior,Azuremyst Isle,53,10/26/08 19:24:58
+71319,35,Tauren,Warrior,Arathi Highlands,365,06/01/08 20:03:02
+11504,74,Undead,Warlock,Dragonblight,251,12/27/08 02:59:44
+66423,17,Blood Elf,Mage,Ghostlands,189,02/07/08 20:22:38
+37611,70,Troll,Rogue,Isle of Quel'Danas,35,07/08/08 02:05:01
+27940,77,Undead,Priest,Dragonblight,424,12/26/08 00:43:32
+159,72,Tauren,Warrior,Orgrimmar,79,12/13/08 16:33:39
+55,75,Orc,Hunter,Howling Fjord,481,12/14/08 02:00:19
+61510,70,Tauren,Hunter,Warsong Gulch,174,02/24/08 15:26:47
+5198,77,Undead,Mage,Grizzly Hills,205,12/10/08 01:33:37
+59617,24,Undead,Rogue,The Barrens,-1,03/21/08 16:50:12
+70299,63,Blood Elf,Warlock,Terokkar Forest,-1,05/22/08 18:18:15
+22435,70,Orc,Hunter,Arathi Basin,103,01/27/08 18:59:45
+36561,70,Blood Elf,Priest,Orgrimmar,104,02/15/08 00:26:29
+64408,70,Blood Elf,Priest,Shadowmoon Valley,256,02/06/08 02:14:07
+70839,70,Blood Elf,Paladin,Terokkar Forest,459,10/31/08 23:44:03
+73418,48,Orc,Warrior,The Hinterlands,103,08/09/08 17:54:49
+34375,70,Blood Elf,Warlock,The Steamvault,103,02/08/08 23:04:03
+77119,70,Troll,Hunter,Arathi Basin,-1,08/28/08 20:49:00
+22476,70,Undead,Mage,Magisters' Terrace,35,04/08/08 15:29:11
+1177,70,Undead,Mage,Isle of Quel'Danas,9,08/27/08 20:20:02
+65296,70,Blood Elf,Priest,Karazhan,282,04/18/08 22:38:08
+32141,70,Undead,Mage,The Shattered Halls,167,01/01/08 17:54:46
+14404,58,Troll,Hunter,Orgrimmar,273,02/05/08 11:41:14
+20884,70,Undead,Rogue,Alterac Valley,103,02/16/08 10:35:03
+36561,70,Blood Elf,Priest,Black Temple,104,05/23/08 21:37:47
+22154,70,Troll,Hunter,Shattrath City,103,06/28/08 19:23:53
+1415,70,Tauren,Shaman,Karazhan,186,05/24/08 00:25:01
+21904,70,Undead,Priest,Terokkar Forest,35,04/23/08 08:16:16
+31937,70,Troll,Rogue,Nagrand,104,07/06/08 19:36:31
+62446,70,Blood Elf,Mage,Isle of Quel'Danas,336,04/18/08 18:48:40
+69560,8,Blood Elf,Hunter,Eversong Woods,-1,03/11/08 01:40:42
+69393,26,Undead,Warlock,Orgrimmar,342,04/29/08 19:35:22
+65469,70,Blood Elf,Paladin,Terokkar Forest,282,04/12/08 10:58:18
+61663,80,Blood Elf,Rogue,The Storm Peaks,103,12/24/08 01:14:10
+69084,70,Blood Elf,Warlock,Netherstorm,189,07/12/08 10:57:25
+58276,70,Orc,Warrior,Orgrimmar,103,07/14/08 16:32:32
+60461,42,Blood Elf,Mage,Ghostlands,16,02/12/08 00:45:42
+57770,70,Blood Elf,Warlock,Terokkar Forest,35,08/21/08 17:49:59
+2350,70,Undead,Warrior,Shadowmoon Valley,204,02/24/08 16:38:39
+22155,70,Troll,Hunter,Hyjal,104,02/26/08 23:17:56
+34791,70,Blood Elf,Paladin,Blade's Edge Mountains,101,09/06/08 20:21:33
+68826,70,Blood Elf,Mage,Warsong Gulch,6,08/26/08 23:22:00
+16798,70,Undead,Priest,Onyxia's Lair,104,08/25/08 14:17:18
+69687,35,Blood Elf,Warlock,Hillsbrad Foothills,165,03/16/08 19:41:13
+75637,57,Blood Elf,Hunter,Un'Goro Crater,4,08/11/08 01:18:12
+53986,70,Blood Elf,Priest,The Mechanar,-1,07/31/08 21:05:26
+10313,70,Undead,Priest,Warsong Gulch,103,08/13/08 18:38:08
+73847,25,Undead,Warlock,Hillsbrad Foothills,365,07/07/08 04:15:24
+46410,70,Blood Elf,Mage,Mulgore,282,07/06/08 08:48:58
+22944,70,Undead,Mage,Magisters' Terrace,104,04/02/08 20:16:12
+24390,70,Undead,Priest,Netherstorm,174,03/18/08 00:50:18
+492,79,Undead,Mage,Icecrown,104,12/15/08 02:04:02
+22228,70,Undead,Warlock,The Temple of Atal'Hakkar,103,02/28/08 18:28:59
+18089,70,Tauren,Druid,Thunder Bluff,161,09/12/08 20:07:38
+405,70,Undead,Warrior,Zangarmarsh,204,04/16/08 08:59:26
+60969,42,Blood Elf,Warlock,Badlands,-1,07/29/08 21:24:55
+21895,70,Troll,Rogue,Shattrath City,103,11/17/08 20:01:18
+52269,70,Blood Elf,Hunter,Isle of Quel'Danas,352,09/21/08 12:41:00
+71866,55,Blood Elf,Paladin,Felwood,-1,05/19/08 13:07:08
+55209,70,Blood Elf,Rogue,Eye of the Storm,226,06/28/08 17:37:31
+66442,38,Blood Elf,Rogue,Stranglethorn Vale,-1,11/06/08 23:09:51
+35002,70,Undead,Mage,Sethekk Halls,103,09/15/08 03:49:04
+22658,70,Tauren,Druid,Sunwell Plateau,103,04/29/08 23:12:59
+75769,58,Troll,Hunter,Silithus,251,09/06/08 13:18:34
+1564,70,Orc,Warrior,Karazhan,205,02/16/08 00:32:48
+22270,70,Undead,Warlock,Hillsbrad Foothills,-1,09/19/08 19:59:27
+74915,25,Troll,Rogue,Undercity,282,08/14/08 15:39:51
+34436,70,Blood Elf,Paladin,The Black Morass,282,03/25/08 20:32:11
+57420,70,Undead,Warlock,Black Temple,189,10/13/08 21:08:41
+38726,70,Blood Elf,Mage,Arathi Basin,-1,07/28/08 16:05:57
+23430,70,Tauren,Shaman,Black Temple,104,03/25/08 21:29:01
+20650,10,Blood Elf,Warlock,Eversong Woods,220,03/02/08 17:20:13
+29795,46,Troll,Mage,The Hinterlands,358,05/19/08 12:05:05
+43406,70,Blood Elf,Paladin,Tanaris,104,05/26/08 23:47:36
+37084,71,Blood Elf,Paladin,Borean Tundra,365,11/28/08 01:53:53
+37228,70,Blood Elf,Priest,Shattrath City,9,07/23/08 23:42:50
+17170,70,Undead,Warrior,Arathi Basin,101,05/24/08 09:28:35
+75637,58,Blood Elf,Hunter,Orgrimmar,4,08/11/08 19:37:52
+45793,41,Blood Elf,Warlock,Dustwallow Marsh,252,09/19/08 19:49:45
+61721,70,Blood Elf,Warlock,Orgrimmar,19,05/11/08 23:18:38
+60179,70,Tauren,Shaman,Karazhan,53,07/10/08 23:53:55
+13184,70,Tauren,Hunter,Netherstorm,62,03/22/08 15:59:09
+35515,32,Blood Elf,Paladin,Orgrimmar,-1,12/07/08 00:10:15
+28497,70,Tauren,Shaman,Black Temple,103,11/04/08 23:09:51
+77004,10,Blood Elf,Hunter,Eversong Woods,-1,08/26/08 22:00:00
+30945,70,Undead,Rogue,The Arcatraz,167,02/04/08 05:55:58
+62199,62,Tauren,Druid,Thunder Bluff,115,05/21/08 11:14:34
+22281,76,Orc,Warrior,Utgarde Keep,424,12/07/08 22:36:48
+51234,56,Blood Elf,Rogue,Silithus,62,02/14/08 00:05:58
+58242,70,Blood Elf,Warlock,Karazhan,101,04/09/08 00:31:29
+58750,60,Blood Elf,Priest,Hellfire Peninsula,282,01/02/08 13:25:25
+53022,70,Tauren,Warrior,Thunder Bluff,161,10/28/08 22:50:58
+33301,70,Troll,Hunter,Nagrand,204,02/17/08 16:14:32
+61736,72,Tauren,Warrior,Borean Tundra,104,11/21/08 22:43:51
+87571,58,Blood Elf,Death Knight,Orgrimmar,-1,12/24/08 18:56:39
+9272,73,Tauren,Druid,Utgarde Keep,189,12/24/08 01:25:08
+69992,51,Blood Elf,Rogue,The Hinterlands,282,08/03/08 13:15:09
+84001,51,Tauren,Druid,Un'Goro Crater,471,11/09/08 17:24:08
+182,1,Troll,Hunter,Durotar,-1,02/08/08 23:31:03
+38818,32,Tauren,Druid,Thousand Needles,-1,03/16/08 11:39:05
+64259,70,Blood Elf,Hunter,Darkshore,103,10/25/08 01:58:41
+681,70,Tauren,Hunter,Badlands,103,03/29/08 17:33:49
+72042,70,Blood Elf,Hunter,Arathi Basin,282,06/08/08 20:59:25
+22150,70,Undead,Priest,Hellfire Peninsula,103,05/24/08 19:26:02
+399,80,Undead,Warlock,Naxxramas,104,11/26/08 22:39:40
+53911,70,Blood Elf,Mage,Stratholme,103,07/02/08 09:20:49
+63384,58,Blood Elf,Mage,Hellfire Peninsula,35,02/16/08 17:55:48
+34914,80,Blood Elf,Paladin,Drak'Tharon Keep,101,12/30/08 00:53:46
+71241,70,Undead,Rogue,Coilfang: The Slave Pens,-1,06/27/08 22:34:52
+398,70,Undead,Warlock,Sunwell Plateau,204,05/23/08 18:46:25
+77966,32,Blood Elf,Mage,Hillsbrad Foothills,53,10/11/08 02:59:11
+28683,54,Tauren,Hunter,The Hinterlands,-1,02/17/08 21:53:19
+22957,70,Undead,Priest,The Steamvault,251,10/20/08 10:57:42
+86346,80,Undead,Death Knight,Halls of Lightning,103,12/07/08 03:39:07
+820,80,Tauren,Shaman,Dalaran,103,12/07/08 05:40:38
+51234,60,Blood Elf,Rogue,Orgrimmar,62,05/10/08 17:47:41
+405,70,Undead,Warrior,Magisters' Terrace,266,11/02/08 18:39:33
+72024,70,Blood Elf,Paladin,Arathi Basin,424,08/30/08 22:04:45
+21990,70,Orc,Warrior,Un'Goro Crater,101,08/23/08 16:15:05
+22087,68,Orc,Warrior,Blade's Edge Mountains,103,06/10/08 05:15:37
+19534,70,Troll,Rogue,The Blood Furnace,161,02/13/08 16:04:13
+72382,10,Tauren,Warrior,Mulgore,-1,05/21/08 22:44:30
+72257,35,Tauren,Shaman,Undercity,365,09/04/08 17:28:40
+230,70,Troll,Warrior,Karazhan,103,05/24/08 22:15:48
+26822,70,Tauren,Druid,Shattrath City,103,10/23/08 19:29:43
+34506,70,Blood Elf,Hunter,The Shattered Halls,216,02/25/08 14:50:13
+32141,70,Undead,Mage,Sethekk Halls,167,01/30/08 19:45:32
+27089,78,Tauren,Druid,Halls of Stone,101,12/16/08 23:33:26
+35002,70,Undead,Mage,Blade's Edge Mountains,103,08/14/08 20:41:28
+78939,16,Blood Elf,Priest,The Barrens,-1,10/25/08 10:47:54
+77132,67,Blood Elf,Priest,Netherstorm,101,09/12/08 18:30:24
+63127,70,Orc,Hunter,Terokkar Forest,282,01/24/08 00:16:24
+27081,70,Troll,Mage,Orgrimmar,104,05/26/08 23:15:40
+73903,11,Orc,Hunter,Eversong Woods,-1,09/16/08 10:58:29
+33441,62,Tauren,Druid,Shattrath City,-1,08/31/08 19:10:18
+69535,41,Blood Elf,Warlock,The Hinterlands,320,04/08/08 15:39:42
+74795,13,Tauren,Shaman,Durotar,-1,07/14/08 22:03:29
+46072,70,Blood Elf,Mage,Shattrath City,174,02/14/08 21:16:42
+23118,70,Undead,Priest,Orgrimmar,204,02/27/08 06:08:07
+72174,18,Tauren,Shaman,Thunder Bluff,413,07/22/08 02:30:18
+2416,70,Undead,Warlock,Hellfire Peninsula,204,04/02/08 08:45:14
+22078,79,Undead,Warlock,Zul'Drak,161,12/10/08 20:46:31
+29058,70,Undead,Priest,Orgrimmar,62,03/15/08 14:40:53
+21984,70,Undead,Mage,Terokkar Forest,220,03/31/08 18:34:54
+36033,70,Blood Elf,Mage,Netherstorm,300,01/29/08 20:40:01
+72123,70,Blood Elf,Hunter,Shattrath City,-1,08/21/08 20:48:14
+74038,70,Tauren,Shaman,Terokkar Forest,103,11/02/08 10:57:57
+64550,50,Blood Elf,Hunter,Undercity,282,03/08/08 00:11:04
+62444,70,Blood Elf,Paladin,The Underbog,62,08/06/08 21:50:05
+61748,80,Blood Elf,Rogue,Strand of the Ancients,189,12/27/08 19:21:16
+22238,70,Tauren,Warrior,Nagrand,101,10/08/08 15:46:41
+60674,70,Blood Elf,Rogue,Razorfen Kraul,343,04/21/08 00:48:05
+22210,70,Troll,Mage,The Blood Furnace,104,04/26/08 12:55:31
+22645,80,Undead,Warlock,The Culling of Stratholme,103,12/14/08 20:02:36
+29395,70,Troll,Priest,Hyjal,103,08/15/08 23:30:33
+24953,70,Blood Elf,Hunter,Nagrand,-1,11/15/08 23:27:07
+87194,58,Blood Elf,Death Knight,Alterac Mountains,-1,12/07/08 21:41:43
+18758,54,Tauren,Warrior,Winterspring,171,02/27/08 03:16:32
+40793,70,Tauren,Druid,Eye of the Storm,103,03/09/08 16:49:37
+72266,8,Tauren,Druid,Mulgore,-1,05/13/08 22:35:19
+77658,19,Undead,Rogue,The Barrens,327,10/11/08 14:57:48
+75402,66,Undead,Rogue,Blade's Edge Mountains,282,08/19/08 16:28:03
+86265,80,Orc,Death Knight,The Violet Hold,204,12/09/08 20:10:40
+69870,19,Undead,Warlock,The Barrens,-1,11/16/08 10:18:44
+21939,70,Tauren,Druid,Shattrath City,35,07/13/08 01:04:00
+73413,70,Troll,Shaman,Shattrath City,315,09/23/08 01:28:33
+66789,56,Blood Elf,Hunter,Badlands,282,02/28/08 21:38:55
+68049,44,Blood Elf,Hunter,Tanaris,62,03/23/08 18:51:03
+6759,70,Tauren,Druid,Karazhan,53,03/12/08 21:19:16
+26150,67,Tauren,Warrior,Shattrath City,-1,10/06/08 20:37:51
+958,70,Tauren,Shaman,Orgrimmar,53,01/30/08 14:33:58
+75332,1,Blood Elf,Mage,Eversong Woods,-1,07/21/08 22:31:57
+56063,70,Blood Elf,Mage,The Botanica,161,03/25/08 09:02:18
+1784,70,Undead,Priest,The Steamvault,161,01/16/08 21:09:56
+63100,36,Blood Elf,Rogue,Orgrimmar,282,01/15/08 06:10:22
+24455,53,Troll,Rogue,Swamp of Sorrows,272,03/03/08 22:48:48
+22137,70,Troll,Hunter,Karazhan,174,04/25/08 20:54:54
+62763,70,Troll,Rogue,Karazhan,189,09/13/08 03:10:40
+51361,70,Tauren,Druid,Shadowmoon Valley,266,02/05/08 01:31:02
+58890,70,Blood Elf,Hunter,Hyjal,103,08/23/08 23:29:34
+74803,80,Blood Elf,Death Knight,Undercity,1,12/18/08 17:00:34
+63729,61,Blood Elf,Mage,Silithus,79,01/06/08 01:54:40
+25363,70,Undead,Priest,Isle of Quel'Danas,204,06/20/08 22:37:48
+52313,70,Undead,Mage,Karazhan,189,03/01/08 15:57:47
+67046,31,Orc,Hunter,Tirisfal Glades,282,05/13/08 20:44:30
+22021,70,Troll,Priest,Zangarmarsh,103,05/30/08 17:05:25
+22357,70,Undead,Rogue,Hyjal,35,07/05/08 22:15:56
+7131,33,Orc,Warlock,Orgrimmar,53,08/02/08 12:21:35
+28845,70,Tauren,Druid,Alterac Valley,282,08/14/08 01:26:01
+26420,70,Undead,Priest,Orgrimmar,204,01/19/08 23:58:34
+64670,68,Blood Elf,Hunter,Nagrand,174,03/08/08 00:41:29
+68217,70,Undead,Rogue,Shadowmoon Valley,174,02/24/08 23:48:22
+43280,70,Blood Elf,Paladin,Shattrath City,62,09/29/08 22:17:35
+73117,27,Troll,Rogue,Stonetalon Mountains,-1,07/11/08 01:24:46
+64919,70,Orc,Warrior,Auchindoun: Shadow Labyrinth,282,05/28/08 23:53:04
+182,1,Troll,Hunter,Durotar,-1,04/08/08 15:58:04
+35308,70,Blood Elf,Paladin,Terokkar Forest,282,02/23/08 11:19:38
+64599,57,Blood Elf,Paladin,Stratholme,282,03/01/08 16:28:51
+9520,32,Tauren,Warrior,Thousand Needles,-1,01/28/08 23:47:04
+71977,43,Tauren,Druid,Stranglethorn Vale,161,05/29/08 12:43:12
+3189,35,Blood Elf,Warlock,Tirisfal Glades,315,03/05/08 18:40:56
+4318,70,Undead,Warrior,Sethekk Halls,19,04/19/08 18:36:18
+68112,70,Troll,Shaman,Coilfang: The Slave Pens,281,09/16/08 04:18:23
+22138,70,Troll,Hunter,Shattrath City,174,02/19/08 13:43:30
+88727,16,Orc,Hunter,The Barrens,-1,12/05/08 03:44:52
+31563,70,Tauren,Shaman,The Shattered Halls,251,10/20/08 03:16:14
+75659,80,Blood Elf,Rogue,Gundrak,424,12/07/08 00:23:40
+49778,70,Blood Elf,Rogue,Zangarmarsh,189,07/09/08 13:29:41
+26387,65,Tauren,Druid,Shattrath City,106,06/03/08 23:36:35
+23070,70,Undead,Warlock,Shattrath City,103,03/17/08 22:40:46
+89338,6,Blood Elf,Mage,Eversong Woods,-1,12/10/08 18:32:10
+23025,70,Orc,Rogue,Isle of Quel'Danas,-1,10/19/08 11:15:22
+51101,36,Troll,Hunter,Stranglethorn Vale,-1,02/11/08 18:33:50
+12111,70,Troll,Mage,Shattrath City,104,01/12/08 00:31:05
+51329,70,Tauren,Druid,Shattrath City,35,01/11/08 00:00:00
+69147,33,Tauren,Warrior,Desolace,342,09/23/08 07:39:15
+59153,66,Blood Elf,Paladin,Nagrand,104,03/15/08 20:41:43
+11675,61,Tauren,Druid,Western Plaguelands,79,07/26/08 16:44:16
+22678,70,Undead,Rogue,Netherstorm,300,04/18/08 16:37:28
+9457,70,Undead,Mage,Orgrimmar,62,02/03/08 15:15:45
+6800,70,Undead,Priest,Arathi Basin,104,01/16/08 22:59:50
+48508,70,Blood Elf,Warlock,Nagrand,53,02/13/08 02:26:30
+86381,71,Blood Elf,Death Knight,Borean Tundra,105,11/27/08 12:04:35
+63379,41,Blood Elf,Priest,Stranglethorn Vale,-1,01/05/08 23:54:06
+67732,70,Undead,Warlock,Shattrath City,103,10/24/08 14:47:55
+57741,70,Undead,Warlock,Zangarmarsh,104,02/24/08 03:48:32
+22330,70,Tauren,Shaman,Serpentshrine Cavern,104,05/25/08 21:34:25
+70125,70,Blood Elf,Mage,Shattrath City,282,06/08/08 19:20:45
+26285,70,Tauren,Hunter,Hellfire Peninsula,189,01/23/08 23:17:09
+65852,53,Blood Elf,Hunter,Mulgore,282,02/07/08 13:23:08
+67525,27,Blood Elf,Mage,The Barrens,243,03/17/08 02:30:52
+68282,41,Blood Elf,Hunter,Stranglethorn Vale,243,02/24/08 14:39:03
+37072,47,Blood Elf,Paladin,Stranglethorn Vale,35,05/20/08 09:57:03
+74038,66,Tauren,Shaman,Nagrand,430,10/14/08 13:27:03
+64297,70,Tauren,Warrior,The Shattered Halls,282,05/15/08 20:32:44
+23199,70,Tauren,Shaman,Terokkar Forest,104,02/06/08 16:30:58
+78624,16,Blood Elf,Warlock,The Barrens,281,10/12/08 00:28:48
+59223,64,Troll,Shaman,Terokkar Forest,174,01/16/08 15:18:47
+73401,35,Undead,Warlock,Arathi Highlands,53,08/09/08 17:20:23
+35072,42,Blood Elf,Paladin,The Hinterlands,-1,02/16/08 21:45:51
+21957,70,Troll,Priest,Black Temple,-1,11/11/08 22:41:24
+22127,70,Troll,Hunter,Zangarmarsh,101,03/20/08 18:10:02
+5088,70,Orc,Warlock,Alterac Valley,4,03/23/08 13:09:01
+53078,70,Blood Elf,Warlock,Black Temple,204,03/04/08 22:41:55
+67758,70,Undead,Rogue,Karazhan,103,02/28/08 00:28:08
+2715,70,Blood Elf,Warlock,Blackrock Spire,161,01/01/08 12:06:19
+398,70,Undead,Warlock,Shattrath City,204,03/05/08 00:00:46
+24601,14,Troll,Mage,Orgrimmar,382,11/30/08 16:19:30
+63859,56,Tauren,Druid,Winterspring,167,01/16/08 22:47:37
+47607,31,Blood Elf,Paladin,Scarlet Monastery,161,07/11/08 20:52:38
+25725,70,Tauren,Druid,Shattrath City,101,05/29/08 22:03:29
+75904,12,Blood Elf,Mage,Silvermoon City,-1,08/11/08 02:17:42
+63253,70,Undead,Warlock,Alterac Valley,35,05/15/08 00:27:24
+61473,70,Undead,Warlock,Magisters' Terrace,35,04/02/08 13:16:40
+4158,70,Tauren,Hunter,Nagrand,79,03/12/08 21:19:06
+28845,70,Tauren,Druid,Sethekk Halls,282,04/22/08 02:24:59
+86268,73,Tauren,Death Knight,Dragonblight,-1,12/08/08 17:07:09
+61523,70,Undead,Mage,Sunwell Plateau,189,06/01/08 22:25:10
+42267,70,Tauren,Druid,Old Hillsbrad Foothills,79,01/16/08 22:58:33
+5717,70,Blood Elf,Paladin,Orgrimmar,282,03/15/08 20:21:36
+78950,1,Orc,Hunter,Orgrimmar,200,12/24/08 11:11:42
+64313,70,Blood Elf,Priest,Karazhan,189,09/11/08 21:30:14
+51154,56,Blood Elf,Paladin,Winterspring,-1,06/21/08 23:47:57
+50411,70,Blood Elf,Paladin,Shattrath City,101,07/15/08 16:06:33
+45897,70,Tauren,Warrior,Shattrath City,308,06/24/08 22:37:39
+76353,70,Troll,Hunter,Isle of Quel'Danas,4,08/14/08 17:10:26
+44398,70,Blood Elf,Hunter,Auchindoun: Shadow Labyrinth,35,01/13/08 01:16:41
+513,70,Troll,Rogue,Black Temple,62,09/08/08 23:49:33
+34456,70,Blood Elf,Warlock,The Underbog,101,01/29/08 22:00:12
+22222,70,Tauren,Druid,Blade's Edge Arena,101,05/11/08 12:56:00
+67891,79,Orc,Shaman,The Storm Peaks,342,12/28/08 21:05:04
+182,1,Troll,Hunter,Durotar,-1,09/20/08 13:27:57
+72711,70,Undead,Priest,Shattrath City,-1,10/03/08 21:29:32
+22325,70,Undead,Rogue,Winterspring,103,07/26/08 13:05:22
+2058,72,Undead,Warlock,Dragonblight,104,11/21/08 22:57:46
+74636,12,Orc,Shaman,Durotar,-1,07/10/08 14:34:21
+65860,70,Orc,Hunter,The Steamvault,35,03/08/08 16:58:12
+57101,70,Blood Elf,Paladin,Orgrimmar,62,02/17/08 08:56:53
+63158,68,Blood Elf,Mage,Blade's Edge Mountains,-1,04/28/08 00:57:29
+27089,70,Tauren,Druid,Shattrath City,101,06/21/08 03:46:00
+22350,70,Tauren,Druid,Eye of the Storm,104,02/13/08 21:03:41
+69358,70,Blood Elf,Rogue,The Steamvault,250,08/04/08 21:18:45
+35413,70,Blood Elf,Paladin,Netherstorm,243,07/15/08 16:16:17
+18003,70,Orc,Hunter,Coilfang: The Slave Pens,161,05/10/08 13:25:35
+14068,70,Undead,Mage,Nagrand,252,01/31/08 23:45:31
+23118,70,Undead,Priest,Shattrath City,204,03/27/08 00:40:36
+62987,70,Undead,Warrior,Isle of Quel'Danas,282,04/18/08 23:56:02
+56797,70,Tauren,Druid,Zangarmarsh,161,04/19/08 12:47:28
+56755,56,Tauren,Shaman,Burning Steppes,161,01/13/08 13:53:54
+1567,80,Tauren,Druid,Dalaran,189,12/21/08 20:16:50
+15093,25,Troll,Shaman,Tanaris,427,09/10/08 21:08:05
+27575,53,Tauren,Hunter,Un'Goro Crater,-1,03/09/08 18:28:54
+60769,70,Blood Elf,Priest,Karazhan,189,05/24/08 14:28:33
+2260,69,Undead,Priest,Shadowmoon Valley,5,05/25/08 00:46:25
+65335,70,Tauren,Shaman,Orgrimmar,161,04/22/08 20:14:54
+53911,70,Blood Elf,Mage,Stranglethorn Vale,103,06/22/08 00:09:26
+22154,80,Troll,Hunter,Tanaris,103,12/16/08 19:05:31
+22976,70,Troll,Priest,Shattrath City,35,04/19/08 23:36:11
+18715,70,Undead,Warlock,Orgrimmar,282,08/16/08 22:52:36
+26350,70,Tauren,Warrior,Shattrath City,35,01/05/08 15:01:52
+47110,55,Troll,Hunter,Eastern Plaguelands,-1,11/12/08 19:14:07
+20884,70,Undead,Rogue,Orgrimmar,104,08/15/08 01:20:57
+21861,70,Tauren,Warrior,Serpentshrine Cavern,101,05/29/08 21:04:51
+56487,70,Blood Elf,Mage,Undercity,352,04/29/08 22:36:17
+21891,70,Troll,Warrior,Karazhan,104,02/18/08 01:44:19
+35324,70,Blood Elf,Priest,Warsong Gulch,101,08/22/08 15:18:49
+45897,32,Tauren,Warrior,Thunder Bluff,308,02/13/08 16:03:12
+67230,49,Blood Elf,Mage,Zul'Farrak,79,02/17/08 08:56:22
+74939,51,Blood Elf,Priest,Western Plaguelands,282,08/17/08 22:49:10
+41252,70,Blood Elf,Paladin,Deadwind Pass,103,02/02/08 14:26:55
+60525,70,Undead,Rogue,Western Plaguelands,53,03/30/08 04:57:44
+78621,10,Blood Elf,Rogue,Eversong Woods,-1,09/30/08 01:06:31
+68032,11,Blood Elf,Warlock,Silvermoon City,333,03/11/08 23:21:02
+36551,70,Blood Elf,Hunter,Shattrath City,104,04/14/08 21:18:10
+58826,70,Tauren,Shaman,Shattrath City,19,04/02/08 23:53:55
+20995,70,Undead,Mage,Nagrand,53,01/26/08 15:51:46
+278,70,Undead,Mage,Arathi Highlands,266,08/07/08 22:47:11
+68159,70,Tauren,Druid,Shattrath City,204,11/14/08 15:20:05
+23049,3,Orc,Warlock,Orgrimmar,295,06/04/08 02:35:56
+54003,70,Blood Elf,Warlock,Arathi Basin,205,09/19/08 20:13:00
+68229,1,Tauren,Druid,Mulgore,-1,02/21/08 17:21:06
+68138,2,Blood Elf,Mage,Eversong Woods,-1,02/14/08 17:05:15
+3923,70,Tauren,Warrior,Netherstorm,62,08/15/08 16:59:44
+25521,38,Undead,Priest,Stranglethorn Vale,251,07/02/08 16:59:34
+23929,25,Tauren,Druid,Orgrimmar,150,06/12/08 16:36:03
+6231,70,Undead,Warrior,The Mechanar,273,05/14/08 22:16:55
+63729,70,Blood Elf,Mage,Karazhan,79,03/01/08 22:39:48
+21944,70,Troll,Rogue,Duskwood,189,10/27/08 21:55:44
+72123,70,Blood Elf,Hunter,Terokkar Forest,-1,08/17/08 15:42:25
+331,70,Undead,Warrior,Arathi Basin,-1,09/03/08 23:00:20
+22324,80,Undead,Priest,Dalaran,103,12/03/08 00:25:02
+23241,70,Troll,Shaman,Durotar,101,08/17/08 09:02:12
+29999,70,Undead,Warrior,Hellfire Peninsula,103,01/12/08 22:45:49
+71376,8,Tauren,Shaman,Thunder Bluff,-1,04/26/08 14:33:59
+38535,67,Orc,Warrior,Nagrand,104,11/04/08 22:58:30
+74419,70,Troll,Hunter,The Mechanar,251,09/20/08 21:38:26
+65947,20,Tauren,Druid,Shadowfang Keep,332,06/01/08 17:33:27
+41829,70,Undead,Warrior,Black Temple,104,07/10/08 21:45:32
+1493,57,Troll,Mage,Tanaris,174,04/30/08 00:42:49
+28651,80,Troll,Rogue,Utgarde Keep,62,12/13/08 16:34:30
+30968,70,Orc,Warrior,Terokkar Forest,35,07/01/08 00:13:54
+70125,70,Blood Elf,Mage,Arathi Basin,282,05/22/08 18:07:58
+74770,70,Tauren,Druid,Shattrath City,282,09/30/08 20:45:01
+798,42,Troll,Hunter,Arathi Highlands,9,09/03/08 02:49:06
+50880,70,Blood Elf,Warlock,Shadowmoon Valley,104,01/12/08 22:17:12
+38534,63,Blood Elf,Mage,Arathi Highlands,269,02/24/08 14:59:15
+60387,70,Troll,Hunter,Alterac Valley,-1,02/17/08 21:04:14
+72528,70,Orc,Warrior,Shadowmoon Valley,62,05/30/08 20:43:39
+71103,19,Blood Elf,Hunter,Ghostlands,6,04/14/08 12:17:24
+59873,72,Blood Elf,Mage,Howling Fjord,315,11/19/08 18:39:17
+890,70,Undead,Mage,Scarlet Monastery,104,11/15/08 10:57:38
+65620,70,Undead,Warlock,Zangarmarsh,282,06/12/08 15:28:28
+669,22,Troll,Shaman,Orgrimmar,-1,02/08/08 03:11:18
+53911,70,Blood Elf,Mage,Orgrimmar,103,04/30/08 10:05:57
+79473,70,Blood Elf,Paladin,Shattrath City,103,11/11/08 15:42:44
+43406,70,Blood Elf,Paladin,Black Temple,104,07/15/08 23:06:17
+84981,36,Blood Elf,Mage,Stranglethorn Vale,-1,11/17/08 08:54:47
+63312,70,Undead,Priest,Magtheridon's Lair,103,01/04/08 22:43:54
+24674,70,Undead,Mage,Blade's Edge Mountains,101,07/07/08 18:36:12
+1353,70,Blood Elf,Hunter,Magisters' Terrace,282,10/12/08 22:09:44
+67115,70,Blood Elf,Warlock,Magisters' Terrace,359,04/28/08 11:15:53
+27900,70,Tauren,Druid,Karazhan,35,09/06/08 01:40:36
+22324,80,Undead,Priest,Alterac Mountains,103,12/16/08 02:36:27
+22729,70,Troll,Hunter,Nagrand,107,03/14/08 18:20:01
+423,70,Orc,Hunter,Karazhan,62,01/01/08 23:22:10
+69126,80,Blood Elf,Paladin,Icecrown,101,12/13/08 18:15:49
+33016,80,Undead,Warlock,Gundrak,204,12/23/08 16:15:36
+57420,70,Undead,Warlock,Hellfire Ramparts,189,07/25/08 11:24:56
+63245,70,Troll,Shaman,Terokkar Forest,103,05/19/08 13:05:36
+30970,70,Tauren,Warrior,Serpentshrine Cavern,101,03/20/08 20:28:49
+33673,70,Tauren,Druid,Isle of Quel'Danas,363,04/26/08 10:54:45
+11137,80,Troll,Priest,Dalaran,79,12/09/08 22:59:49
+586,70,Tauren,Druid,Coilfang: The Slave Pens,53,02/24/08 13:17:08
+25982,70,Undead,Rogue,The Underbog,104,07/23/08 00:04:13
+22357,70,Undead,Rogue,Alterac Valley,167,02/24/08 13:38:25
+36888,19,Blood Elf,Paladin,Ghostlands,-1,03/01/08 02:18:28
+9311,63,Blood Elf,Paladin,Zangarmarsh,251,01/12/08 15:12:33
+45536,70,Orc,Rogue,Shattrath City,103,08/02/08 12:51:59
+69192,18,Blood Elf,Mage,Ghostlands,-1,03/09/08 18:21:18
+67115,70,Blood Elf,Warlock,Shadowmoon Valley,359,06/02/08 07:48:48
+73360,76,Orc,Hunter,Grizzly Hills,103,11/30/08 18:28:53
+35413,70,Blood Elf,Paladin,Eye of the Storm,101,08/31/08 05:22:09
+78457,35,Tauren,Druid,Stranglethorn Vale,282,10/13/08 13:56:59
+25727,70,Tauren,Shaman,Shattrath City,101,06/09/08 22:58:21
+22557,70,Orc,Hunter,Ruins of Lordaeron,103,07/27/08 22:32:54
+35546,38,Blood Elf,Mage,Alterac Mountains,19,09/22/08 15:19:52
+27426,67,Orc,Warrior,Nagrand,282,07/05/08 12:15:07
+39062,70,Blood Elf,Paladin,Hellfire Peninsula,9,09/04/08 19:01:20
+73800,24,Blood Elf,Mage,Hillsbrad Foothills,189,07/02/08 12:10:04
+24897,70,Troll,Priest,Isle of Quel'Danas,6,04/19/08 13:45:25
+22914,70,Undead,Warrior,Terokkar Forest,35,08/08/08 11:48:23
+51708,70,Undead,Rogue,Shattrath City,282,06/29/08 13:45:50
+45047,31,Blood Elf,Warlock,Orgrimmar,282,01/08/08 22:34:29
+87160,67,Blood Elf,Death Knight,Nagrand,-1,12/26/08 13:11:59
+182,1,Troll,Hunter,Durotar,-1,07/05/08 01:00:39
+76159,36,Blood Elf,Warlock,Arathi Highlands,282,08/27/08 10:43:12
+25165,73,Undead,Mage,Borean Tundra,108,12/31/08 20:17:39
+70125,70,Blood Elf,Mage,Arathi Basin,282,10/13/08 09:30:07
+85828,75,Orc,Death Knight,Dragonblight,53,12/03/08 08:22:21
+63173,32,Blood Elf,Priest,Undercity,282,03/08/08 02:11:12
+36800,70,Blood Elf,Hunter,Hellfire Ramparts,103,04/13/08 17:06:25
+73397,33,Troll,Hunter,Tirisfal Glades,-1,06/28/08 00:03:54
+43082,70,Tauren,Warrior,Shattrath City,282,01/19/08 19:37:04
+71428,9,Troll,Rogue,Durotar,-1,04/21/08 19:24:49
+22629,70,Troll,Warrior,The Steamvault,101,07/22/08 01:20:20
+29751,70,Tauren,Druid,Arathi Basin,174,02/23/08 05:47:20
+26082,70,Undead,Priest,Karazhan,103,09/19/08 08:40:33
+28782,70,Orc,Warrior,Shattrath City,103,01/27/08 16:09:21
+68261,70,Undead,Rogue,Eye of the Storm,79,09/05/08 15:50:08
+23605,70,Orc,Warlock,Shadowmoon Valley,243,03/03/08 22:48:02
+73095,9,Tauren,Shaman,Mulgore,-1,06/03/08 13:25:46
+58258,35,Troll,Hunter,Stranglethorn Vale,-1,11/01/08 22:48:56
+61560,70,Blood Elf,Paladin,Hyjal,103,06/10/08 22:08:57
+7208,70,Undead,Warlock,Alterac Valley,53,03/12/08 17:20:46
+67768,70,Undead,Warrior,Shattrath City,35,09/05/08 14:20:34
+939,80,Tauren,Warrior,Naxxramas,62,12/07/08 23:48:47
+5985,70,Undead,Mage,Orgrimmar,103,07/20/08 20:11:13
+58256,70,Tauren,Warrior,Karazhan,104,02/10/08 23:54:05
+48702,70,Blood Elf,Mage,Karazhan,282,07/06/08 16:17:32
+10605,69,Undead,Priest,Nagrand,79,09/07/08 16:30:08
+72689,70,Blood Elf,Paladin,Orgrimmar,438,11/03/08 23:52:56
+11372,70,Tauren,Druid,Arathi Basin,161,10/12/08 03:27:00
+22254,70,Undead,Warrior,Alterac Valley,-1,07/20/08 18:51:18
+5717,70,Blood Elf,Paladin,Hellfire Peninsula,282,02/24/08 23:39:49
+22481,70,Undead,Warrior,The Mechanar,101,02/23/08 00:53:37
+70118,43,Blood Elf,Priest,Warsong Gulch,350,05/21/08 17:16:41
+22229,70,Undead,Mage,Orgrimmar,104,01/11/08 18:31:47
+890,70,Undead,Mage,Hellfire Ramparts,266,02/14/08 14:24:46
+21950,70,Undead,Rogue,Shattrath City,174,05/09/08 09:08:44
+65512,70,Blood Elf,Paladin,Nagrand,79,06/20/08 20:58:29
+21710,70,Undead,Priest,The Black Morass,282,02/24/08 13:48:15
+64986,14,Undead,Rogue,Eversong Woods,-1,01/31/08 21:15:09
+53688,27,Blood Elf,Paladin,Hillsbrad Foothills,-1,10/24/08 18:27:45
+48702,70,Blood Elf,Mage,Nagrand,53,01/27/08 23:33:33
+61066,70,Blood Elf,Paladin,Arathi Basin,191,02/26/08 23:09:16
+69298,70,Blood Elf,Priest,Magisters' Terrace,189,09/24/08 00:30:27
+66664,36,Blood Elf,Mage,Stranglethorn Vale,-1,03/09/08 11:11:12
+46748,70,Blood Elf,Paladin,Shattrath City,103,04/28/08 20:45:49
+11609,80,Tauren,Hunter,Dragonblight,-1,12/29/08 01:20:40
+66654,23,Blood Elf,Hunter,The Barrens,-1,02/21/08 21:13:53
+1449,80,Undead,Warrior,Naxxramas,104,12/27/08 00:14:49
+23668,70,Undead,Priest,Hellfire Peninsula,115,09/04/08 19:29:46
+73719,32,Tauren,Hunter,Redridge Mountains,-1,08/11/08 23:36:20
+68513,14,Tauren,Druid,The Barrens,-1,03/08/08 10:19:05
+53826,70,Tauren,Druid,Eye of the Storm,205,02/08/08 12:31:20
+61523,70,Undead,Mage,Zangarmarsh,189,07/20/08 02:13:04
+64835,70,Orc,Rogue,Shattrath City,53,02/13/08 20:22:52
+68901,18,Blood Elf,Warlock,Ghostlands,-1,05/12/08 06:29:09
+67191,2,Blood Elf,Rogue,Eversong Woods,-1,01/28/08 15:19:14
+1321,80,Tauren,Druid,Dalaran,4,12/16/08 18:46:52
+11478,47,Blood Elf,Warlock,Feralas,62,09/08/08 16:50:37
+23376,68,Orc,Hunter,Ragefire Chasm,271,06/19/08 22:54:25
+72857,70,Orc,Shaman,Shadowmoon Valley,4,08/07/08 19:17:12
+72576,20,Blood Elf,Mage,Ghostlands,342,05/28/08 22:45:42
+74819,58,Blood Elf,Hunter,Undercity,282,09/27/08 12:30:13
+1481,70,Undead,Priest,Nagrand,53,02/05/08 09:02:38
+34664,70,Blood Elf,Warlock,Auchindoun: Shadow Labyrinth,53,03/05/08 00:11:57
+1679,70,Tauren,Druid,Karazhan,19,04/20/08 21:44:33
+76424,62,Blood Elf,Hunter,Zangarmarsh,-1,10/03/08 01:00:31
+69336,70,Undead,Priest,Shattrath City,161,10/05/08 09:31:06
+18065,70,Undead,Warlock,Karazhan,103,07/12/08 14:35:27
+6478,51,Troll,Rogue,The Hinterlands,53,03/30/08 20:24:42
+72116,12,Tauren,Shaman,Thunder Bluff,-1,05/31/08 17:03:30
+45536,70,Orc,Rogue,The Mechanar,103,03/30/08 18:23:04
+60182,63,Tauren,Shaman,The Underbog,282,10/12/08 10:46:38
+30789,38,Blood Elf,Mage,Arathi Highlands,282,01/15/08 18:40:28
+64214,36,Undead,Warlock,Arathi Highlands,282,02/24/08 16:48:05
+28568,40,Tauren,Shaman,Stranglethorn Vale,161,03/09/08 00:49:05
+36517,70,Blood Elf,Paladin,Borean Tundra,205,12/19/08 23:30:07
+59195,60,Undead,Priest,The Blood Furnace,368,10/09/08 00:58:27
+3849,70,Undead,Warlock,Gruul's Lair,53,01/06/08 00:53:49
+26610,70,Undead,Priest,Hyjal,204,02/12/08 20:35:03
+46249,25,Blood Elf,Hunter,The Barrens,358,05/13/08 19:58:37
+73761,70,Undead,Warlock,Blade's Edge Mountains,-1,11/03/08 13:22:55
+62175,70,Tauren,Shaman,Arathi Basin,53,09/20/08 14:08:56
+47607,29,Blood Elf,Paladin,Stranglethorn Vale,161,06/25/08 22:45:34
+22654,70,Troll,Priest,Shattrath City,101,07/25/08 20:34:27
+63513,70,Blood Elf,Paladin,Warsong Gulch,101,05/11/08 10:28:05
+21,70,Orc,Hunter,Stratholme,205,08/03/08 17:31:54
+55048,70,Blood Elf,Warlock,Terokkar Forest,16,02/09/08 16:06:45
+68828,68,Troll,Priest,Netherstorm,358,07/14/08 22:04:16
+820,80,Tauren,Shaman,Grizzly Hills,103,12/06/08 22:34:35
+61473,70,Undead,Warlock,Isle of Quel'Danas,35,04/14/08 22:59:29
+182,1,Troll,Hunter,Durotar,-1,02/07/08 01:51:11
+68576,70,Tauren,Druid,Karazhan,103,10/10/08 12:17:23
+182,1,Troll,Hunter,Durotar,-1,08/22/08 06:55:42
+28009,51,Troll,Hunter,Azshara,358,06/28/08 21:03:10
+1872,70,Orc,Warrior,Eye of the Storm,104,10/27/08 17:24:59
+65584,23,Tauren,Warrior,The Barrens,282,03/16/08 21:29:05
+492,70,Undead,Mage,Magisters' Terrace,104,04/26/08 15:17:26
+17533,70,Tauren,Warrior,Arathi Basin,204,02/06/08 12:10:43
+71513,2,Blood Elf,Hunter,Eversong Woods,-1,04/22/08 10:46:48
+36187,70,Blood Elf,Warlock,Shattrath City,103,02/08/08 23:43:37
+75213,13,Blood Elf,Priest,Silverpine Forest,365,07/22/08 18:43:13
+35697,70,Blood Elf,Mage,Ashenvale,189,08/13/08 01:09:00
+6820,63,Tauren,Shaman,Shattrath City,19,07/24/08 23:53:19
+12111,76,Troll,Mage,Grizzly Hills,62,12/14/08 22:12:35
+499,70,Orc,Hunter,Orgrimmar,104,09/25/08 21:48:03
+347,70,Undead,Rogue,Warsong Gulch,186,09/23/08 21:28:57
+60177,42,Orc,Shaman,Stranglethorn Vale,161,03/01/08 23:55:27
+53826,70,Tauren,Druid,Alterac Valley,205,10/27/08 00:35:51
+32673,70,Tauren,Shaman,Shattrath City,35,09/02/08 17:41:02
+72863,34,Undead,Priest,Desolace,315,06/26/08 19:06:12
+21161,62,Tauren,Shaman,Zangarmarsh,-1,08/24/08 19:16:57
+67677,44,Blood Elf,Priest,Orgrimmar,79,03/05/08 23:00:59
+71901,69,Troll,Hunter,Blade's Edge Mountains,-1,09/17/08 14:17:48
+77561,51,Tauren,Warrior,Searing Gorge,4,10/06/08 16:15:31
+22271,70,Orc,Hunter,Shattrath City,101,03/11/08 23:28:13
+59601,70,Blood Elf,Mage,Sunwell Plateau,250,06/09/08 16:39:59
+22361,80,Orc,Hunter,Dragonblight,103,12/21/08 20:34:10
+804,56,Troll,Shaman,Winterspring,-1,02/26/08 00:36:51
+46502,70,Troll,Hunter,Karazhan,161,09/22/08 22:58:13
+63829,70,Orc,Hunter,Nagrand,282,07/10/08 00:49:09
+46088,70,Tauren,Druid,The Mechanar,115,10/15/08 10:27:18
+23328,70,Troll,Hunter,Orgrimmar,-1,02/24/08 11:37:15
+35798,56,Blood Elf,Warlock,Orgrimmar,251,07/29/08 18:05:30
+1533,64,Tauren,Warrior,Terokkar Forest,62,01/08/08 23:22:09
+43274,70,Blood Elf,Priest,Shattrath City,189,09/28/08 13:41:38
+71857,70,Undead,Warrior,Mana-Tombs,35,08/03/08 17:16:53
+54682,70,Tauren,Druid,Terokkar Forest,282,11/03/08 13:30:24
+428,70,Tauren,Druid,Netherstorm,-1,02/01/08 06:34:19
+35413,70,Blood Elf,Paladin,Blade's Edge Mountains,243,02/05/08 00:44:09
+35729,70,Blood Elf,Paladin,Terokkar Forest,189,01/31/08 13:02:36
+24448,70,Tauren,Hunter,Blade's Edge Mountains,9,05/30/08 20:55:00
+24126,80,Blood Elf,Warlock,Un'Goro Crater,447,12/12/08 22:39:35
+76631,31,Blood Elf,Warlock,Shattrath City,-1,10/23/08 01:08:38
+76769,70,Blood Elf,Rogue,The Shattered Halls,4,09/22/08 00:30:09
+68747,25,Blood Elf,Hunter,The Barrens,-1,03/07/08 23:01:05
+27879,70,Blood Elf,Warlock,Hyjal,103,03/16/08 21:32:30
+22148,70,Tauren,Shaman,Black Temple,103,04/21/08 22:54:54
+75022,60,Blood Elf,Paladin,Hellfire Peninsula,281,09/06/08 14:53:39
+75070,44,Blood Elf,Mage,Tanaris,281,07/16/08 20:01:07
+46833,70,Undead,Warlock,Shattrath City,103,10/18/08 20:07:36
+3923,70,Tauren,Warrior,The Underbog,62,09/15/08 04:51:47
+37351,70,Blood Elf,Warlock,Shattrath City,189,10/15/08 01:00:44
+18715,70,Undead,Warlock,Mana-Tombs,282,08/11/08 22:17:06
+271,70,Undead,Mage,Stranglethorn Vale,62,09/13/08 18:48:52
+62226,80,Tauren,Warrior,Icecrown,101,12/13/08 09:18:29
+25287,29,Undead,Warlock,Hillsbrad Foothills,251,10/19/08 16:07:27
+86555,63,Blood Elf,Death Knight,Zangarmarsh,465,11/22/08 02:46:45
+1974,70,Orc,Warlock,Hellfire Peninsula,205,04/10/08 23:55:23
+1336,70,Tauren,Hunter,Zangarmarsh,204,03/23/08 16:39:10
+42084,29,Blood Elf,Warlock,Ashenvale,-1,02/07/08 19:13:03
+4629,45,Tauren,Shaman,Orgrimmar,186,06/27/08 20:42:16
+71458,70,Blood Elf,Warlock,The Mechanar,189,08/31/08 10:41:53
+32726,70,Tauren,Druid,Warsong Gulch,103,10/05/08 21:18:36
+36236,70,Undead,Mage,Shattrath City,103,10/05/08 22:27:58
+31584,65,Troll,Rogue,Nagrand,35,02/28/08 14:47:19
+58256,70,Tauren,Warrior,The Mechanar,79,01/01/08 11:42:54
+55642,70,Blood Elf,Paladin,Terokkar Forest,204,03/09/08 11:41:54
+11589,70,Undead,Priest,Alterac Valley,189,06/05/08 21:38:38
+68375,57,Blood Elf,Paladin,Burning Steppes,104,06/09/08 21:08:36
+55274,70,Undead,Warlock,Arathi Basin,161,02/29/08 16:48:42
+22785,70,Orc,Warrior,Zangarmarsh,-1,06/27/08 10:15:16
+61283,65,Undead,Priest,Shattrath City,282,01/11/08 02:51:03
+81005,8,Blood Elf,Mage,Eversong Woods,-1,10/09/08 21:08:44
+75931,27,Blood Elf,Hunter,Ashenvale,-1,08/24/08 21:41:20
+77288,65,Troll,Warrior,Terokkar Forest,161,09/22/08 20:28:02
+32482,48,Tauren,Warrior,Feralas,-1,10/16/08 20:36:30
+68282,34,Blood Elf,Hunter,Orgrimmar,243,02/22/08 23:14:08
+22942,80,Troll,Rogue,Icecrown,365,12/24/08 20:24:44
+22155,70,Troll,Hunter,Hyjal,104,03/08/08 01:30:00
+74610,32,Blood Elf,Warlock,Alterac Mountains,282,08/10/08 21:47:38
+70330,70,Blood Elf,Warlock,Netherstorm,101,08/06/08 20:49:30
+35498,59,Blood Elf,Paladin,Eastern Plaguelands,174,02/11/08 18:25:57
+72747,10,Blood Elf,Warlock,Silvermoon City,-1,06/04/08 00:28:38
+67578,70,Undead,Warrior,Blade's Edge Arena,300,02/23/08 16:58:33
+70425,70,Orc,Warrior,Shattrath City,53,06/07/08 12:56:18
+59648,25,Blood Elf,Rogue,Shadowfang Keep,167,02/09/08 23:26:10
+57278,70,Blood Elf,Paladin,Tanaris,103,10/19/08 21:28:30
+35981,70,Blood Elf,Priest,Tempest Keep,220,02/20/08 23:05:49
+38500,63,Blood Elf,Paladin,Orgrimmar,282,02/01/08 21:16:46
+27494,70,Blood Elf,Mage,Ruins of Lordaeron,104,01/27/08 16:03:32
+71866,70,Blood Elf,Paladin,Warsong Gulch,-1,09/01/08 12:21:34
+72018,70,Blood Elf,Rogue,The Botanica,189,08/15/08 14:02:45
+65998,18,Undead,Warlock,Undercity,424,09/19/08 18:58:52
+34457,70,Blood Elf,Priest,Orgrimmar,104,11/12/08 22:27:50
+62431,35,Blood Elf,Priest,Silvermoon City,-1,08/06/08 20:28:09
+71932,64,Tauren,Warrior,Terokkar Forest,350,06/28/08 16:22:57
+25300,70,Tauren,Shaman,Terokkar Forest,62,04/16/08 17:24:54
+63253,73,Undead,Warlock,Borean Tundra,161,11/23/08 19:17:40
+69440,42,Tauren,Druid,Swamp of Sorrows,-1,03/20/08 21:58:32
+69190,70,Blood Elf,Mage,Karazhan,189,10/10/08 14:49:55
+56990,66,Tauren,Warrior,Nagrand,358,07/24/08 22:39:08
+52751,70,Undead,Priest,Sethekk Halls,282,03/26/08 23:50:18
+74021,10,Orc,Warrior,Durotar,-1,06/30/08 01:33:48
+132,79,Tauren,Warrior,Sholazar Basin,62,11/30/08 10:28:33
+29896,23,Troll,Hunter,The Barrens,167,01/09/08 22:00:40
+6359,70,Tauren,Hunter,Blade's Edge Mountains,53,04/01/08 01:43:34
+53986,70,Blood Elf,Priest,Orgrimmar,167,05/07/08 19:10:49
+71614,70,Tauren,Warrior,Terokkar Forest,342,09/04/08 22:58:32
+1321,70,Tauren,Druid,Shattrath City,4,11/16/08 18:58:51
+59471,70,Undead,Warlock,Serpentshrine Cavern,103,08/09/08 23:07:29
+64794,63,Blood Elf,Warlock,Zangarmarsh,103,03/29/08 15:46:55
+1533,70,Tauren,Warrior,The Botanica,62,01/26/08 01:20:05
+30745,70,Troll,Priest,Warsong Gulch,53,03/08/08 18:19:59
+64794,69,Blood Elf,Warlock,Netherstorm,220,04/11/08 01:08:12
+22453,70,Undead,Mage,Terokkar Forest,103,01/20/08 23:18:46
+85055,70,Undead,Warlock,Undercity,-1,10/31/08 15:02:32
+10481,75,Tauren,Warrior,Dragonblight,-1,12/02/08 15:12:45
+59020,70,Orc,Hunter,Orgrimmar,79,07/20/08 13:48:54
+31496,70,Blood Elf,Mage,The Botanica,282,04/24/08 15:57:45
+66810,70,Blood Elf,Mage,The Mechanar,259,05/13/08 06:29:33
+55112,14,Blood Elf,Hunter,Ghostlands,-1,06/03/08 16:38:42
+75861,67,Blood Elf,Hunter,Nagrand,161,10/12/08 23:39:23
+43759,70,Tauren,Shaman,Gruul's Lair,191,11/08/08 22:20:09
+67851,70,Undead,Priest,Shattrath City,35,04/16/08 23:06:35
+39218,30,Blood Elf,Warlock,Undercity,6,04/29/08 14:14:31
+6691,70,Orc,Hunter,Isle of Quel'Danas,79,05/20/08 21:54:08
+52883,70,Undead,Warlock,Blade's Edge Mountains,167,04/08/08 15:00:39
+28959,32,Tauren,Shaman,Hillsbrad Foothills,167,01/11/08 16:10:05
+63881,38,Blood Elf,Paladin,Dustwallow Marsh,-1,01/18/08 06:10:11
+28571,70,Undead,Mage,Hillsbrad Foothills,204,05/25/08 12:05:42
+30379,70,Troll,Rogue,Mana-Tombs,204,02/26/08 07:57:23
+25827,70,Undead,Warrior,Black Temple,101,06/19/08 22:37:29
+59386,70,Blood Elf,Hunter,Isle of Quel'Danas,103,07/25/08 00:02:16
+1321,70,Tauren,Druid,Alterac Valley,4,05/30/08 11:44:01
+75805,26,Tauren,Warrior,Thunder Bluff,282,08/06/08 18:35:50
+22200,70,Orc,Warlock,Nagrand Arena,204,04/03/08 00:36:35
+71905,70,Tauren,Shaman,Hall of Legends,103,07/13/08 08:14:10
+39671,51,Blood Elf,Mage,Feralas,161,07/14/08 23:16:05
+36740,70,Blood Elf,Mage,Shattrath City,103,09/28/08 14:31:41
+62735,70,Blood Elf,Paladin,Isle of Quel'Danas,205,04/16/08 15:57:52
+31489,32,Undead,Priest,Arathi Highlands,23,03/18/08 12:19:56
+64297,51,Tauren,Warrior,Searing Gorge,-1,01/04/08 22:11:58
+34664,70,Blood Elf,Warlock,Nagrand,53,08/13/08 17:28:37
+74290,29,Undead,Rogue,Arathi Highlands,282,08/14/08 20:50:52
+36818,70,Blood Elf,Mage,Arathi Basin,358,10/12/08 00:20:00
+75105,43,Orc,Rogue,Tanaris,320,11/17/08 13:29:02
+58437,70,Tauren,Shaman,Hellfire Ramparts,250,05/20/08 16:55:30
+519,70,Undead,Warrior,Maraudon,53,02/08/08 01:03:00
+69528,63,Troll,Hunter,The Underbog,189,07/22/08 23:32:30
+58571,70,Undead,Warlock,Shadowmoon Valley,282,06/09/08 15:48:27
+73570,43,Tauren,Druid,Stranglethorn Vale,365,07/09/08 11:46:00
+182,1,Troll,Hunter,Durotar,-1,02/03/08 19:14:26
+22331,70,Troll,Hunter,The Underbog,243,01/20/08 05:27:29
+17529,27,Tauren,Warrior,Thunder Bluff,-1,02/15/08 03:03:10
+35668,44,Blood Elf,Paladin,Swamp of Sorrows,101,05/28/08 14:55:57
+42099,70,Blood Elf,Paladin,Karazhan,189,10/25/08 22:08:32
+66739,13,Blood Elf,Mage,Ghostlands,-1,01/22/08 07:09:17
+71723,27,Blood Elf,Warlock,Blackfathom Deeps,167,05/11/08 03:07:29
+68660,70,Blood Elf,Priest,Shattrath City,205,03/23/08 14:42:09
+50714,70,Blood Elf,Priest,Ragefire Chasm,161,03/08/08 14:22:24
+60375,47,Blood Elf,Hunter,Tanaris,251,01/02/08 16:55:21
+15589,70,Undead,Rogue,Arathi Basin,205,08/09/08 17:20:54
+2058,70,Undead,Warlock,Isle of Quel'Danas,104,08/24/08 15:37:24
+19664,62,Tauren,Druid,Zangarmarsh,62,10/16/08 23:26:35
+59862,32,Tauren,Hunter,Stranglethorn Vale,282,01/21/08 23:46:48
+30072,70,Undead,Mage,Zangarmarsh,167,01/21/08 21:58:47
+990,70,Tauren,Druid,The Botanica,62,02/03/08 21:34:36
+68159,70,Tauren,Druid,Shattrath City,-1,09/19/08 23:08:45
+68501,70,Tauren,Druid,Alterac Valley,35,08/04/08 09:42:39
+54658,70,Blood Elf,Warlock,The Botanica,103,10/15/08 01:20:35
+32381,70,Undead,Mage,Shattrath City,5,06/03/08 21:18:06
+52992,70,Blood Elf,Priest,Shattrath City,101,10/05/08 19:39:22
+72857,70,Orc,Shaman,Isle of Quel'Danas,4,07/12/08 15:43:04
+3568,60,Troll,Hunter,Hellfire Peninsula,-1,06/04/08 22:56:54
+66739,70,Blood Elf,Mage,Isle of Quel'Danas,451,10/11/08 02:40:13
+66410,16,Troll,Hunter,The Barrens,282,02/01/08 18:04:42
+43274,70,Blood Elf,Priest,Auchenai Crypts,189,10/02/08 18:31:08
+45218,67,Blood Elf,Paladin,Blade's Edge Mountains,79,01/05/08 18:04:58
+67572,70,Undead,Priest,Karazhan,35,07/21/08 15:11:17
+63098,59,Blood Elf,Paladin,Hellfire Peninsula,361,08/03/08 22:36:03
+68617,4,Blood Elf,Hunter,Eversong Woods,-1,02/22/08 22:34:02
+77838,51,Blood Elf,Warlock,The Hinterlands,493,12/14/08 11:18:16
+875,74,Orc,Warrior,Dragonblight,459,11/24/08 11:19:06
+27408,70,Tauren,Shaman,Arathi Basin,161,05/25/08 14:15:19
+22136,70,Tauren,Warrior,Hellfire Peninsula,-1,07/15/08 23:33:45
+70299,70,Blood Elf,Warlock,Isle of Quel'Danas,161,10/11/08 01:20:06
+22435,70,Orc,Hunter,Hellfire Peninsula,103,08/30/08 18:57:57
+24390,70,Undead,Priest,Deadwind Pass,174,03/14/08 15:00:53
+60220,67,Undead,Mage,Terokkar Forest,282,07/04/08 15:21:22
+182,1,Troll,Hunter,Durotar,-1,08/15/08 00:30:03
+59736,42,Undead,Warlock,Dustwallow Marsh,282,04/10/08 22:46:50
+4858,70,Undead,Rogue,Shattrath City,104,04/08/08 11:38:50
+11706,70,Undead,Warlock,Shadowmoon Valley,101,02/23/08 22:59:02
+53785,52,Blood Elf,Priest,Azshara,-1,01/02/08 13:45:41
+70811,58,Blood Elf,Paladin,Undercity,358,05/28/08 03:35:42
+31766,49,Tauren,Shaman,Orgrimmar,35,10/12/08 14:26:29
+5819,70,Undead,Warrior,Orgrimmar,103,03/29/08 19:14:59
+77352,49,Blood Elf,Rogue,The Hinterlands,282,09/21/08 21:42:22
+88074,60,Tauren,Death Knight,Undercity,-1,12/07/08 16:52:34
+52811,64,Blood Elf,Hunter,Terokkar Forest,103,01/20/08 21:39:29
+1321,80,Tauren,Druid,Gundrak,4,12/11/08 14:36:53
+22302,70,Undead,Rogue,Serpentshrine Cavern,103,03/20/08 21:00:25
+48589,70,Undead,Priest,Eye of the Storm,103,08/23/08 23:28:12
+35263,70,Blood Elf,Mage,Shadowmoon Valley,104,05/21/08 01:27:44
+70023,70,Tauren,Druid,Undercity,53,04/22/08 21:56:36
+35796,70,Blood Elf,Priest,Karazhan,-1,10/11/08 00:49:48
+30732,9,Undead,Mage,Undercity,156,10/25/08 08:36:31
+56098,24,Tauren,Shaman,Orgrimmar,-1,05/24/08 07:25:03
+428,70,Tauren,Druid,Isle of Quel'Danas,282,05/19/08 20:14:44
+75956,1,Orc,Warrior,Orgrimmar,-1,08/03/08 16:31:23
+70439,7,Blood Elf,Mage,Eversong Woods,-1,03/29/08 21:35:51
+70813,70,Tauren,Warrior,Durotar,250,08/19/08 21:55:20
+82722,1,Troll,Warrior,Durotar,460,10/14/08 23:47:16
+1409,70,Orc,Warrior,Hellfire Peninsula,62,03/26/08 22:18:06
+22594,80,Orc,Hunter,Wintergrasp,161,12/31/08 00:05:10
+73089,10,Tauren,Druid,Thunder Bluff,350,06/05/08 20:36:16
+73282,9,Tauren,Warrior,Mulgore,-1,06/08/08 03:26:01
+21878,70,Tauren,Warrior,Shattrath City,101,07/08/08 00:55:41
+397,70,Undead,Warlock,Blade's Edge Mountains,53,01/20/08 12:28:28
+15766,70,Undead,Mage,Karazhan,103,07/06/08 21:48:23
+182,1,Troll,Hunter,Durotar,-1,02/15/08 13:23:45
+31184,70,Undead,Rogue,Orgrimmar,101,08/20/08 20:37:23
+64632,34,Blood Elf,Paladin,Scarlet Monastery,282,01/05/08 23:34:25
+66248,31,Troll,Mage,Thunder Bluff,-1,01/22/08 17:07:39
+59334,80,Blood Elf,Priest,Orgrimmar,103,12/06/08 04:07:29
+476,70,Tauren,Warrior,Shattrath City,53,08/04/08 18:55:46
+66385,70,Blood Elf,Paladin,Karazhan,308,04/26/08 15:29:38
+25213,70,Undead,Priest,Magtheridon's Lair,62,04/13/08 21:57:00
+67374,19,Blood Elf,Hunter,Ghostlands,-1,03/07/08 19:11:01
+61505,70,Blood Elf,Rogue,Netherstorm,189,08/26/08 18:58:41
+78589,15,Blood Elf,Paladin,Ghostlands,1,10/10/08 16:18:56
+70060,39,Blood Elf,Mage,Stranglethorn Vale,335,07/23/08 09:01:26
+71276,29,Blood Elf,Hunter,Orgrimmar,358,06/25/08 13:23:36
+45989,38,Troll,Hunter,Orgrimmar,167,01/13/08 04:14:08
+77128,16,Blood Elf,Paladin,Ghostlands,251,08/29/08 10:33:35
+41252,70,Blood Elf,Paladin,Eye of the Storm,103,02/15/08 00:36:52
+67374,22,Blood Elf,Hunter,Undercity,-1,03/11/08 19:11:23
+60618,70,Undead,Mage,Orgrimmar,62,03/30/08 22:55:10
+72795,61,Blood Elf,Paladin,Hellfire Peninsula,365,07/07/08 17:06:58
+881,70,Troll,Rogue,Shattrath City,205,01/11/08 20:01:05
+72123,70,Blood Elf,Hunter,Arathi Basin,-1,08/31/08 21:31:40
+54619,65,Undead,Rogue,Shattrath City,251,11/10/08 20:42:31
+60379,36,Orc,Shaman,Stranglethorn Vale,189,05/10/08 21:04:33
+36630,70,Tauren,Hunter,Karazhan,79,02/22/08 22:21:53
+16798,70,Undead,Priest,Shattrath City,104,04/18/08 15:16:14
+72307,70,Blood Elf,Hunter,Orgrimmar,101,09/25/08 11:10:03
+39099,70,Blood Elf,Paladin,Shattrath City,104,03/26/08 19:01:36
+74508,20,Tauren,Druid,Tirisfal Glades,23,07/15/08 17:03:10
+73383,69,Blood Elf,Paladin,Deeprun Tram,365,07/03/08 12:13:16
+22046,70,Tauren,Hunter,Black Temple,104,04/01/08 21:43:49
+22222,70,Tauren,Druid,Deadwind Pass,101,01/05/08 14:32:16
+23012,70,Orc,Warlock,Shattrath City,101,01/09/08 20:49:19
+85712,12,Blood Elf,Paladin,Eversong Woods,-1,11/12/08 07:26:58
+66441,38,Blood Elf,Warlock,Stonetalon Mountains,189,02/28/08 16:08:56
+39218,43,Blood Elf,Warlock,Arathi Highlands,6,12/07/08 21:50:22
+78584,57,Troll,Hunter,Eastern Plaguelands,-1,11/12/08 17:10:04
+19791,70,Troll,Hunter,Shattrath City,167,01/18/08 20:48:45
+64597,70,Blood Elf,Paladin,The Arcatraz,282,02/20/08 04:36:09
+68729,57,Blood Elf,Mage,Scholomance,343,06/08/08 01:18:42
+19085,70,Tauren,Druid,Karazhan,103,03/30/08 17:34:25
+11316,70,Undead,Mage,Orgrimmar,161,07/27/08 18:14:57
+22078,75,Undead,Warlock,Dragonblight,161,11/26/08 20:31:31
+40483,80,Blood Elf,Paladin,Dalaran,62,12/22/08 16:35:36
+22983,70,Tauren,Warrior,Hellfire Peninsula,101,01/05/08 13:41:57
+72079,33,Undead,Priest,Hillsbrad Foothills,191,05/24/08 16:05:52
+76220,36,Orc,Hunter,Arathi Basin,336,09/15/08 19:27:53
+56692,70,Tauren,Druid,Old Hillsbrad Foothills,204,02/24/08 14:37:05
+61833,70,Orc,Hunter,Shadowmoon Valley,-1,01/08/08 06:21:45
+43274,70,Blood Elf,Priest,Shattrath City,189,03/14/08 20:22:08
+69353,70,Blood Elf,Hunter,Howling Fjord,336,12/07/08 17:55:57
+65046,70,Orc,Warrior,Shattrath City,282,04/30/08 16:21:49
+24126,70,Blood Elf,Warlock,Maraudon,282,07/30/08 16:35:14
+30589,70,Undead,Priest,Shattrath City,101,09/29/08 10:11:32
+65056,15,Tauren,Druid,The Barrens,-1,01/06/08 21:12:08
+72258,70,Tauren,Warrior,Alterac Valley,-1,09/20/08 19:17:40
+1645,70,Tauren,Warrior,Arathi Basin,365,08/26/08 18:45:45
+38974,70,Undead,Priest,Shattrath City,-1,07/28/08 20:46:46
+31937,70,Troll,Rogue,Blade's Edge Mountains,204,05/13/08 20:36:29
+22382,70,Troll,Mage,Shattrath City,103,07/19/08 00:23:17
+5717,70,Blood Elf,Paladin,Nagrand Arena,282,09/25/08 23:21:33
+46489,70,Orc,Hunter,Shattrath City,103,01/04/08 10:42:33
+23273,73,Orc,Hunter,Dragonblight,103,12/27/08 21:16:53
+62486,70,Blood Elf,Priest,Sethekk Halls,282,04/21/08 08:37:42
+21834,70,Tauren,Druid,Shattrath City,103,04/12/08 11:25:42
+26751,75,Troll,Rogue,Borean Tundra,104,11/30/08 13:15:42
+22563,70,Tauren,Druid,Shattrath City,35,02/21/08 22:12:35
+70805,24,Blood Elf,Rogue,The Barrens,-1,05/08/08 15:47:49
+71918,30,Tauren,Druid,Arathi Basin,-1,05/27/08 20:23:18
+60782,66,Tauren,Druid,Terokkar Forest,165,01/29/08 19:36:44
+23554,70,Troll,Shaman,Borean Tundra,53,11/20/08 12:10:47
+881,70,Troll,Rogue,Howling Fjord,205,11/29/08 09:48:50
+63099,61,Blood Elf,Hunter,Hellfire Peninsula,291,10/22/08 02:18:55
+86381,80,Blood Elf,Death Knight,Utgarde Pinnacle,105,12/28/08 21:43:37
+51930,70,Tauren,Druid,Shattrath City,189,03/25/08 15:19:07
+76604,30,Tauren,Druid,Alterac Mountains,358,10/10/08 01:26:47
+25827,70,Undead,Warrior,Orgrimmar,101,09/22/08 20:19:33
+68109,67,Blood Elf,Priest,Blade's Edge Mountains,-1,02/25/08 10:29:20
+31491,61,Tauren,Shaman,Hellfire Peninsula,103,07/21/08 16:39:34
+398,70,Undead,Warlock,Black Temple,204,03/16/08 23:10:30
+63253,70,Undead,Warlock,Shattrath City,35,06/01/08 20:45:26
+48432,70,Orc,Warrior,Deadwind Pass,79,01/17/08 21:07:12
+71832,45,Blood Elf,Priest,Stranglethorn Vale,365,06/20/08 19:17:17
+66436,38,Blood Elf,Mage,Stranglethorn Vale,189,01/27/08 21:12:10
+69090,14,Tauren,Druid,The Barrens,282,03/09/08 09:18:34
+54994,70,Tauren,Druid,Blade's Edge Mountains,103,03/31/08 15:03:59
+24749,70,Troll,Priest,Orgrimmar,9,09/29/08 20:15:41
+47681,34,Blood Elf,Hunter,Arathi Highlands,282,03/16/08 21:20:57
+2866,70,Undead,Priest,Hyjal,103,08/01/08 22:13:46
+32765,70,Tauren,Druid,Karazhan,104,09/25/08 15:08:30
+55362,60,Undead,Warlock,Hillsbrad Foothills,167,05/29/08 14:44:42
+55922,64,Tauren,Shaman,Silithus,167,01/03/08 00:02:44
+68569,70,Blood Elf,Warlock,The Steamvault,189,07/25/08 21:46:54
+26235,70,Tauren,Shaman,Howling Fjord,53,11/20/08 00:08:26
+62995,70,Blood Elf,Hunter,Arathi Basin,293,09/29/08 16:50:02
+22279,70,Undead,Warlock,Hyjal,103,02/25/08 22:18:14
+64768,33,Tauren,Druid,Stranglethorn Vale,167,01/16/08 11:17:48
+26752,70,Tauren,Warrior,Isle of Quel'Danas,104,06/19/08 14:07:15
+46110,70,Tauren,Druid,Alterac Valley,250,05/26/08 21:44:44
+24723,80,Undead,Warrior,The Nexus,103,12/13/08 21:44:51
+36561,70,Blood Elf,Priest,Hyjal,104,06/09/08 21:09:12
+25213,70,Undead,Priest,Shattrath City,62,08/14/08 16:22:13
+1229,70,Undead,Mage,Warsong Gulch,9,04/10/08 23:46:41
+74351,70,Tauren,Druid,Alterac Valley,16,07/12/08 05:15:05
+50062,26,Blood Elf,Hunter,Undercity,-1,04/26/08 00:46:33
+28635,63,Orc,Shaman,Blasted Lands,140,10/11/08 16:15:52
+50411,70,Blood Elf,Paladin,Magisters' Terrace,282,05/13/08 14:19:29
+24050,23,Orc,Shaman,The Barrens,-1,12/19/08 11:39:10
+56714,41,Blood Elf,Paladin,Alterac Mountains,79,10/13/08 02:29:22
+80913,1,Troll,Shaman,Durotar,460,10/09/08 16:27:18
+18646,70,Undead,Priest,Shattrath City,161,09/27/08 00:19:06
+72857,70,Orc,Shaman,Terokkar Forest,4,07/30/08 11:52:01
+68044,29,Blood Elf,Paladin,Undercity,-1,07/02/08 01:39:53
+33867,66,Troll,Hunter,Shadowfang Keep,-1,07/14/08 08:13:40
+71871,59,Orc,Hunter,Hellfire Peninsula,365,06/06/08 18:45:09
+39914,44,Blood Elf,Paladin,Orgrimmar,166,12/26/08 01:44:30
+22885,70,Undead,Priest,Shattrath City,174,04/16/08 22:36:16
+26743,62,Tauren,Druid,Hellfire Peninsula,101,07/27/08 20:23:35
+26011,68,Troll,Hunter,Shattrath City,104,06/21/08 06:56:00
+66093,23,Tauren,Warrior,Orgrimmar,311,03/08/08 17:58:33
+8687,70,Undead,Warrior,Hellfire Peninsula,104,04/15/08 03:47:14
+70905,80,Blood Elf,Priest,Howling Fjord,103,12/11/08 20:48:38
+29395,70,Troll,Priest,The Blood Furnace,35,02/19/08 23:23:58
+75470,70,Orc,Shaman,Shattrath City,161,11/09/08 01:45:11
+65300,70,Undead,Warrior,Isle of Quel'Danas,189,05/29/08 00:16:16
+31407,70,Orc,Hunter,Nagrand,101,08/22/08 01:18:14
+22338,70,Tauren,Warrior,Shadowmoon Valley,35,05/21/08 15:34:45
+34463,70,Blood Elf,Paladin,Terokkar Forest,19,03/16/08 05:51:38
+612,70,Undead,Warrior,Karazhan,103,10/11/08 00:08:50
+86564,78,Orc,Rogue,Crystalsong Forest,471,12/29/08 11:49:49
+37317,70,Blood Elf,Paladin,Terokkar Forest,103,05/13/08 15:59:06
+72629,51,Blood Elf,Paladin,Feralas,329,11/25/08 20:07:17
+72629,46,Blood Elf,Paladin,Arathi Highlands,329,10/27/08 23:48:14
+68587,70,Undead,Mage,Sethekk Halls,161,06/25/08 21:21:39
+39235,70,Blood Elf,Paladin,Undercity,103,08/24/08 01:59:24
+697,70,Troll,Hunter,Warsong Gulch,189,08/01/08 20:33:26
+65103,22,Blood Elf,Rogue,Ghostlands,-1,03/22/08 14:10:50
+73986,70,Blood Elf,Mage,The Mechanar,189,10/15/08 22:04:41
+24897,70,Troll,Priest,Shattrath City,6,07/21/08 14:40:42
+20815,43,Undead,Mage,Stranglethorn Vale,161,02/25/08 18:17:53
+1368,70,Orc,Hunter,Shattrath City,5,03/09/08 21:38:45
+85712,77,Blood Elf,Paladin,Grizzly Hills,189,12/14/08 11:01:15
+70008,51,Undead,Priest,Azshara,-1,07/08/08 17:36:11
+22330,70,Tauren,Shaman,Tempest Keep,104,02/12/08 22:03:54
+27494,70,Blood Elf,Mage,Orgrimmar,104,03/26/08 00:32:18
+3634,70,Orc,Warrior,Shattrath City,62,08/15/08 17:41:16
+17483,61,Troll,Rogue,Shattrath City,252,02/05/08 17:11:15
+22551,70,Undead,Rogue,Blade's Edge Mountains,101,01/25/08 19:51:57
+46195,66,Orc,Hunter,Nagrand,327,05/30/08 23:22:31
+64346,70,Undead,Priest,Shattrath City,4,08/05/08 20:07:16
+68112,10,Troll,Shaman,The Barrens,281,02/15/08 08:53:45
+30072,70,Undead,Mage,Hellfire Ramparts,282,11/11/08 22:11:27
+47627,70,Blood Elf,Warlock,Shattrath City,104,03/08/08 11:41:57
+68569,80,Blood Elf,Warlock,Dalaran,189,12/23/08 13:58:25
+30317,70,Undead,Mage,The Steamvault,35,05/08/08 20:57:11
+20833,40,Troll,Rogue,Dustwallow Marsh,3,08/25/08 21:28:01
+748,70,Undead,Priest,Mana-Tombs,103,01/12/08 17:01:39
+89803,4,Blood Elf,Mage,Eversong Woods,-1,12/23/08 17:11:58
+7774,45,Tauren,Shaman,Maraudon,53,02/28/08 15:16:30
+74110,13,Blood Elf,Warlock,Ghostlands,358,08/07/08 13:48:09
+88865,35,Blood Elf,Hunter,Desolace,-1,12/13/08 23:15:42
+345,70,Undead,Mage,Felwood,9,03/12/08 16:10:48
+77533,20,Blood Elf,Mage,Eversong Woods,282,09/07/08 00:10:19
+14525,69,Orc,Warlock,Shattrath City,79,01/22/08 23:56:03
+1094,70,Undead,Rogue,Alterac Valley,103,04/02/08 01:44:53
+67668,24,Blood Elf,Rogue,Undercity,220,02/11/08 21:35:34
+72086,10,Undead,Mage,Silverpine Forest,-1,05/10/08 22:26:21
+46748,70,Blood Elf,Paladin,Shattrath City,103,08/08/08 12:08:33
+67275,70,Undead,Priest,Blade's Edge Mountains,-1,06/07/08 02:08:17
+21885,70,Tauren,Druid,Shattrath City,101,01/26/08 15:30:21
+54208,67,Blood Elf,Paladin,Shadowmoon Valley,226,02/05/08 11:03:40
+57566,63,Blood Elf,Hunter,Zangarmarsh,282,01/14/08 13:50:39
+23482,70,Undead,Priest,Isle of Quel'Danas,53,09/01/08 19:30:19
+53911,79,Blood Elf,Mage,Grizzly Hills,103,11/28/08 21:10:16
+12646,70,Undead,Priest,Serpentshrine Cavern,103,02/04/08 20:32:37
+12571,70,Undead,Mage,Tempest Keep,103,01/20/08 21:28:38
+64558,31,Blood Elf,Paladin,Orgrimmar,-1,01/20/08 21:59:10
+41180,28,Blood Elf,Paladin,Thunder Bluff,53,03/20/08 12:00:52
+24558,58,Undead,Warrior,Eastern Plaguelands,-1,09/20/08 04:20:26
+26391,50,Undead,Mage,The Hinterlands,101,04/20/08 14:05:51
+22655,70,Undead,Warlock,Sethekk Halls,103,06/05/08 20:28:27
+23605,70,Orc,Warlock,Warsong Gulch,115,09/18/08 19:49:13
+63753,68,Blood Elf,Hunter,Arathi Basin,282,01/11/08 00:52:47
+77634,70,Tauren,Druid,Shattrath City,414,10/26/08 23:35:34
+35977,70,Blood Elf,Warlock,Coilfang: The Slave Pens,104,09/21/08 22:20:43
+71404,46,Tauren,Shaman,Stranglethorn Vale,-1,07/12/08 17:23:30
+73666,70,Orc,Hunter,Arathi Basin,4,10/10/08 12:56:37
+76678,40,Orc,Hunter,Stranglethorn Vale,438,09/07/08 15:18:24
+21207,70,Undead,Warlock,Orgrimmar,62,09/20/08 01:49:28
+69531,66,Troll,Mage,Azshara,344,04/22/08 10:34:53
+46072,70,Blood Elf,Mage,Coilfang: The Slave Pens,174,02/22/08 00:45:05
+38109,70,Troll,Rogue,Orgrimmar,104,04/10/08 19:37:20
+22633,70,Undead,Warlock,Terokkar Forest,53,05/12/08 14:18:24
+84660,12,Tauren,Druid,The Barrens,-1,11/28/08 11:24:36
+38109,70,Troll,Rogue,Blade's Edge Mountains,103,11/16/08 06:39:30
+24448,70,Tauren,Hunter,Orgrimmar,104,09/22/08 00:49:34
+76353,70,Troll,Hunter,Orgrimmar,4,08/29/08 21:29:26
+68445,5,Blood Elf,Hunter,Eversong Woods,-1,02/19/08 20:55:32
+34319,70,Blood Elf,Paladin,Shattrath City,101,07/27/08 22:26:33
+25363,70,Undead,Priest,Isle of Quel'Danas,204,09/01/08 22:11:32
+60179,70,Tauren,Shaman,Sunwell Plateau,53,08/23/08 14:56:55
+73437,52,Orc,Shaman,The Barrens,251,07/20/08 20:38:32
+60387,70,Troll,Hunter,Alterac Valley,101,08/25/08 19:10:16
+68221,70,Tauren,Druid,Shattrath City,161,07/19/08 00:22:31
+59437,70,Tauren,Shaman,Blasted Lands,189,11/03/08 12:11:08
+77561,80,Tauren,Warrior,Azshara,4,12/13/08 16:45:17
+22465,70,Troll,Mage,Shattrath City,282,08/30/08 23:59:26
+77763,70,Undead,Warlock,Shattrath City,342,10/18/08 20:27:37
+22419,70,Undead,Rogue,Shattrath City,101,02/12/08 18:55:42
+69643,38,Blood Elf,Mage,Arathi Basin,282,10/06/08 21:20:18
+59029,70,Tauren,Druid,Shattrath City,103,01/04/08 10:22:59
+68104,74,Undead,Rogue,Dragonblight,103,12/16/08 02:49:03
+54743,39,Troll,Hunter,Desolace,161,03/24/08 02:09:08
+85551,20,Blood Elf,Paladin,Ghostlands,35,11/09/08 17:15:44
+1974,70,Orc,Warlock,Karazhan,205,06/03/08 23:25:50
+24448,70,Tauren,Hunter,Magtheridon's Lair,104,08/16/08 00:19:36
+77634,70,Tauren,Druid,Terokkar Forest,414,10/23/08 22:38:56
+34396,80,Blood Elf,Priest,The Storm Peaks,104,12/20/08 07:30:13
+73567,70,Troll,Shaman,Zangarmarsh,103,08/21/08 19:20:23
+67275,41,Undead,Priest,Tirisfal Glades,-1,02/22/08 21:33:27
+75050,72,Blood Elf,Rogue,Dragonblight,189,11/24/08 15:06:29
+650,70,Undead,Mage,Shadowmoon Valley,62,02/03/08 00:45:14
+77870,35,Tauren,Shaman,Alterac Mountains,437,09/22/08 15:37:06
+40458,70,Blood Elf,Paladin,Isle of Quel'Danas,189,04/26/08 20:38:07
+360,70,Undead,Priest,Warsong Gulch,103,08/15/08 07:41:33
+22246,70,Troll,Hunter,Shattrath City,101,08/17/08 10:30:27
+34629,71,Blood Elf,Mage,Borean Tundra,189,11/24/08 14:24:26
+18758,70,Tauren,Warrior,Arathi Basin,171,09/29/08 17:05:59
+67578,70,Undead,Warrior,Netherstorm,101,08/06/08 19:38:07
+72091,55,Blood Elf,Priest,The Hinterlands,251,06/20/08 19:17:27
+73542,61,Tauren,Druid,Hellfire Peninsula,365,07/11/08 11:03:34
+74140,70,Blood Elf,Paladin,Karazhan,62,09/19/08 22:30:19
+73248,47,Blood Elf,Hunter,Feralas,35,07/07/08 22:47:16
+74344,64,Blood Elf,Priest,Zangarmarsh,79,08/05/08 21:19:50
+53102,70,Undead,Mage,Nagrand,167,01/20/08 17:58:31
+59629,70,Blood Elf,Rogue,Hyjal,103,09/05/08 21:31:45
+1055,70,Undead,Warlock,Shattrath City,-1,02/24/08 21:38:33
+77318,65,Undead,Warlock,Terokkar Forest,437,09/19/08 19:59:02
+66941,25,Tauren,Druid,The Barrens,-1,03/26/08 23:08:47
+41661,69,Blood Elf,Warlock,Netherstorm,53,01/09/08 14:22:33
+29896,70,Troll,Hunter,Shattrath City,161,08/08/08 23:29:32
+40793,70,Tauren,Druid,Nagrand,103,03/04/08 19:49:35
+23577,70,Tauren,Warrior,Orgrimmar,103,09/04/08 23:28:45
+34321,56,Blood Elf,Paladin,Dire Maul,220,01/07/08 17:04:37
+62978,70,Blood Elf,Paladin,Old Hillsbrad Foothills,103,11/13/08 16:13:14
+30745,70,Troll,Priest,Arathi Basin,53,07/06/08 17:25:18
+74419,60,Troll,Hunter,Hellfire Peninsula,251,08/13/08 10:57:27
+36200,51,Blood Elf,Warlock,Searing Gorge,-1,07/18/08 15:55:07
+31673,62,Undead,Rogue,Feralas,104,02/04/08 21:02:16
+64511,49,Blood Elf,Mage,The Hinterlands,282,01/29/08 20:19:37
+59601,70,Blood Elf,Mage,Magisters' Terrace,250,04/15/08 19:18:28
+38751,56,Blood Elf,Priest,Felwood,189,06/26/08 15:08:05
+22409,70,Undead,Rogue,Hellfire Peninsula,-1,05/28/08 14:35:06
+12930,70,Undead,Priest,Blade's Edge Mountains,300,02/11/08 21:35:03
+25079,70,Orc,Hunter,Shattrath City,35,04/27/08 10:33:53
+26752,70,Tauren,Warrior,Black Temple,104,10/02/08 22:38:11
+46110,70,Tauren,Druid,Arathi Basin,250,05/08/08 00:27:00
+59601,70,Blood Elf,Mage,Karazhan,35,03/15/08 21:42:02
+73557,70,Blood Elf,Mage,Isle of Quel'Danas,298,10/21/08 02:48:54
+45772,70,Blood Elf,Paladin,Shattrath City,103,08/09/08 19:08:33
+18723,70,Tauren,Warrior,Orgrimmar,-1,02/07/08 01:30:52
+62239,80,Undead,Mage,Wintergrasp,205,12/22/08 23:38:10
+47182,67,Blood Elf,Warlock,The Barrens,103,02/17/08 23:26:13
+69440,25,Tauren,Druid,Shadowfang Keep,-1,03/12/08 22:38:48
+502,70,Orc,Warrior,Karazhan,62,03/01/08 21:25:48
+87,70,Tauren,Shaman,Shattrath City,19,07/06/08 13:14:50
+63796,70,Blood Elf,Warlock,Hellfire Peninsula,257,05/23/08 02:27:25
+86269,73,Tauren,Death Knight,Dragonblight,313,12/08/08 15:18:12
+35932,34,Blood Elf,Warlock,Thousand Needles,-1,02/01/08 21:46:14
+28845,70,Tauren,Druid,Karazhan,282,05/29/08 23:13:59
+54287,70,Blood Elf,Paladin,Stranglethorn Vale,104,11/15/08 00:56:58
+35204,70,Blood Elf,Paladin,Hellfire Peninsula,35,07/16/08 20:29:32
+78584,6,Troll,Hunter,Orgrimmar,-1,09/28/08 04:10:05
+437,74,Troll,Shaman,Dragonblight,104,12/10/08 23:48:48
+34759,70,Blood Elf,Paladin,Silithus,9,11/07/08 01:09:45
+54658,56,Blood Elf,Warlock,Silithus,358,06/11/08 18:09:14
+23276,70,Tauren,Hunter,Shattrath City,-1,01/20/08 19:27:07
+11190,70,Troll,Shaman,Isle of Quel'Danas,62,06/02/08 16:14:22
+23308,70,Undead,Warlock,Serpentshrine Cavern,103,07/10/08 20:45:28
+67606,18,Blood Elf,Mage,Ghostlands,-1,02/08/08 02:13:11
+22379,70,Tauren,Shaman,Warsong Gulch,35,04/01/08 15:33:40
+30070,70,Blood Elf,Paladin,Orgrimmar,282,09/04/08 13:51:36
+47821,70,Blood Elf,Paladin,Hall of Legends,115,09/05/08 09:11:20
+47500,70,Blood Elf,Paladin,Black Temple,103,06/20/08 23:28:06
+22263,70,Troll,Mage,Isle of Quel'Danas,103,11/13/08 14:26:05
+64313,70,Blood Elf,Priest,Silithus,189,08/27/08 18:22:42
+77727,17,Blood Elf,Rogue,Silverpine Forest,282,09/13/08 22:59:39
+37892,69,Blood Elf,Paladin,Shadowmoon Valley,53,04/14/08 18:18:28
+1449,70,Undead,Warrior,Alterac Valley,5,02/09/08 00:52:19
+35362,70,Blood Elf,Mage,Hellfire Peninsula,251,10/24/08 22:19:08
+21959,70,Undead,Priest,Tempest Keep,103,02/09/08 20:24:58
+72422,62,Troll,Warrior,Zangarmarsh,101,06/19/08 15:46:10
+68923,4,Undead,Rogue,Tirisfal Glades,-1,02/27/08 20:07:36
+42668,70,Blood Elf,Priest,Black Temple,103,09/13/08 21:32:03
+519,70,Undead,Warrior,Alterac Valley,53,03/09/08 01:30:53
+182,1,Troll,Hunter,Durotar,-1,09/25/08 14:57:44
+3849,70,Undead,Warlock,Karazhan,53,03/14/08 02:41:02
+47888,70,Blood Elf,Warlock,Isle of Quel'Danas,358,09/07/08 11:31:55
+34375,70,Blood Elf,Warlock,Zangarmarsh,103,02/29/08 16:50:09
+90174,21,Blood Elf,Hunter,Ghostlands,-1,12/26/08 02:59:01
+34147,70,Undead,Mage,The Shattered Halls,35,09/29/08 18:35:49
+71624,57,Troll,Shaman,Western Plaguelands,315,09/16/08 02:09:27
+64214,69,Undead,Warlock,Netherstorm,282,04/30/08 08:54:06
+5198,70,Undead,Mage,Shattrath City,205,07/12/08 00:42:10
+51738,70,Blood Elf,Priest,Orgrimmar,104,04/19/08 01:17:49
+636,70,Troll,Rogue,Karazhan,35,07/06/08 22:55:30
+37076,70,Blood Elf,Hunter,Alterac Valley,-1,01/21/08 00:40:14
+23408,70,Troll,Hunter,Nagrand,271,10/01/08 22:09:26
+36293,38,Blood Elf,Paladin,Thousand Needles,-1,09/10/08 01:19:54
+21828,70,Tauren,Shaman,The Mechanar,204,02/20/08 15:33:28
+78060,3,Blood Elf,Paladin,Eversong Woods,-1,09/15/08 04:09:38
+61708,70,Blood Elf,Paladin,Netherstorm,-1,01/23/08 02:29:36
+35413,70,Blood Elf,Paladin,Netherstorm,101,08/06/08 10:19:00
+68227,70,Undead,Rogue,Durotar,282,10/09/08 22:38:19
+27089,70,Tauren,Druid,Shattrath City,101,04/21/08 23:34:59
+16798,70,Undead,Priest,Orgrimmar,104,06/08/08 19:39:37
+24448,70,Tauren,Hunter,Zangarmarsh,9,05/13/08 00:25:14
+72141,31,Tauren,Shaman,Thousand Needles,-1,07/07/08 07:55:27
+24126,70,Blood Elf,Warlock,Orgrimmar,282,09/01/08 22:21:54
+42686,70,Undead,Warrior,Blade's Edge Mountains,-1,10/28/08 15:41:52
+1863,70,Undead,Warlock,Terokkar Forest,204,01/16/08 01:40:05
+70425,70,Orc,Warrior,Hillsbrad Foothills,53,09/27/08 14:07:05
+27871,70,Orc,Warrior,Netherstorm,103,01/05/08 01:31:24
+22379,70,Tauren,Shaman,Orgrimmar,359,04/27/08 13:14:40
+51246,70,Undead,Warlock,Tempest Keep,104,02/12/08 00:25:21
+67872,54,Blood Elf,Mage,The Barrens,365,07/01/08 17:00:09
+74122,45,Blood Elf,Mage,Tanaris,402,09/15/08 14:59:58
+21161,62,Tauren,Shaman,Hellfire Peninsula,-1,08/27/08 00:48:20
+64635,45,Blood Elf,Paladin,Stranglethorn Vale,161,01/28/08 04:49:21
+18065,70,Undead,Warlock,Zangarmarsh,103,05/29/08 20:25:26
+1459,70,Tauren,Druid,Shattrath City,103,07/07/08 21:36:18
+57278,70,Blood Elf,Paladin,Netherstorm,103,10/13/08 10:19:39
+25800,46,Blood Elf,Warlock,Feralas,97,08/03/08 12:15:31
+47182,68,Blood Elf,Warlock,Nagrand,103,02/20/08 03:46:02
+67597,9,Tauren,Hunter,Mulgore,282,02/04/08 22:20:48
+68982,70,Blood Elf,Paladin,Karazhan,189,11/14/08 00:54:32
+45751,70,Blood Elf,Paladin,Netherstorm,35,09/13/08 17:11:51
+28749,70,Troll,Priest,Black Temple,103,08/03/08 21:43:12
+29037,70,Undead,Mage,Nagrand,-1,09/03/08 21:00:13
+1003,70,Orc,Warrior,Stranglethorn Vale,281,07/15/08 21:32:49
+37317,70,Blood Elf,Paladin,Shattrath City,103,04/11/08 21:20:25
+70280,62,Blood Elf,Priest,Zangarmarsh,103,04/27/08 01:07:03
+64510,70,Orc,Hunter,Warsong Gulch,103,01/21/08 10:36:44
+60948,23,Blood Elf,Paladin,Razorfen Kraul,-1,05/24/08 14:56:17
+44,70,Orc,Rogue,Warsong Gulch,204,03/21/08 00:28:17
+55048,70,Blood Elf,Warlock,Shattrath City,16,01/21/08 23:10:12
+44123,70,Blood Elf,Warlock,Nagrand,-1,02/15/08 08:06:34
+10377,55,Troll,Hunter,The Hinterlands,233,06/23/08 21:18:11
+65436,48,Troll,Hunter,Tanaris,259,01/31/08 18:54:07
+63118,62,Blood Elf,Hunter,Orgrimmar,282,02/17/08 20:36:19
+63384,70,Blood Elf,Mage,Terokkar Forest,35,03/21/08 16:42:36
+23426,80,Undead,Warlock,Wintergrasp,103,12/18/08 23:27:56
+51942,67,Blood Elf,Paladin,Hellfire Ramparts,220,01/06/08 22:34:37
+27678,5,Troll,Mage,Orgrimmar,-1,04/22/08 02:45:05
+73130,45,Blood Elf,Warlock,Undercity,161,06/27/08 03:16:57
+72042,70,Blood Elf,Hunter,Terokkar Forest,358,09/10/08 08:11:54
+31184,70,Undead,Rogue,Orgrimmar,101,01/07/08 21:23:34
+74770,50,Tauren,Druid,Feralas,282,08/31/08 18:59:14
+35345,58,Blood Elf,Paladin,Hellfire Peninsula,-1,01/23/08 22:19:32
+61464,70,Troll,Hunter,Alterac Valley,-1,01/27/08 18:31:01
+63559,70,Blood Elf,Paladin,Nagrand Arena,103,04/29/08 06:25:33
+44123,70,Blood Elf,Warlock,Orgrimmar,-1,04/26/08 16:49:44
+65969,34,Blood Elf,Mage,Desolace,282,02/11/08 21:25:36
+55922,67,Tauren,Shaman,Nagrand,167,01/15/08 22:27:42
+75799,70,Undead,Rogue,Nagrand,282,10/09/08 19:38:36
+31184,70,Undead,Rogue,Warsong Gulch,101,01/13/08 10:25:42
+1244,70,Troll,Hunter,Terokkar Forest,-1,04/19/08 13:54:55
+21965,70,Troll,Shaman,Hyjal,101,09/23/08 21:48:35
+40363,22,Blood Elf,Paladin,Durotar,4,07/08/08 21:36:20
+64794,70,Blood Elf,Warlock,Shattrath City,189,09/15/08 20:50:54
+56692,70,Tauren,Druid,Isle of Quel'Danas,62,04/11/08 22:15:59
+2873,10,Tauren,Shaman,The Barrens,-1,08/10/08 12:55:31
+31673,70,Undead,Rogue,Alterac Valley,104,02/23/08 18:18:57
+71545,70,Blood Elf,Mage,Nagrand,405,08/01/08 19:57:43
+35072,80,Blood Elf,Paladin,Dalaran,161,12/12/08 19:38:43
+88777,10,Blood Elf,Mage,Eversong Woods,-1,12/06/08 01:51:00
+21868,70,Tauren,Hunter,Tanaris,104,04/24/08 22:54:34
+1481,70,Undead,Priest,Warsong Gulch,53,01/19/08 14:28:37
+64835,70,Orc,Rogue,Isle of Quel'Danas,53,04/13/08 12:31:58
+46410,64,Blood Elf,Mage,Terokkar Forest,282,03/01/08 02:19:03
+72732,51,Tauren,Druid,Blackrock Spire,365,06/25/08 22:11:49
+25982,70,Undead,Rogue,Eye of the Storm,104,05/07/08 19:59:03
+46492,70,Tauren,Shaman,Hyjal,103,08/11/08 21:45:56
+59436,70,Tauren,Warrior,Karazhan,189,06/21/08 23:15:43
+75797,46,Blood Elf,Paladin,The Hinterlands,189,08/30/08 07:01:28
+68501,70,Tauren,Druid,Netherstorm,35,08/31/08 21:08:33
+51580,70,Blood Elf,Paladin,Alterac Valley,104,03/16/08 23:11:36
+66093,19,Tauren,Warrior,The Barrens,311,02/13/08 20:23:07
+61542,63,Tauren,Shaman,Shattrath City,103,02/12/08 14:13:30
+9,70,Orc,Hunter,Shattrath City,79,04/15/08 23:34:52
+59020,70,Orc,Hunter,Orgrimmar,189,09/14/08 12:47:10
+30745,70,Troll,Priest,The Mechanar,53,08/07/08 15:46:42
+47328,70,Blood Elf,Paladin,Terokkar Forest,167,01/01/08 14:05:39
+41519,70,Blood Elf,Mage,Arathi Basin,282,01/07/08 09:35:14
+61958,70,Undead,Warrior,Netherstorm,282,08/19/08 02:18:33
+71383,15,Blood Elf,Warlock,Ghostlands,-1,04/22/08 21:16:41
+11316,70,Undead,Mage,Netherstorm,161,09/14/08 17:39:13
+27388,70,Undead,Warlock,Karazhan,103,06/06/08 22:28:28
+636,70,Troll,Rogue,Nagrand,35,07/27/08 20:15:55
+17533,70,Tauren,Warrior,Shattrath City,103,08/09/08 08:45:30
+182,1,Troll,Hunter,Durotar,-1,07/24/08 13:40:05
+57830,70,Blood Elf,Hunter,Netherstorm,101,11/15/08 12:14:19
+22557,70,Orc,Hunter,Arathi Basin,103,01/07/08 22:41:47
+14313,70,Undead,Warlock,The Mechanar,79,01/08/08 21:13:48
+22559,70,Troll,Rogue,Shattrath City,359,07/01/08 01:06:38
+5198,70,Undead,Mage,Searing Gorge,205,11/12/08 01:56:34
+75863,44,Troll,Hunter,Stranglethorn Vale,426,08/24/08 18:36:05
+32748,70,Undead,Mage,The Mechanar,35,06/21/08 09:56:41
+36012,59,Blood Elf,Paladin,Winterspring,5,03/23/08 21:01:48
+17412,70,Troll,Hunter,Shattrath City,79,11/14/08 23:10:39
+69528,78,Troll,Hunter,Grizzly Hills,189,12/20/08 22:16:37
+63223,32,Blood Elf,Rogue,The Barrens,35,08/24/08 03:20:00
+22654,70,Troll,Priest,Blackrock Depths,101,10/11/08 14:48:04
+132,70,Tauren,Warrior,Shattrath City,62,10/18/08 01:46:21
+22629,70,Troll,Warrior,Nagrand,101,10/17/08 20:48:13
+12611,70,Blood Elf,Hunter,Alterac Valley,35,01/28/08 15:59:59
+67798,61,Tauren,Druid,Hellfire Peninsula,-1,04/15/08 01:46:00
+23742,70,Tauren,Druid,Terokkar Forest,104,09/29/08 09:07:48
+77065,55,Blood Elf,Warlock,Winterspring,9,10/13/08 19:29:21
+31575,42,Tauren,Shaman,Stranglethorn Vale,-1,04/19/08 20:55:18
+59437,70,Tauren,Shaman,Azshara,189,11/03/08 12:50:16
+28187,70,Tauren,Druid,Alterac Valley,174,05/07/08 23:26:57
+75769,70,Troll,Hunter,Isle of Quel'Danas,251,10/09/08 17:07:48
+17309,70,Tauren,Hunter,Hellfire Peninsula,266,06/05/08 20:57:17
+2309,70,Troll,Hunter,Karazhan,161,09/19/08 22:38:18
+26752,70,Tauren,Warrior,Orgrimmar,104,07/15/08 20:14:36
+16825,70,Undead,Warlock,Shattrath City,-1,04/25/08 21:46:13
+48024,70,Blood Elf,Priest,Shattrath City,35,02/27/08 11:59:29
+23487,80,Tauren,Hunter,The Barrens,101,12/21/08 23:11:53
+44,70,Orc,Rogue,Serpentshrine Cavern,5,01/05/08 00:31:48
+57278,68,Blood Elf,Paladin,Netherstorm,174,03/02/08 17:21:04
+31647,70,Undead,Mage,Isle of Quel'Danas,103,07/12/08 20:06:01
+52362,70,Blood Elf,Priest,Arathi Basin,167,03/15/08 03:31:54
+57741,70,Undead,Warlock,Warsong Gulch,104,11/16/08 12:15:41
+77462,70,Orc,Hunter,The Mechanar,9,11/10/08 10:56:30
+58587,70,Tauren,Warrior,Karazhan,35,06/18/08 23:07:58
+27908,7,Orc,Hunter,Orgrimmar,-1,11/18/08 00:17:50
+11706,70,Undead,Warlock,Shattrath City,101,04/16/08 22:36:27
+2866,70,Undead,Priest,Tempest Keep,103,01/03/08 22:24:38
+23577,70,Tauren,Warrior,Karazhan,103,05/24/08 03:04:29
+47623,73,Tauren,Druid,Borean Tundra,189,11/30/08 04:18:00
+64796,52,Blood Elf,Priest,Azshara,-1,01/14/08 01:40:10
+21965,70,Troll,Shaman,Serpentshrine Cavern,101,07/27/08 22:44:06
+72464,61,Blood Elf,Mage,The Blood Furnace,365,06/06/08 16:29:18
+25982,70,Undead,Rogue,The Steamvault,104,03/19/08 03:00:42
+58517,70,Blood Elf,Paladin,Isle of Quel'Danas,282,04/20/08 02:07:33
+66057,34,Orc,Hunter,Thousand Needles,288,01/17/08 14:17:09
+21918,70,Undead,Priest,Hyjal,104,06/28/08 20:53:46
+22253,80,Undead,Warlock,Dalaran,103,12/16/08 14:19:13
+2808,80,Orc,Hunter,Dalaran,104,12/14/08 11:26:47
+70008,68,Undead,Priest,Shattrath City,-1,09/02/08 18:04:01
+37133,70,Blood Elf,Warlock,Shattrath City,282,03/12/08 14:22:16
+22343,70,Undead,Priest,Warsong Gulch,-1,04/29/08 20:45:08
+22928,70,Tauren,Warrior,Nagrand,103,06/10/08 19:48:07
+73658,12,Undead,Rogue,Tirisfal Glades,-1,06/23/08 22:38:29
+71826,1,Tauren,Druid,Thunder Bluff,-1,07/17/08 21:02:27
+75332,70,Undead,Mage,Karazhan,161,09/18/08 23:39:09
+66102,28,Orc,Shaman,Thousand Needles,-1,01/26/08 21:59:08
+59386,70,Blood Elf,Hunter,Karazhan,35,04/20/08 22:07:17
+21207,70,Undead,Warlock,Shattrath City,101,04/16/08 01:17:12
+65420,70,Blood Elf,Paladin,Zangarmarsh,35,03/01/08 12:19:18
+77868,70,Tauren,Druid,Karazhan,424,10/28/08 23:18:41
+50220,34,Blood Elf,Rogue,Undercity,-1,06/30/08 13:36:51
+47116,42,Blood Elf,Mage,Stranglethorn Vale,-1,05/19/08 13:37:07
+66302,67,Blood Elf,Hunter,Alterac Valley,-1,02/16/08 16:56:02
+388,70,Undead,Rogue,Western Plaguelands,104,08/27/08 22:10:53
+31453,53,Blood Elf,Hunter,Blasted Lands,216,01/19/08 09:30:20
+63488,68,Blood Elf,Rogue,Alterac Valley,282,02/29/08 22:29:11
+42955,70,Undead,Warlock,Nagrand Arena,104,10/15/08 01:59:19
+75457,67,Blood Elf,Paladin,Nagrand,282,10/16/08 12:13:42
+73117,60,Troll,Rogue,Hellfire Peninsula,-1,10/24/08 20:47:11
+75402,59,Undead,Rogue,Hellfire Peninsula,282,08/10/08 18:06:56
+37472,58,Blood Elf,Paladin,Hellfire Ramparts,161,03/22/08 15:41:19
+23557,70,Undead,Priest,Orgrimmar,103,02/05/08 10:42:22
+42610,52,Blood Elf,Warlock,Un'Goro Crater,251,10/01/08 23:01:09
+21968,70,Orc,Warrior,Isle of Quel'Danas,101,04/12/08 06:05:15
+1319,64,Troll,Hunter,Zangarmarsh,6,04/17/08 01:35:08
+51735,70,Blood Elf,Paladin,Alterac Valley,53,02/11/08 22:36:14
+37953,70,Blood Elf,Paladin,Terokkar Forest,161,03/30/08 22:35:49
+61396,70,Blood Elf,Warlock,Orgrimmar,35,04/29/08 19:16:17
+46794,70,Tauren,Shaman,Isle of Quel'Danas,204,05/25/08 19:44:53
+43280,70,Blood Elf,Paladin,Shadowmoon Valley,62,03/25/08 00:41:35
+23374,60,Undead,Mage,Tanaris,101,10/11/08 12:38:14
+87969,47,Tauren,Druid,Tanaris,250,12/13/08 14:29:48
+8131,70,Undead,Mage,Zangarmarsh,305,02/01/08 00:45:31
+443,70,Undead,Warlock,Ghostlands,62,08/24/08 21:59:27
+22543,70,Undead,Mage,Orgrimmar,101,07/19/08 20:01:49
+75342,70,Undead,Priest,Alterac Valley,101,07/25/08 02:25:03
+3849,76,Undead,Warlock,Drak'Tharon Keep,53,12/06/08 23:05:51
+66149,70,Troll,Priest,Arathi Basin,205,01/17/08 11:19:16
+39208,70,Blood Elf,Paladin,Orgrimmar,250,08/09/08 12:49:13
+86378,80,Blood Elf,Death Knight,The Violet Hold,104,12/07/08 02:38:06
+36,70,Orc,Shaman,Sunwell Plateau,101,04/20/08 20:44:45
+72912,15,Undead,Mage,Undercity,251,06/08/08 19:57:37
+94,78,Tauren,Warrior,The Oculus,305,12/07/08 01:22:51
+480,70,Tauren,Hunter,The Underbog,4,05/22/08 21:45:17
+492,70,Undead,Mage,Shattrath City,104,03/23/08 16:10:32
+20125,15,Undead,Rogue,Silverpine Forest,-1,05/10/08 20:56:51
+34393,70,Blood Elf,Paladin,Shattrath City,204,02/10/08 00:46:22
+55932,63,Blood Elf,Mage,Shattrath City,189,02/09/08 16:06:09
+35195,70,Blood Elf,Paladin,Arathi Basin,35,07/05/08 10:47:33
+61105,70,Blood Elf,Priest,Nagrand,62,07/16/08 22:59:49
+73130,70,Blood Elf,Warlock,Shattrath City,161,08/18/08 03:09:41
+66117,24,Undead,Rogue,The Barrens,288,01/23/08 23:27:53
+86355,64,Blood Elf,Death Knight,Terokkar Forest,101,11/22/08 19:17:48
+28187,66,Tauren,Druid,Nagrand,174,02/23/08 08:07:13
+75627,17,Orc,Rogue,The Barrens,-1,07/30/08 00:41:18
+78019,70,Blood Elf,Death Knight,Howling Fjord,478,11/23/08 14:25:04
+35104,55,Blood Elf,Paladin,Tanaris,-1,02/29/08 20:38:45
+65749,51,Blood Elf,Rogue,Thunder Bluff,-1,02/24/08 12:49:04
+66338,70,Blood Elf,Rogue,Sethekk Halls,167,03/02/08 00:39:23
+38305,61,Blood Elf,Mage,Hellfire Ramparts,53,02/08/08 01:13:30
+28710,70,Orc,Warlock,Orgrimmar,103,08/08/08 17:25:03
+65055,67,Blood Elf,Warlock,Shadowmoon Valley,-1,01/10/08 13:55:28
+62095,70,Orc,Hunter,Terokkar Forest,282,02/21/08 18:31:27
+25388,70,Orc,Hunter,Eye of the Storm,103,05/14/08 09:25:08
+89751,12,Blood Elf,Paladin,Ghostlands,-1,12/18/08 22:02:51
+46107,70,Blood Elf,Paladin,Eye of the Storm,161,09/27/08 12:20:57
+23982,44,Undead,Priest,Stranglethorn Vale,174,01/08/08 21:13:13
+42955,70,Undead,Warlock,Karazhan,424,11/06/08 22:08:31
+5198,70,Undead,Mage,Orgrimmar,205,11/04/08 18:08:18
+76631,31,Blood Elf,Warlock,Shattrath City,-1,11/02/08 09:57:53
+17684,70,Tauren,Warrior,Isle of Quel'Danas,205,09/17/08 03:58:46
+61883,70,Undead,Rogue,Mana-Tombs,291,02/16/08 22:25:23
+23204,70,Undead,Warlock,Orgrimmar,104,01/13/08 02:45:29
+53611,70,Blood Elf,Paladin,Arathi Basin,103,01/09/08 01:15:02
+6231,70,Undead,Warrior,Karazhan,273,05/23/08 22:16:32
+36765,70,Blood Elf,Mage,Isle of Quel'Danas,53,11/01/08 23:39:12
+32098,70,Troll,Priest,Orgrimmar,104,01/17/08 00:19:01
+26843,70,Tauren,Warrior,Howling Fjord,189,11/21/08 08:54:22
+34321,54,Blood Elf,Paladin,Felwood,220,01/06/08 13:54:14
+22557,70,Orc,Hunter,The Temple of Atal'Hakkar,103,03/04/08 21:38:10
+76664,8,Blood Elf,Priest,Orgrimmar,-1,08/30/08 15:00:37
+61396,70,Blood Elf,Warlock,Shadowmoon Valley,35,03/18/08 15:51:55
+925,70,Tauren,Hunter,Eye of the Storm,-1,01/01/08 10:43:24
+17712,35,Blood Elf,Warlock,Undercity,298,03/12/08 15:30:55
+67768,70,Undead,Warrior,Arathi Basin,35,04/28/08 08:24:31
+65742,70,Tauren,Druid,Sethekk Halls,204,03/01/08 10:36:43
+45029,70,Blood Elf,Warlock,Undercity,53,02/23/08 11:00:30
+59601,70,Blood Elf,Mage,Shattrath City,104,08/19/08 21:39:00
+15465,70,Troll,Mage,Black Temple,103,03/04/08 21:00:04
+2058,80,Undead,Warlock,The Nexus,104,12/07/08 12:54:44
+39915,62,Blood Elf,Paladin,Hellfire Peninsula,205,07/02/08 20:40:23
+78169,24,Blood Elf,Rogue,Orgrimmar,-1,09/25/08 19:29:25
+57988,48,Troll,Warrior,Searing Gorge,251,08/31/08 19:39:58
+21885,70,Tauren,Druid,Shattrath City,101,09/03/08 00:28:36
+41004,62,Orc,Rogue,Hellfire Peninsula,115,05/10/08 22:34:52
+73975,1,Blood Elf,Warlock,Eversong Woods,-1,06/27/08 19:25:40
+27842,50,Troll,Warrior,The Hinterlands,251,05/31/08 23:24:27
+69922,49,Blood Elf,Warlock,Alterac Mountains,307,04/21/08 23:37:02
+67872,70,Blood Elf,Mage,Alterac Valley,5,08/13/08 04:18:34
+81815,71,Undead,Warlock,Howling Fjord,471,11/21/08 20:56:24
+64950,41,Blood Elf,Priest,Swamp of Sorrows,-1,01/20/08 00:19:32
+28710,70,Orc,Warlock,Netherstorm,103,08/19/08 14:36:26
+48534,70,Blood Elf,Warlock,Terokkar Forest,243,03/29/08 12:28:29
+347,70,Undead,Rogue,Shattrath City,186,07/26/08 07:19:58
+81960,58,Blood Elf,Death Knight,Blasted Lands,-1,11/22/08 22:50:40
+57702,70,Undead,Warlock,The Blood Furnace,104,09/07/08 10:32:36
+78530,14,Tauren,Hunter,The Barrens,-1,10/14/08 15:26:26
+67926,70,Orc,Warrior,Nagrand Arena,103,02/11/08 00:13:28
+67115,60,Blood Elf,Warlock,Hellfire Peninsula,174,02/20/08 03:05:27
+76611,45,Tauren,Warrior,Arathi Highlands,282,09/04/08 13:08:30
+22576,64,Undead,Warrior,Nagrand,35,01/11/08 17:01:32
+22728,70,Troll,Rogue,Eye of the Storm,250,07/22/08 04:10:32
+34929,70,Blood Elf,Warlock,Alterac Valley,-1,08/16/08 22:02:53
+60182,70,Tauren,Shaman,Shattrath City,282,11/01/08 21:58:08
+73114,52,Blood Elf,Warlock,Winterspring,251,09/03/08 19:41:01
+68202,70,Blood Elf,Priest,Shattrath City,104,03/22/08 00:12:05
+71103,45,Blood Elf,Hunter,Stranglethorn Vale,6,04/24/08 13:36:53
+44866,55,Blood Elf,Death Knight,Plaguelands: The Scarlet Enclave,-1,11/22/08 02:28:09
+69571,43,Blood Elf,Warlock,Tanaris,344,04/24/08 20:07:54
+68826,70,Blood Elf,Mage,The Hinterlands,115,11/17/08 01:47:18
+60086,70,Blood Elf,Hunter,Hellfire Peninsula,161,03/03/08 23:41:14
+88048,80,Blood Elf,Death Knight,Gundrak,463,12/19/08 19:55:41
+76553,43,Troll,Hunter,Silvermoon City,437,10/19/08 12:56:03
+89358,9,Troll,Shaman,Durotar,-1,12/10/08 17:37:06
+29487,70,Tauren,Shaman,Karazhan,101,07/05/08 02:00:19
+52990,70,Undead,Mage,Alterac Valley,161,02/08/08 20:32:21
+59202,46,Undead,Warlock,The Hinterlands,282,02/02/08 14:55:09
+70125,70,Blood Elf,Mage,Alterac Valley,282,06/18/08 20:10:54
+47756,66,Blood Elf,Priest,Sethekk Halls,282,01/12/08 00:32:42
+77661,18,Blood Elf,Warlock,Ghostlands,-1,09/14/08 12:19:42
+195,70,Troll,Rogue,Karazhan,53,02/03/08 15:45:05
+41802,70,Blood Elf,Rogue,The Steamvault,103,01/17/08 18:51:02
+59076,70,Blood Elf,Paladin,Durotar,103,09/20/08 10:40:12
+24390,70,Undead,Priest,Blade's Edge Mountains,174,01/05/08 02:33:52
+60343,70,Blood Elf,Warlock,Ruins of Lordaeron,104,04/21/08 00:37:46
+14525,70,Orc,Warlock,Sethekk Halls,-1,04/28/08 23:11:52
+72689,53,Blood Elf,Paladin,Badlands,-1,07/16/08 23:08:43
+22229,70,Undead,Mage,Orgrimmar,104,01/22/08 09:18:31
+65357,54,Blood Elf,Mage,Orgrimmar,35,06/11/08 18:00:01
+53025,70,Tauren,Druid,Arathi Basin,393,11/02/08 14:57:23
+53439,70,Undead,Rogue,Arathi Basin,35,01/06/08 02:03:29
+44325,62,Blood Elf,Rogue,Eye of the Storm,19,02/06/08 15:33:53
+22220,70,Tauren,Warrior,Arathi Basin,104,01/09/08 22:29:44
+84436,69,Undead,Priest,Netherstorm,103,11/16/08 09:09:37
+71929,70,Undead,Warrior,Alterac Valley,350,07/28/08 03:35:28
+34600,70,Blood Elf,Paladin,Shadowmoon Valley,62,04/20/08 11:18:07
+36761,70,Blood Elf,Paladin,Auchindoun: Shadow Labyrinth,186,08/09/08 23:58:33
+34331,70,Blood Elf,Warlock,Netherstorm,104,03/31/08 09:56:39
+68311,28,Tauren,Druid,Hillsbrad Foothills,266,03/10/08 18:58:33
+66570,35,Undead,Priest,Thousand Needles,282,01/27/08 16:20:52
+6142,70,Tauren,Druid,Netherstorm,5,08/23/08 16:25:47
+83223,62,Blood Elf,Warlock,Hellfire Ramparts,424,12/08/08 22:35:01
+67569,69,Blood Elf,Rogue,Netherstorm,-1,10/17/08 17:19:11
+56070,70,Blood Elf,Mage,Shattrath City,287,01/22/08 10:20:17
+492,70,Undead,Mage,Shattrath City,104,04/29/08 13:03:54
+68093,70,Tauren,Druid,Terokkar Forest,243,03/23/08 10:39:03
+22009,70,Tauren,Druid,Orgrimmar,101,06/10/08 10:26:36
+61893,70,Blood Elf,Warlock,Orgrimmar,336,07/21/08 17:22:53
+424,70,Orc,Rogue,Arathi Basin,-1,01/02/08 02:02:36
+88004,71,Blood Elf,Death Knight,The Barrens,135,12/06/08 10:11:12
+62242,70,Blood Elf,Rogue,Nagrand,282,04/25/08 17:57:27
+29395,70,Troll,Priest,Shadowmoon Valley,35,01/22/08 01:38:19
+47614,70,Blood Elf,Priest,Terokkar Forest,103,04/24/08 12:28:39
+23212,69,Undead,Warrior,Terokkar Forest,372,08/01/08 20:34:07
+68506,70,Blood Elf,Warlock,Isle of Quel'Danas,189,10/12/08 23:20:04
+60500,49,Blood Elf,Rogue,Tanaris,239,01/30/08 18:26:06
+34275,54,Undead,Rogue,Arathi Basin,167,01/07/08 23:43:02
+73063,13,Undead,Mage,Tirisfal Glades,-1,06/04/08 12:57:45
+70821,70,Tauren,Warrior,Orgrimmar,103,08/01/08 19:22:14
+75470,70,Orc,Shaman,Shattrath City,161,10/09/08 19:36:30
+25800,70,Blood Elf,Warlock,Karazhan,103,09/19/08 08:42:10
+26766,70,Orc,Hunter,Shattrath City,-1,06/29/08 15:14:00
+21207,70,Undead,Warlock,Shadowmoon Valley,101,03/29/08 00:24:51
+22177,70,Undead,Warlock,Black Temple,101,07/29/08 22:45:16
+28172,70,Troll,Mage,The Mechanar,-1,07/11/08 17:51:30
+67830,7,Blood Elf,Hunter,Eversong Woods,-1,02/09/08 09:05:33
+58815,80,Blood Elf,Mage,The Nexus,189,12/14/08 20:45:11
+11705,70,Undead,Rogue,Shattrath City,19,09/07/08 12:42:59
+25279,67,Blood Elf,Warlock,Nagrand,175,03/01/08 21:59:24
+22503,70,Tauren,Hunter,Nagrand,101,09/14/08 04:38:50
+55823,69,Tauren,Warrior,Eye of the Storm,312,03/29/08 03:53:37
+4064,70,Troll,Hunter,Netherstorm,53,06/07/08 22:49:04
+73644,47,Blood Elf,Priest,The Barrens,282,10/25/08 11:27:50
+75064,46,Blood Elf,Mage,Orgrimmar,358,08/06/08 16:27:58
+398,70,Undead,Warlock,Shattrath City,204,01/12/08 05:32:00
+37351,70,Blood Elf,Warlock,Hyjal,189,10/09/08 22:39:52
+36792,70,Undead,Warlock,Isle of Quel'Danas,282,05/27/08 13:35:44
+24802,61,Undead,Mage,Hellfire Peninsula,136,01/05/08 14:22:58
+64835,40,Orc,Rogue,Stranglethorn Vale,53,01/15/08 11:07:19
+51329,70,Tauren,Druid,Gruul's Lair,35,02/23/08 00:32:03
+53517,56,Troll,Rogue,Un'Goro Crater,12,06/09/08 00:06:56
+38495,70,Blood Elf,Paladin,Warsong Gulch,103,06/10/08 20:10:26
+230,70,Troll,Warrior,Netherstorm,103,03/28/08 23:53:30
+35396,32,Blood Elf,Mage,Alterac Mountains,358,04/24/08 00:47:19
+36775,62,Blood Elf,Warlock,Hellfire Peninsula,189,04/01/08 16:26:54
+22222,70,Tauren,Druid,Shattrath City,101,03/09/08 01:29:21
+28453,70,Troll,Hunter,Coilfang: The Slave Pens,5,04/20/08 15:46:21
+1170,80,Tauren,Druid,Shattrath City,62,11/28/08 21:54:48
+9457,70,Undead,Mage,Black Temple,104,07/10/08 21:04:44
+71857,70,Undead,Warrior,Blade's Edge Mountains,35,08/01/08 10:54:15
+77758,15,Troll,Hunter,The Barrens,-1,09/10/08 01:18:06
+69222,32,Blood Elf,Paladin,Silverpine Forest,79,03/21/08 15:11:28
+46903,62,Blood Elf,Mage,Zangarmarsh,282,06/29/08 21:38:40
+22737,70,Undead,Mage,The Mechanar,103,01/05/08 01:53:49
+701,70,Undead,Warlock,Hyjal,62,07/18/08 22:24:34
+58279,70,Undead,Mage,Sunwell Plateau,35,06/21/08 16:17:11
+14888,70,Undead,Warlock,The Mechanar,103,01/08/08 21:34:01
+23036,70,Orc,Shaman,The Temple of Atal'Hakkar,243,02/16/08 11:13:11
+303,70,Undead,Priest,The Black Morass,103,10/26/08 17:27:00
+61932,70,Blood Elf,Rogue,The Arcatraz,161,02/11/08 18:46:27
+57941,70,Blood Elf,Mage,The Steamvault,336,08/19/08 20:49:00
+87569,78,Blood Elf,Death Knight,Sholazar Basin,101,12/17/08 21:45:20
+61464,70,Troll,Hunter,Auchindoun: Shadow Labyrinth,282,03/22/08 23:20:01
+17483,70,Troll,Rogue,Terokkar Forest,414,08/16/08 10:21:33
+513,70,Troll,Rogue,Tempest Keep,62,04/14/08 00:06:48
+69995,5,Orc,Shaman,Durotar,-1,03/17/08 22:58:25
+63658,70,Tauren,Druid,Nagrand,174,01/03/08 11:33:00
+72402,38,Blood Elf,Hunter,Badlands,251,05/29/08 12:15:24
+32098,70,Troll,Priest,Shattrath City,104,07/29/08 13:43:09
+79473,80,Blood Elf,Paladin,Icecrown,103,12/22/08 19:22:01
+10223,70,Orc,Warrior,Orgrimmar,35,07/07/08 23:06:04
+40793,70,Tauren,Druid,Warsong Gulch,35,01/26/08 15:30:21
+892,70,Undead,Priest,Blade's Edge Mountains,5,01/28/08 09:18:36
+513,70,Troll,Rogue,Shattrath City,62,09/30/08 21:27:30
+62393,17,Blood Elf,Hunter,The Barrens,-1,01/08/08 23:54:19
+63559,65,Blood Elf,Paladin,Terokkar Forest,103,03/07/08 09:01:53
+21968,70,Orc,Warrior,Shattrath City,101,04/08/08 17:06:48
+89994,8,Troll,Hunter,Orgrimmar,-1,12/21/08 11:26:29
+35195,71,Blood Elf,Paladin,Borean Tundra,-1,12/07/08 21:42:04
+36551,70,Blood Elf,Hunter,Nagrand,104,02/11/08 23:56:19
+38415,36,Blood Elf,Rogue,Undercity,282,02/15/08 18:06:11
+87777,80,Blood Elf,Death Knight,Borean Tundra,342,12/18/08 22:55:51
+162,70,Tauren,Warrior,Isle of Quel'Danas,79,07/28/08 16:24:09
+68261,70,Undead,Rogue,Magisters' Terrace,79,04/15/08 22:46:50
+71871,30,Orc,Hunter,Tirisfal Glades,365,05/06/08 19:27:00
+52751,70,Undead,Priest,Isle of Quel'Danas,359,04/16/08 03:27:01
+6241,70,Orc,Hunter,Shattrath City,101,08/25/08 13:45:07
+69974,70,Troll,Hunter,Shattrath City,103,06/26/08 18:35:57
+60100,68,Blood Elf,Paladin,Hellfire Peninsula,161,02/07/08 14:53:19
+8109,70,Troll,Hunter,Nagrand,103,02/12/08 01:04:28
+22983,70,Tauren,Warrior,Orgrimmar,101,06/28/08 22:22:17
+63488,70,Blood Elf,Rogue,Alterac Valley,282,04/28/08 19:45:28
+2211,70,Undead,Mage,Shadowmoon Valley,205,06/29/08 14:35:47
+13492,70,Undead,Warlock,Warsong Gulch,359,05/11/08 14:57:13
+72689,68,Blood Elf,Paladin,Nagrand,-1,08/26/08 12:40:24
+85029,29,Blood Elf,Mage,Hillsbrad Foothills,-1,11/14/08 19:54:38
+71908,70,Blood Elf,Hunter,Terokkar Forest,365,07/31/08 01:25:38
+61239,70,Orc,Hunter,Sunwell Plateau,104,06/24/08 21:57:08
+35201,46,Blood Elf,Priest,Swamp of Sorrows,-1,07/06/08 16:16:35
+22703,70,Undead,Warlock,The Mechanar,103,06/19/08 22:37:24
+68905,70,Blood Elf,Paladin,Un'Goro Crater,101,09/29/08 13:31:05
+22983,70,Tauren,Warrior,Karazhan,101,03/16/08 20:29:22
+36792,79,Undead,Warlock,Dalaran,-1,12/08/08 11:34:42
+271,70,Undead,Mage,Black Temple,62,07/21/08 23:21:04
+65107,24,Tauren,Druid,Mulgore,-1,01/09/08 22:40:07
+13857,13,Tauren,Druid,Orgrimmar,289,12/07/08 17:22:28
+23291,70,Undead,Rogue,Orgrimmar,103,09/18/08 00:29:38
+59489,39,Blood Elf,Priest,Undercity,167,01/15/08 16:30:01
+85071,74,Blood Elf,Priest,Dragonblight,161,12/27/08 22:51:20
+68038,70,Blood Elf,Paladin,Alterac Valley,103,07/15/08 20:26:34
+22551,70,Undead,Rogue,Shadowmoon Valley,101,06/09/08 20:09:13
+47852,43,Blood Elf,Priest,Arathi Highlands,251,01/13/08 08:26:00
+63488,70,Blood Elf,Rogue,Mulgore,282,10/28/08 21:11:57
+67612,70,Orc,Hunter,Durotar,5,11/09/08 00:10:49
+69279,70,Undead,Mage,Hellfire Ramparts,424,10/30/08 22:33:31
+74563,70,Blood Elf,Paladin,Shadowmoon Valley,4,09/13/08 04:10:34
+62175,70,Tauren,Shaman,Eye of the Storm,53,09/13/08 18:07:55
+46447,12,Blood Elf,Warlock,Orgrimmar,281,07/10/08 00:42:13
+37953,70,Blood Elf,Paladin,Karazhan,161,04/19/08 20:17:19
+48190,69,Undead,Warlock,Netherstorm,103,03/29/08 18:34:42
+36189,31,Tauren,Druid,Arathi Basin,-1,07/30/08 21:21:58
+75247,20,Tauren,Hunter,Silvermoon City,282,07/27/08 20:14:54
+30970,70,Tauren,Warrior,Shattrath City,101,02/28/08 17:16:34
+87420,67,Blood Elf,Death Knight,Feralas,478,12/14/08 14:33:40
+68365,70,Undead,Rogue,The Botanica,62,03/23/08 11:30:41
+10481,70,Tauren,Warrior,Hyjal,104,06/28/08 22:42:45
+47328,70,Blood Elf,Paladin,Karazhan,35,03/29/08 16:17:48
+3634,70,Orc,Warrior,Terokkar Forest,62,07/24/08 23:52:48
+25133,70,Troll,Rogue,Arathi Basin,103,01/02/08 20:14:02
+59176,70,Troll,Hunter,Blade's Edge Mountains,-1,02/15/08 18:44:03
+17982,70,Undead,Mage,Sunwell Plateau,104,06/23/08 23:18:41
+71008,33,Undead,Priest,Stranglethorn Vale,9,04/16/08 23:45:51
+7758,70,Tauren,Druid,Alterac Valley,79,02/15/08 11:53:41
+71890,70,Blood Elf,Paladin,Arathi Basin,35,07/15/08 11:36:28
+66664,70,Blood Elf,Mage,Isle of Quel'Danas,35,10/01/08 01:47:49
+1386,70,Troll,Shaman,Hyjal,103,05/19/08 22:27:51
+22543,70,Undead,Mage,Arathi Basin,101,01/30/08 19:15:30
+64786,69,Tauren,Warrior,Netherstorm,189,03/12/08 09:28:43
+86267,80,Tauren,Death Knight,Ahn'kahet: The Old Kingdom,471,12/13/08 15:42:59
+63692,57,Undead,Mage,Felwood,282,01/21/08 01:38:31
+15722,70,Tauren,Shaman,Arathi Basin,204,03/15/08 11:58:58
+43097,70,Blood Elf,Mage,Wailing Caverns,315,02/18/08 00:16:41
+64304,48,Blood Elf,Warlock,The Temple of Atal'Hakkar,282,08/30/08 11:31:03
+22162,70,Orc,Hunter,Orgrimmar,103,02/17/08 13:23:08
+33349,78,Tauren,Shaman,Zul'Drak,-1,12/27/08 13:12:50
+26450,36,Tauren,Druid,Thunder Bluff,204,04/13/08 01:22:04
+67222,65,Blood Elf,Paladin,Warsong Gulch,307,03/11/08 18:51:37
+74819,67,Blood Elf,Hunter,Undercity,282,10/31/08 11:44:58
+75457,70,Blood Elf,Paladin,Magisters' Terrace,282,11/04/08 18:02:30
+83384,80,Troll,Priest,Sholazar Basin,103,12/17/08 13:24:19
+27617,23,Orc,Hunter,Orgrimmar,364,04/28/08 13:11:47
+59029,70,Tauren,Druid,Auchindoun: Shadow Labyrinth,174,03/23/08 00:49:34
+13501,70,Undead,Mage,Orgrimmar,204,04/11/08 02:18:55
+77696,70,Undead,Warlock,Black Temple,101,09/18/08 21:29:16
+75857,12,Undead,Warlock,Orgrimmar,176,08/01/08 12:44:25
+70505,70,Undead,Rogue,Warsong Gulch,79,07/09/08 10:18:20
+94,70,Tauren,Warrior,Karazhan,305,10/17/08 22:46:42
+12938,70,Orc,Hunter,Serpentshrine Cavern,103,08/28/08 23:27:46
+62840,66,Blood Elf,Mage,Nagrand,282,01/07/08 21:34:28
+86703,59,Blood Elf,Death Knight,Hellfire Peninsula,-1,11/24/08 23:39:57
+1321,80,Tauren,Druid,The Culling of Stratholme,4,12/28/08 12:40:04
+22675,70,Troll,Rogue,Shadowmoon Valley,101,08/16/08 20:30:19
+6691,70,Orc,Hunter,Orgrimmar,79,05/26/08 20:04:09
+22253,70,Undead,Warlock,Magisters' Terrace,103,03/30/08 11:35:28
+19598,70,Tauren,Shaman,Sunwell Plateau,101,06/08/08 21:46:55
+34068,21,Blood Elf,Warlock,Blackfathom Deeps,251,03/01/08 23:48:27
+23430,70,Tauren,Shaman,Shattrath City,104,03/12/08 21:58:59
+64402,29,Undead,Warlock,Ashenvale,-1,05/26/08 00:35:51
+39359,70,Blood Elf,Mage,Terokkar Forest,204,06/04/08 20:30:41
+1205,40,Troll,Hunter,Stranglethorn Vale,4,02/13/08 13:53:42
+35500,15,Blood Elf,Warlock,Orgrimmar,-1,08/01/08 03:44:01
+27347,70,Undead,Rogue,The Blood Furnace,103,09/22/08 23:19:23
+23865,70,Tauren,Shaman,Isle of Quel'Danas,103,04/19/08 22:24:55
+28651,70,Troll,Rogue,Karazhan,53,05/16/08 01:33:14
+24209,70,Tauren,Warrior,Orgrimmar,204,01/01/08 00:12:48
+67828,19,Blood Elf,Warlock,Ghostlands,-1,02/10/08 23:56:02
+426,70,Tauren,Shaman,Karazhan,205,04/10/08 22:45:54
+169,70,Tauren,Shaman,Shadowmoon Valley,79,02/20/08 22:43:29
+65046,70,Orc,Warrior,Shattrath City,282,05/26/08 18:55:16
+69922,70,Blood Elf,Warlock,Eye of the Storm,307,07/01/08 00:47:41
+35174,70,Blood Elf,Paladin,Orgrimmar,103,06/02/08 19:59:32
+23742,70,Tauren,Druid,Shattrath City,104,10/15/08 17:57:53
+57741,70,Undead,Warlock,The Mechanar,104,02/28/08 15:08:44
+27288,70,Undead,Warlock,Terokkar Forest,228,02/08/08 23:52:12
+5311,70,Tauren,Druid,Karazhan,62,03/30/08 00:14:07
+21744,70,Undead,Warlock,Serpentshrine Cavern,104,01/08/08 21:04:02
+34675,70,Blood Elf,Priest,Karazhan,35,03/22/08 22:52:25
+28996,1,Tauren,Warrior,Mulgore,-1,06/03/08 00:16:29
+28782,70,Orc,Warrior,The Mechanar,103,02/04/08 16:40:05
+89825,14,Blood Elf,Priest,The Barrens,-1,12/20/08 13:13:49
+49307,70,Troll,Hunter,Shattrath City,204,03/10/08 15:29:30
+22500,70,Tauren,Warrior,Auchindoun: Shadow Labyrinth,103,03/13/08 01:39:06
+42095,70,Troll,Rogue,Alterac Valley,282,02/16/08 00:14:08
+64794,70,Blood Elf,Warlock,The Steamvault,35,06/26/08 00:06:38
+65811,69,Troll,Priest,Blade's Edge Mountains,253,05/08/08 23:57:31
+66739,70,Blood Elf,Mage,Karazhan,412,08/30/08 16:11:44
+73567,35,Troll,Shaman,Thousand Needles,396,07/01/08 15:07:48
+38336,71,Blood Elf,Paladin,Howling Fjord,-1,12/15/08 17:04:52
+71974,70,Blood Elf,Hunter,Isle of Quel'Danas,424,08/04/08 02:05:24
+7769,1,Troll,Shaman,Orgrimmar,-1,11/18/08 02:02:11
+20884,70,Undead,Rogue,Orgrimmar,104,07/01/08 01:18:19
+3588,70,Undead,Warlock,Auchindoun: Shadow Labyrinth,19,03/04/08 22:40:28
+59149,34,Orc,Shaman,Desolace,35,02/11/08 20:12:29
+22289,70,Tauren,Warrior,Netherstorm,150,11/12/08 22:24:46
+43759,70,Tauren,Shaman,Alterac Valley,191,08/09/08 02:05:55
+22406,70,Undead,Mage,Netherstorm,-1,01/18/08 03:59:18
+75769,55,Troll,Hunter,Ashenvale,251,09/02/08 23:38:46
+31184,70,Undead,Rogue,Orgrimmar,101,08/09/08 23:57:22
+68533,11,Undead,Rogue,Tirisfal Glades,-1,02/23/08 11:58:09
+32287,70,Undead,Priest,Karazhan,103,02/01/08 12:35:52
+62978,70,Blood Elf,Paladin,Shattrath City,103,08/17/08 21:39:36
+5085,66,Undead,Priest,Nagrand,103,06/04/08 22:27:46
+50109,70,Tauren,Druid,Alterac Valley,189,01/03/08 21:53:09
+68965,4,Undead,Rogue,Tirisfal Glades,-1,03/08/08 11:50:27
+59334,70,Blood Elf,Priest,Netherstorm,167,01/24/08 22:02:52
+37036,60,Blood Elf,Priest,Hellfire Peninsula,282,01/17/08 22:30:25
+140,70,Tauren,Warrior,Isle of Quel'Danas,103,09/23/08 22:49:17
+37317,70,Blood Elf,Paladin,Isle of Quel'Danas,103,08/22/08 16:58:35
+35622,70,Blood Elf,Mage,Karazhan,189,03/23/08 02:52:33
+70173,70,Blood Elf,Priest,Arathi Basin,459,11/09/08 05:45:41
+21834,70,Tauren,Druid,Karazhan,103,04/20/08 13:44:45
+29487,49,Tauren,Shaman,Feralas,101,03/12/08 00:58:33
+30021,70,Tauren,Druid,Shattrath City,62,03/31/08 22:24:33
+25501,70,Orc,Hunter,Blade's Edge Mountains,174,04/21/08 09:05:05
+21161,67,Tauren,Shaman,Nagrand,282,09/12/08 21:27:41
+25473,70,Undead,Warrior,Karazhan,-1,09/19/08 00:29:30
+23060,70,Undead,Warlock,Nagrand,104,06/11/08 20:47:56
+36929,68,Blood Elf,Rogue,Netherstorm,282,04/27/08 11:07:12
+22785,70,Orc,Warrior,Terokkar Forest,-1,09/10/08 10:16:39
+36545,70,Blood Elf,Rogue,Warsong Gulch,103,01/25/08 23:02:44
+72732,68,Tauren,Druid,Arathi Basin,365,08/25/08 22:26:56
+52988,64,Blood Elf,Hunter,Terokkar Forest,103,01/14/08 23:50:53
+71977,80,Tauren,Druid,Dalaran,161,12/22/08 09:52:49
+51942,70,Blood Elf,Paladin,Orgrimmar,220,03/09/08 01:22:10
+27347,70,Undead,Rogue,The Mechanar,103,08/11/08 22:56:48
+34600,70,Blood Elf,Paladin,Scholomance,62,03/16/08 13:12:10
+23561,70,Tauren,Shaman,Shattrath City,204,01/09/08 01:22:06
+11100,12,Orc,Hunter,Durotar,-1,10/10/08 16:26:04
+22563,70,Tauren,Druid,Terokkar Forest,35,03/26/08 22:09:19
+69126,70,Blood Elf,Paladin,Zul'Gurub,101,11/16/08 20:47:52
+1094,70,Undead,Rogue,Shattrath City,103,04/14/08 07:18:00
+74795,42,Tauren,Shaman,Dustwallow Marsh,-1,08/04/08 20:55:09
+22458,80,Orc,Warrior,Dragonblight,103,12/25/08 20:23:06
+61066,70,Blood Elf,Paladin,Shattrath City,191,06/10/08 21:09:18
+56776,70,Tauren,Druid,Isle of Quel'Danas,250,08/03/08 11:06:53
+36553,45,Blood Elf,Mage,Tanaris,282,03/02/08 00:38:38
+18003,70,Orc,Hunter,Nagrand,161,10/10/08 12:46:23
+14525,70,Orc,Warlock,Isle of Quel'Danas,79,04/11/08 20:06:47
+46903,66,Blood Elf,Mage,Shattrath City,282,07/13/08 11:36:24
+47328,70,Blood Elf,Paladin,Zangarmarsh,35,03/16/08 22:11:53
+22137,70,Troll,Hunter,Shattrath City,174,02/23/08 17:07:34
+22466,70,Orc,Warrior,Shattrath City,101,02/04/08 18:30:23
+5783,70,Tauren,Hunter,Terokkar Forest,178,09/14/08 20:48:44
+60295,14,Tauren,Warrior,The Barrens,-1,03/08/08 20:58:33
+46697,70,Tauren,Shaman,Magisters' Terrace,104,04/15/08 01:17:22
+62763,80,Troll,Rogue,The Nexus,189,12/31/08 18:31:12
+59154,34,Orc,Warrior,Thousand Needles,101,09/11/08 16:28:29
+34386,72,Blood Elf,Paladin,Borean Tundra,9,11/24/08 10:07:20
+87214,74,Blood Elf,Death Knight,Dragonblight,-1,12/07/08 20:53:20
+64828,34,Blood Elf,Paladin,Stranglethorn Vale,53,02/05/08 09:53:28
+67872,80,Blood Elf,Mage,Gundrak,204,12/24/08 21:31:30
+37459,70,Blood Elf,Mage,Karazhan,35,08/09/08 01:11:28
+69300,70,Undead,Warrior,Nagrand,189,11/28/08 21:26:47
+23460,70,Undead,Warlock,Serpentshrine Cavern,204,01/25/08 23:01:27
+178,70,Tauren,Druid,Blade's Edge Arena,9,05/12/08 23:15:44
+29692,70,Undead,Priest,Blade's Edge Mountains,5,01/08/08 21:13:38
+67952,70,Blood Elf,Mage,Magisters' Terrace,104,03/30/08 21:37:00
+72024,70,Blood Elf,Paladin,Warsong Gulch,424,08/16/08 12:52:24
+22476,70,Undead,Mage,Coilfang: The Slave Pens,35,08/30/08 06:50:13
+5464,70,Tauren,Shaman,Orgrimmar,103,07/01/08 21:47:26
+22406,70,Undead,Mage,Orgrimmar,-1,01/15/08 01:59:15
+68109,67,Blood Elf,Priest,Netherstorm,-1,02/25/08 14:39:32
+68025,35,Blood Elf,Hunter,Scarlet Monastery,189,02/17/08 02:45:31
+68729,67,Blood Elf,Mage,Eye of the Storm,343,07/05/08 15:47:08
+65180,70,Tauren,Warrior,Netherstorm,35,04/13/08 12:02:27
+35363,70,Blood Elf,Priest,Magtheridon's Lair,103,01/04/08 23:35:29
+75637,60,Blood Elf,Hunter,Hellfire Peninsula,4,08/12/08 01:28:13
+73773,34,Blood Elf,Hunter,Undercity,251,07/20/08 22:41:31
+42281,60,Blood Elf,Rogue,Hellfire Peninsula,-1,08/07/08 01:18:12
+35367,70,Tauren,Druid,The Mechanar,35,07/12/08 13:23:15
+21878,70,Tauren,Warrior,Zangarmarsh,101,03/11/08 22:58:49
+76848,58,Undead,Warlock,Hellfire Peninsula,282,09/23/08 17:18:32
+31184,70,Undead,Rogue,Karazhan,101,09/14/08 15:29:22
+59386,70,Blood Elf,Hunter,Shattrath City,103,09/01/08 02:33:59
+44963,39,Blood Elf,Hunter,Badlands,-1,01/21/08 17:49:12
+67222,63,Blood Elf,Paladin,Warsong Gulch,307,03/06/08 22:01:53
+59487,23,Undead,Warrior,Ashenvale,5,01/02/08 13:44:24
+73086,29,Blood Elf,Hunter,Hillsbrad Foothills,35,07/14/08 11:25:47
+77224,11,Blood Elf,Hunter,Eversong Woods,-1,08/29/08 13:00:43
+65040,45,Blood Elf,Warlock,Tanaris,412,09/26/08 22:19:59
+67851,70,Undead,Priest,The Blood Furnace,35,04/14/08 22:17:16
+22005,70,Orc,Warrior,Isle of Quel'Danas,282,04/21/08 18:23:35
+52988,70,Blood Elf,Hunter,Karazhan,103,08/13/08 15:28:33
+64511,60,Blood Elf,Mage,Hellfire Peninsula,282,02/10/08 10:45:52
+71832,70,Blood Elf,Priest,Shattrath City,103,10/04/08 17:41:27
+42281,65,Blood Elf,Rogue,Mana-Tombs,-1,08/15/08 23:54:40
+11596,14,Undead,Rogue,Thunder Bluff,-1,02/03/08 15:04:53
+66778,70,Tauren,Druid,Shattrath City,189,06/29/08 15:55:50
+30970,70,Tauren,Warrior,Shattrath City,101,01/02/08 23:03:20
+75706,70,Tauren,Druid,Nagrand Arena,422,10/01/08 22:59:01
+71388,30,Blood Elf,Paladin,Silverpine Forest,358,04/27/08 23:06:49
+66436,38,Blood Elf,Mage,Stranglethorn Vale,189,01/27/08 23:02:28
+230,70,Troll,Warrior,Netherstorm,103,02/06/08 03:01:57
+22330,70,Tauren,Shaman,Onyxia's Lair,104,09/30/08 21:15:39
+58080,70,Blood Elf,Hunter,Shattrath City,101,09/28/08 12:00:39
+36209,70,Blood Elf,Paladin,Blade's Edge Mountains,-1,04/21/08 22:48:16
+70426,70,Orc,Shaman,Nagrand,174,06/04/08 05:16:18
+38766,70,Blood Elf,Priest,Blade's Edge Mountains,204,02/28/08 20:49:41
+582,70,Orc,Warrior,Nagrand,19,01/01/08 23:22:05
+68370,37,Blood Elf,Hunter,Arathi Highlands,-1,02/23/08 10:08:55
+64923,70,Tauren,Druid,Shattrath City,103,03/06/08 17:49:20
+23118,70,Undead,Priest,Shattrath City,204,03/17/08 23:30:51
+29372,1,Orc,Warrior,Durotar,-1,10/08/08 02:06:13
+57946,55,Tauren,Druid,Arathi Highlands,282,03/19/08 00:38:54
+1617,70,Tauren,Warrior,Orgrimmar,243,02/14/08 23:23:23
+53229,70,Blood Elf,Warlock,Silvermoon City,281,03/29/08 21:58:32
+41411,70,Blood Elf,Warlock,Blade's Edge Mountains,-1,02/24/08 15:09:46
+22474,70,Troll,Hunter,Shattrath City,53,04/27/08 22:56:15
+2993,70,Undead,Mage,Hellfire Peninsula,53,01/27/08 15:01:46
+56453,70,Tauren,Warrior,Shattrath City,96,08/01/08 22:32:41
+65300,70,Undead,Warrior,Shattrath City,189,03/31/08 01:06:58
+66887,1,Troll,Shaman,Durotar,-1,07/22/08 15:22:05
+59489,70,Blood Elf,Priest,The Blood Furnace,189,08/21/08 00:09:50
+22061,70,Undead,Warrior,Zangarmarsh,35,03/29/08 11:46:13
+322,70,Undead,Priest,Shattrath City,103,02/21/08 23:23:43
+36437,70,Tauren,Warrior,Karazhan,104,06/07/08 22:57:38
+40998,70,Blood Elf,Hunter,Nagrand,104,01/20/08 04:49:59
+67772,70,Blood Elf,Warlock,Warsong Gulch,189,03/22/08 06:12:32
+28749,80,Troll,Priest,Naxxramas,103,12/25/08 21:24:53
+66367,70,Undead,Mage,Netherstorm,308,03/18/08 20:50:13
+1390,70,Tauren,Druid,Warsong Gulch,79,03/21/08 20:59:37
+980,70,Orc,Hunter,Deadwind Pass,79,01/13/08 17:07:17
+22023,70,Undead,Mage,Hyjal,101,09/02/08 22:30:14
+71857,70,Undead,Warrior,Isle of Quel'Danas,35,07/27/08 12:06:20
+10543,70,Undead,Mage,Shattrath City,9,03/05/08 17:20:34
+45444,70,Troll,Hunter,Orgrimmar,53,01/18/08 11:18:27
+67451,70,Tauren,Warrior,Terokkar Forest,103,07/15/08 20:23:45
+1927,70,Tauren,Warrior,Karazhan,282,02/08/08 01:20:55
+88907,61,Blood Elf,Death Knight,Hellfire Peninsula,103,12/14/08 16:45:17
+45029,80,Blood Elf,Warlock,The Storm Peaks,204,12/28/08 12:09:26
+76665,2,Orc,Hunter,Durotar,-1,08/16/08 22:28:55
+36268,70,Blood Elf,Hunter,Zul'Farrak,103,03/29/08 17:47:35
+18065,70,Undead,Warlock,Shattrath City,103,03/30/08 17:55:27
+52362,72,Blood Elf,Priest,Dragonblight,104,11/27/08 00:06:34
+22299,70,Undead,Mage,Hyjal,103,05/09/08 21:27:38
+22137,70,Troll,Hunter,Arathi Highlands,174,06/28/08 00:32:59
+69080,70,Tauren,Druid,The Mechanar,189,08/02/08 00:12:12
+50046,70,Blood Elf,Paladin,Orgrimmar,103,10/24/08 18:58:24
+28412,70,Undead,Warrior,Shattrath City,-1,01/13/08 12:35:35
+25300,70,Tauren,Shaman,Warsong Gulch,216,01/14/08 10:28:33
+25725,70,Tauren,Druid,Shattrath City,101,05/31/08 16:24:00
+74409,70,Blood Elf,Paladin,Shattrath City,103,10/23/08 01:09:20
+68587,80,Undead,Mage,Utgarde Pinnacle,161,12/24/08 20:40:22
+14788,70,Tauren,Warrior,Hyjal,103,03/10/08 22:19:01
+68326,58,Blood Elf,Priest,Hellfire Peninsula,327,05/25/08 12:36:41
+52103,70,Blood Elf,Hunter,The Black Morass,53,01/13/08 14:36:43
+73174,49,Tauren,Warrior,Feralas,-1,07/13/08 19:43:44
+21934,63,Orc,Warrior,Zangarmarsh,-1,02/28/08 22:05:31
+21928,70,Undead,Warlock,Mana-Tombs,5,01/05/08 16:43:24
+21965,70,Troll,Shaman,Eye of the Storm,101,08/25/08 02:28:03
+4629,31,Tauren,Shaman,Hillsbrad Foothills,186,06/11/08 23:46:29
+5247,70,Undead,Mage,Orgrimmar,53,05/26/08 02:38:37
+19333,70,Tauren,Shaman,Magisters' Terrace,189,10/10/08 16:27:11
+52988,70,Blood Elf,Hunter,Netherstorm,103,02/02/08 23:36:57
+2058,70,Undead,Warlock,Blade's Edge Mountains,19,01/10/08 18:52:37
+71624,14,Troll,Shaman,Silvermoon City,-1,05/07/08 00:16:35
+61239,70,Orc,Hunter,Terokkar Forest,104,06/11/08 19:55:39
+22419,70,Undead,Rogue,Shattrath City,101,01/01/08 18:34:56
+87493,65,Blood Elf,Death Knight,Silvermoon City,380,12/10/08 11:01:53
+37460,70,Tauren,Druid,Alterac Valley,53,10/18/08 23:56:26
+32726,74,Tauren,Druid,Grizzly Hills,103,11/27/08 00:34:07
+51735,70,Blood Elf,Paladin,Karazhan,53,03/07/08 23:22:09
+45910,70,Blood Elf,Paladin,Nagrand,103,03/18/08 18:02:10
+86265,80,Orc,Death Knight,Borean Tundra,204,11/26/08 08:20:54
+752,70,Undead,Mage,The Arcatraz,103,02/25/08 23:08:09
+22746,70,Undead,Mage,Shattrath City,189,01/21/08 02:28:33
+4006,62,Tauren,Hunter,Hellfire Peninsula,365,07/14/08 07:44:16
+72882,16,Troll,Mage,The Barrens,365,06/10/08 01:27:17
+63223,30,Blood Elf,Rogue,Undercity,35,08/06/08 20:08:22
+35655,70,Blood Elf,Paladin,Shattrath City,259,06/25/08 06:43:33
+67578,70,Undead,Warrior,The Mechanar,101,10/21/08 19:57:38
+443,72,Undead,Warlock,Borean Tundra,62,11/22/08 02:14:57
+24721,70,Undead,Priest,Isle of Quel'Danas,103,10/12/08 13:08:40
+48520,70,Undead,Mage,Stranglethorn Vale,103,10/19/08 23:37:39
+66433,70,Blood Elf,Mage,Terokkar Forest,189,06/28/08 17:37:47
+51361,70,Tauren,Druid,Orgrimmar,266,07/20/08 15:10:00
+59615,70,Orc,Warrior,Auchindoun: Shadow Labyrinth,104,01/15/08 10:07:36
+34,80,Orc,Warrior,The Nexus,161,12/23/08 21:24:15
+34893,70,Blood Elf,Death Knight,Howling Fjord,189,12/03/08 22:11:52
+40000,1,Tauren,Druid,Thunder Bluff,-1,06/23/08 19:37:00
+28881,70,Undead,Mage,Magisters' Terrace,-1,07/14/08 23:15:09
+34962,70,Blood Elf,Warlock,Coilfang: The Slave Pens,271,06/27/08 23:05:54
+46803,70,Blood Elf,Priest,Hyjal,101,08/07/08 21:38:48
+75895,63,Undead,Priest,Zangarmarsh,79,10/21/08 19:57:02
+22591,70,Orc,Shaman,Warsong Gulch,101,05/11/08 21:59:01
+5554,70,Undead,Rogue,The Mechanar,19,01/03/08 14:34:21
+89159,10,Blood Elf,Mage,Eversong Woods,-1,12/08/08 19:16:41
+37759,70,Tauren,Druid,Gruul's Lair,35,02/29/08 23:06:59
+17684,75,Tauren,Warrior,Dragonblight,205,12/15/08 17:01:42
+57997,70,Blood Elf,Warlock,Orgrimmar,282,03/13/08 18:52:14
+35764,65,Blood Elf,Mage,Terokkar Forest,189,02/12/08 20:36:04
+34375,70,Blood Elf,Warlock,Scarlet Monastery,103,07/07/08 01:50:37
+63423,69,Troll,Priest,Shadowmoon Valley,293,03/08/08 18:09:51
+67451,70,Tauren,Warrior,Blade's Edge Mountains,103,09/19/08 23:57:30
+65681,48,Blood Elf,Rogue,Felwood,35,01/25/08 12:22:39
+21480,70,Undead,Warlock,Nagrand Arena,205,07/23/08 16:02:09

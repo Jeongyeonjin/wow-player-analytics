@@ -1,0 +1,64 @@
+﻿date,weekday,metric,z,direction,dau,new_chars,gone_chars,obs_hours,explained_by,explained
+2008-01-01,Tue,DAU,11.3,spike,2512.0,2512.0,67.0,24,,False
+2008-01-10,Thu,DAU,-7.8,drop,1953.0,116.0,35.0,14,partial collection (14h); outage/maintenance day,True
+2008-01-24,Thu,DAU,-19.5,drop,1589.0,56.0,26.0,7,partial collection (7h); outage/maintenance day,True
+2008-02-07,Thu,DAU,-6.4,drop,1960.0,100.0,57.0,16,partial collection (16h); outage/maintenance day; Lunar New Year holidays start,True
+2008-02-09,Sat,DAU,-7.3,drop,2156.0,124.0,68.0,24,Lunar New Year holidays start; Lunar New Year holidays end,True
+2008-02-10,Sun,DAU,-6.0,drop,2313.0,94.0,70.0,24,Lunar New Year holidays end,True
+2008-02-11,Mon,DAU,5.1,spike,2461.0,144.0,91.0,24,Lunar New Year holidays end,True
+2008-02-14,Thu,DAU,-5.0,drop,2070.0,84.0,53.0,15,partial collection (15h); outage/maintenance day; Lunar New Year holidays end,True
+2008-03-02,Sun,DAU,-6.8,drop,2365.0,79.0,66.0,19,partial collection (19h); outage/maintenance day,True
+2008-03-20,Thu,DAU,-5.3,drop,2046.0,52.0,54.0,16,partial collection (16h); outage/maintenance day,True
+2008-03-27,Thu,DAU,-39.0,drop,723.0,11.0,12.0,3,"partial collection (3h); outage/maintenance day; Patch 2.4 (Fury of the Sunwell, local)",True
+2008-03-28,Fri,DAU,-11.0,drop,1743.0,60.0,43.0,13,"partial collection (13h); outage/maintenance day; Patch 2.4 (Fury of the Sunwell, local)",True
+2008-04-03,Thu,DAU,-37.0,drop,737.0,7.0,13.0,2,partial collection (2h); outage/maintenance day; adjacent to missing day,True
+2008-04-07,Mon,DAU,-8.0,drop,1773.0,88.0,38.0,14,partial collection (14h); outage/maintenance day; adjacent to missing day,True
+2008-04-30,Wed,DAU,-19.4,drop,1341.0,35.0,53.0,18,partial collection (18h); outage/maintenance day; adjacent to missing day,True
+2008-05-06,Tue,DAU,-14.7,drop,1507.0,65.0,23.0,8,partial collection (8h); outage/maintenance day; adjacent to missing day,True
+2008-05-08,Thu,DAU,-5.1,drop,1842.0,54.0,33.0,14,partial collection (14h); outage/maintenance day,True
+2008-05-15,Thu,DAU,-5.9,drop,1815.0,34.0,47.0,15,partial collection (15h); outage/maintenance day,True
+2008-05-16,Fri,DAU,-18.1,drop,1357.0,27.0,29.0,18,partial collection (18h); outage/maintenance day; adjacent to missing day,True
+2008-05-19,Mon,DAU,-8.4,drop,1693.0,71.0,43.0,14,partial collection (14h); outage/maintenance day; adjacent to missing day,True
+2008-06-13,Fri,DAU,-32.8,drop,672.0,6.0,13.0,5,partial collection (5h); outage/maintenance day; adjacent to missing day,True
+2008-06-19,Thu,DAU,-5.0,drop,1721.0,44.0,30.0,15,partial collection (15h); outage/maintenance day,True
+2008-06-22,Sun,DAU,-31.3,drop,866.0,18.0,24.0,5,partial collection (5h); outage/maintenance day,True
+2008-06-23,Mon,DAU,-17.8,drop,1249.0,52.0,21.0,6,partial collection (6h); outage/maintenance day,True
+2008-07-24,Thu,DAU,-5.3,drop,1641.0,42.0,38.0,16,partial collection (16h); outage/maintenance day,True
+2008-08-14,Thu,DAU,-5.1,drop,1564.0,38.0,61.0,14,partial collection (14h); outage/maintenance day,True
+2008-09-18,Thu,DAU,-5.8,drop,1489.0,36.0,45.0,16,partial collection (16h); outage/maintenance day,True
+2008-09-25,Thu,DAU,-5.1,drop,1487.0,29.0,39.0,16,partial collection (16h); outage/maintenance day,True
+2008-09-29,Mon,DAU,8.0,spike,2077.0,79.0,110.0,24,,False
+2008-10-04,Sat,DAU,-6.6,drop,1787.0,45.0,93.0,24,,False
+2008-10-05,Sun,DAU,-12.1,drop,1783.0,45.0,87.0,22,outage/maintenance day,True
+2008-10-06,Mon,DAU,-8.3,drop,1586.0,43.0,79.0,24,,False
+2008-10-08,Wed,DAU,38.9,spike,3159.0,1521.0,1204.0,24,,False
+2008-10-08,Wed,gone_chars,50.4,spike,3159.0,1521.0,1204.0,24,,False
+2008-10-08,Wed,new_chars,59.7,spike,3159.0,1521.0,1204.0,24,,False
+2008-10-09,Thu,DAU,16.9,spike,2446.0,832.0,782.0,16,partial collection (16h); outage/maintenance day,True
+2008-10-09,Thu,gone_chars,28.2,spike,2446.0,832.0,782.0,16,partial collection (16h); outage/maintenance day,True
+2008-10-09,Thu,new_chars,28.5,spike,2446.0,832.0,782.0,16,partial collection (16h); outage/maintenance day,True
+2008-10-10,Fri,DAU,14.8,spike,2315.0,431.0,490.0,24,,False
+2008-10-10,Fri,gone_chars,13.0,spike,2315.0,431.0,490.0,24,,False
+2008-10-10,Fri,new_chars,10.3,spike,2315.0,431.0,490.0,24,,False
+2008-10-11,Sat,DAU,-14.2,drop,1607.0,193.0,239.0,18,partial collection (18h); outage/maintenance day; Patch 3.0.2 (WotLK pre-patch),True
+2008-10-12,Sun,gone_chars,19.1,spike,2408.0,583.0,608.0,24,Patch 3.0.2 (WotLK pre-patch),True
+2008-10-12,Sun,new_chars,17.1,spike,2408.0,583.0,608.0,24,Patch 3.0.2 (WotLK pre-patch),True
+2008-10-13,Mon,gone_chars,11.8,spike,2028.0,492.0,467.0,24,Patch 3.0.2 (WotLK pre-patch),True
+2008-10-13,Mon,new_chars,13.0,spike,2028.0,492.0,467.0,24,Patch 3.0.2 (WotLK pre-patch),True
+2008-10-18,Sat,DAU,-6.7,drop,1870.0,155.0,200.0,24,,False
+2008-10-19,Sun,DAU,-8.4,drop,1888.0,127.0,191.0,24,,False
+2008-10-20,Mon,DAU,-7.5,drop,1585.0,125.0,167.0,24,,False
+2008-10-23,Thu,DAU,-17.7,drop,1078.0,106.0,158.0,9,partial collection (9h); outage/maintenance day,True
+2008-10-24,Fri,DAU,8.0,spike,1970.0,118.0,220.0,24,,False
+2008-11-06,Thu,DAU,-6.0,drop,1366.0,32.0,56.0,12,partial collection (12h); outage/maintenance day,True
+2008-11-16,Sun,gone_chars,5.5,spike,1933.0,137.0,255.0,24,WotLK release,True
+2008-11-18,Tue,DAU,-30.3,drop,569.0,16.0,56.0,4,partial collection (4h); outage/maintenance day,True
+2008-11-18,Tue,gone_chars,-5.7,drop,569.0,16.0,56.0,4,partial collection (4h); outage/maintenance day,True
+2008-11-18,Tue,new_chars,-5.4,drop,569.0,16.0,56.0,4,partial collection (4h); outage/maintenance day,True
+2008-11-19,Wed,new_chars,15.9,spike,1558.0,491.0,149.0,11,partial collection (11h); outage/maintenance day,True
+2008-11-23,Sun,DAU,11.8,spike,2507.0,296.0,419.0,24,,False
+2008-11-23,Sun,gone_chars,12.6,spike,2507.0,296.0,419.0,24,,False
+2008-11-23,Sun,new_chars,6.5,spike,2507.0,296.0,419.0,24,,False
+2008-11-27,Thu,DAU,-9.0,drop,1492.0,89.0,82.0,13,partial collection (13h); outage/maintenance day,True
+2008-11-29,Sat,gone_chars,7.2,spike,2160.0,215.0,294.0,22,,False
+2008-12-07,Sun,gone_chars,5.8,spike,2186.0,120.0,261.0,24,,False
